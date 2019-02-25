@@ -48,8 +48,8 @@ def plot_confusion_matrix(cm, classes,
     plt.xlabel('Predicted label')
     plt.savefig('IOB-Confusion-Matrix-SVM.png')
 
-
-df = pd.read_csv('Features.csv',header=None,nrows=50000)
+df = pd.read_csv('wikiGoldFeatures.csv',header=None)
+#df = pd.read_csv('Features.csv',header=None,nrows=50000)
 le = LabelEncoder()
 
 categories = ['LOC','MISC', 'ORG']
@@ -97,7 +97,7 @@ print("NAIVE BAYES Accuracy:",metrics.accuracy_score(y_test, y_pred))
 
 svmm = SVC(gamma='auto',random_state=100)
 svmm.fit(x_train,y_train)
-pickle.dump(svmm,open('SVMModel.sav','wb'))
+#pickle.dump(svmm,open('SVMModel.sav','wb'))
 y_pred2 = svmm.predict(x_test)
 #pickle.dump(svmm, 'svmmodel.sav')
 #'''

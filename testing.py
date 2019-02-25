@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 import csv
+from sklearn.feature_extraction.text import CountVectorizer
 
 def StringCaseStatus(sent):
     sent = str(sent)
@@ -19,25 +20,62 @@ def StringCaseStatus(sent):
     else:
         return 0
 
-df = pd.read_csv('wikigoldPOS.csv')
+file = pd.read_csv('wikigoldPOS.csv', header=None, chunksize=1000)
+corpus = ''
+slist = []
+print('Data collection..')
+for chunk in file:
+    list = chunk.values.tolist()
+    tempString = ''
+    for st in list:
+        #print(st[1])
+        if str(st[1]) != '.' or str(st[1]) == ' ':
+            tempString = tempString + ' ' + str(st[1]).lower()
+        else:
+            slist.append(tempString)
+            tempString = ''
+vec = CountVectorizer()
+print('Count Vector Fitting..')
+print(slist)
+x = vec.fit_transform(slist)
+print(type(x))
+print(vec.get_feature_names())
+#print(vec.vocabulary_.get('daniel')/len(vec.get_feature_names()))
+CorpusSize = len(vec.get_feature_names())
+
+print('Iterating again..')
+df = pd.read_csv('wikigoldPOS.csv',header=None, chunksize=1000)
 previousWordPOS = ''
 IsFirstUpperCase = False
-WordEnding = ['.','\n','\n\r' ]
+previousPOS = ''
+PrevIOB = ''
+WordEnding = ['.','\n','\n\r',' ' ]
 IsPreviousUpperCase = False
 previousWord = ''
-df = pd.DataFrame(columns=['word','pos','prevPOS','PrevWord','iob','VectorCount','PrevIOB','CaseStatus'])
+df2 = pd.DataFrame(columns=['word','pos','prevPOS','PrevWord','iob','Vector','PrevIOB','CaseStatus'])
 seq = 1
-for i in df:
-    CaseStatus = 0
-    word = i[1]
-    iob = splittedword[1]
-    EndOfStringBefore = previousWord in WordEnding
-    if EndOfStringBefore == False:
-        CaseStatus = StringCaseStatus(word)
-    df.loc[seq]=[word,CaseStatus,previousWordPOS,previousWord,iob,0]
-    previousWord = word
-    IsPreviousUpperCase = CaseStatus
-#tagged_tokens = nltk.pos_tag(word_list)
+for chunk in df:
+    list = chunk.values.tolist()
+    tempString = ''
+    for i in list:
+        TFWeight = 0
+        word = i[1]
+        if vec.vocabulary_.get(word.lower()) != None:
+            TFWeight = vec.vocabulary_.get(word.lower())
+            TFWeight = int(TFWeight) / int(CorpusSize)
+        CaseStatus = 0
+        pos = i[2]
+        iob = i[3]
+        EndOfStringBefore = previousWord in WordEnding
+        if EndOfStringBefore == False:
+            CaseStatus = StringCaseStatus(word)
+        df2.loc[seq]=[word,pos,previousPOS,previousWord,iob,TFWeight,PrevIOB,CaseStatus]
+        previousWord = word
+        previousPOS = pos
+        PrevIOB = iob
+        IsPreviousUpperCase = CaseStatus
+        seq += 1
+    #tagged_tokens = nltk.pos_tag(word_list)
 '''
 with open('TestDS.csv', mode='w') as csvfile:
     if seq % 10000 == 0:
@@ -47,5 +85,4 @@ with open('TestDS.csv', mode='w') as csvfile:
         # break
         seq = seq + 1
 '''
-print(df)
-
+df2.to_csv('wikiGoldFeatures.csv')
