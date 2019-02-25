@@ -13,7 +13,6 @@ Mad I-ORG
 Capsule I-ORG
 Markets I-ORG
 . O
-
 This O
 album O
 proved O
@@ -37,7 +36,6 @@ Introduction I-MISC
 and O
 Come I-MISC
 . O
-
 Founding O
 member O
 Kojima I-PER
@@ -63,7 +61,6 @@ band O
 Killing I-ORG
 Joke I-ORG
 . O
-
 XXX I-MISC
 can I-MISC
 of I-MISC
@@ -85,7 +82,6 @@ song O
 was O
 about O
 . O
-
 it O
 was O
 later O
@@ -128,7 +124,6 @@ P.O.P I-MISC
 and O
 HUMANITY I-MISC
 . O
-
 UK I-LOC
 Edition O
 came O
@@ -145,9 +140,7 @@ tracks O
 were O
 re-engineered O
 . O
-
--DOCSTART- O
-
+. O
 The O
 139th I-ORG
 was O
@@ -165,7 +158,6 @@ September O
 , O
 1862 O
 . O
-
 Frederick I-PER
 H. I-PER
 Collier I-PER
@@ -174,7 +166,6 @@ the O
 first O
 colonel O
 . O
-
 After O
 burying O
 the O
@@ -230,7 +221,6 @@ September O
 , O
 1862 O
 . O
-
 The O
 composition O
 of O
@@ -262,7 +252,6 @@ the O
 102d I-ORG
 PVI I-ORG
 . O
-
 During O
 this O
 time O
@@ -285,7 +274,6 @@ on O
 the O
 Potomac I-LOC
 . O
-
 The O
 139th I-ORG
 along O
@@ -339,7 +327,6 @@ any O
 significant O
 combat O
 . O
-
 The O
 next O
 day O
@@ -358,7 +345,6 @@ skirmish O
 at O
 Williamsport I-LOC
 . O
-
 The O
 139th I-ORG
 was O
@@ -371,7 +357,6 @@ the O
 VI I-ORG
 Corps I-ORG
 . O
-
 In O
 the O
 Battle I-MISC
@@ -395,7 +380,6 @@ chance O
 to O
 fight O
 . O
-
 Five O
 months O
 later O
@@ -412,7 +396,6 @@ Battle I-MISC
 of I-MISC
 Fredericksburg I-MISC
 . O
-
 At O
 the O
 Battle I-MISC
@@ -432,7 +415,6 @@ the O
 Union I-ORG
 army O
 . O
-
 Throughout O
 the O
 spring O
@@ -461,7 +443,6 @@ Siege I-MISC
 of I-MISC
 Petersburg I-MISC
 . O
-
 In O
 July O
 , O
@@ -491,7 +472,6 @@ on O
 the O
 city O
 . O
-
 Then O
 they O
 fought O
@@ -512,7 +492,6 @@ would O
 invade O
 again O
 . O
-
 ( O
 See O
 the O
@@ -522,7 +501,6 @@ the O
 campaign O
 ) O
 . O
-
 By O
 December O
 1864 O
@@ -537,7 +515,6 @@ lines O
 of O
 Petersburg I-LOC
 . O
-
 The O
 139th I-ORG
 supported O
@@ -556,7 +533,6 @@ Sayler I-MISC
 's I-MISC
 Creek I-MISC
 . O
-
 After O
 the O
 surrender O
@@ -588,7 +564,6 @@ further O
 support O
 unnecessary O
 . O
-
 The O
 regiment O
 was O
@@ -599,9 +574,7 @@ June O
 , O
 1865 O
 . O
-
--DOCSTART- O
-
+. O
 The O
 1896 O
 Atlantic I-LOC
@@ -644,7 +617,6 @@ injuring O
 approximately O
 60 O
 . O
-
 A O
 train O
 consisting O
@@ -699,7 +671,6 @@ train O
 from O
 Philadelphia I-LOC
 . O
-
 Two O
 cars O
 were O
@@ -712,7 +683,6 @@ cars O
 were O
 telescoped O
 . O
-
 The O
 engine O
 of O
@@ -732,7 +702,6 @@ fireman O
 fatally O
 injured O
 . O
-
 The O
 car O
 behind O
@@ -752,7 +721,6 @@ killed O
 or O
 injured O
 . O
-
 In O
 1896 O
 , O
@@ -799,7 +767,6 @@ an O
 oblique O
 angle O
 . O
-
 John I-PER
 Greiner I-PER
 , O
@@ -840,7 +807,6 @@ way O
 he O
 continued O
 . O
-
 His O
 engine O
 had O
@@ -888,7 +854,6 @@ completely O
 submerging O
 it O
 . O
-
 The O
 second O
 car O
@@ -912,7 +877,6 @@ cars O
 being O
 telescoped O
 . O
-
 The O
 engine O
 of O
@@ -936,7 +900,6 @@ the O
 first O
 coach O
 . O
-
 A O
 few O
 minutes O
@@ -967,7 +930,6 @@ the O
 injured O
 passengers O
 . O
-
 As O
 soon O
 as O
@@ -989,7 +951,6 @@ to O
 the O
 scene O
 . O
-
 The O
 road O
 leading O
@@ -1034,7 +995,6 @@ satisfy O
 their O
 curiosity O
 . O
-
 Darkness O
 fell O
 quickly O
@@ -1063,7 +1023,6 @@ of O
 huge O
 bonfires O
 . O
-
 As O
 onlookers O
 watched O
@@ -1113,7 +1072,6 @@ from O
 the O
 passengers O
 . O
-
 The O
 wounded O
 were O
@@ -1142,7 +1100,6 @@ after O
 their O
 arrival O
 . O
-
 Two O
 others O
 died O
@@ -1160,7 +1117,6 @@ the O
 collision O
 scene O
 . O
-
 The O
 old O
 Excursion I-LOC
@@ -1184,7 +1140,6 @@ were O
 taken O
 there O
 . O
-
 During O
 the O
 first O
@@ -1231,7 +1186,6 @@ the O
 latest O
 news O
 . O
-
 The O
 Bridgeton I-LOC
 and O
@@ -1260,7 +1214,6 @@ in O
 the O
 evening O
 . O
-
 James I-PER
 W. I-PER
 Hoyt I-PER
@@ -1314,7 +1267,6 @@ at O
 10:45 O
 pm O
 . O
-
 These O
 surgeons O
 materially O
@@ -1338,7 +1290,6 @@ in O
 the O
 city O
 . O
-
 Many O
 of O
 the O
@@ -1356,7 +1307,6 @@ soon O
 became O
 overcrowded O
 . O
-
 About O
 thirty O
 of O
@@ -1375,7 +1325,6 @@ on O
 their O
 way O
 . O
-
 The O
 wife O
 of O
@@ -1434,7 +1383,6 @@ the O
 floor O
 dead O
 . O
-
 County O
 Coroner O
 William I-PER
@@ -1452,7 +1400,6 @@ to O
 the O
 scene O
 . O
-
 He O
 went O
 directly O
@@ -1503,7 +1450,6 @@ West I-LOC
 Jersey I-LOC
 train O
 . O
-
 ( O
 The O
 signalling O
@@ -1519,7 +1465,6 @@ system O
 was O
 used O
 . O
-
 There O
 were O
 three O
@@ -1541,7 +1486,6 @@ the O
 West I-LOC
 Jersey I-LOC
 . O
-
 The O
 pole O
 furthest O
@@ -1558,7 +1502,6 @@ about O
 2,000 O
 yards O
 . O
-
 The O
 other O
 two O
@@ -1566,7 +1509,6 @@ were O
 much O
 closer O
 . O
-
 When O
 the O
 operator O
@@ -1600,7 +1542,6 @@ vice O
 versa O
 . O
 ) O
-
 Before O
 Hauser I-PER
 could O
@@ -1623,7 +1564,6 @@ to O
 say O
 nothing O
 . O
-
 He O
 obeyed O
 , O
@@ -1633,7 +1573,6 @@ no O
 further O
 explanation O
 . O
-
 Pending O
 an O
 investigation O
@@ -1654,7 +1593,6 @@ on O
 $500 O
 bond O
 . O
-
 A O
 jury O
 was O
@@ -1663,7 +1601,6 @@ the O
 following O
 day O
 . O
-
 Testimony O
 on O
 August O
@@ -1681,7 +1618,6 @@ engineer O
 Edward I-PER
 Farr I-PER
 . O
-
 His O
 action O
 in O
@@ -1707,7 +1643,6 @@ at O
 the O
 inquest O
 . O
-
 His O
 reputation O
 was O
@@ -1734,7 +1669,6 @@ or O
 careless O
 disposition O
 . O
-
 Only O
 two O
 weeks O
@@ -1762,7 +1696,6 @@ train O
 under O
 control O
 . O
-
 The O
 coroner O
 's O
@@ -1773,7 +1706,6 @@ on O
 August O
 7 O
 . O
-
 Six O
 jurors O
 merely O
@@ -1786,7 +1718,6 @@ passengers O
 ' O
 deaths O
 . O
-
 Three O
 found O
 that O
@@ -1795,7 +1726,6 @@ Engineer O
 Edward I-PER
 D I-PER
 . O
-
 Farr I-PER
 of O
 the O
@@ -1873,7 +1803,6 @@ fast O
 express O
 . O
 " O
-
 Three O
 others O
 found O
@@ -1957,9 +1886,7 @@ No O
 700 O
 . O
 " O
-
--DOCSTART- O
-
+. O
 The O
 2007 O
 Bowling I-ORG
@@ -1979,7 +1906,6 @@ NCAA I-ORG
 football O
 season O
 . O
-
 The O
 team O
 was O
@@ -2002,7 +1928,6 @@ Green I-LOC
 , O
 Ohio I-LOC
 . O
-
 It O
 was O
 the O
@@ -2014,7 +1939,6 @@ for O
 the O
 Falcons I-ORG
 . O
-
 Bowling I-ORG
 Green I-ORG
 finished O
@@ -2031,7 +1955,6 @@ the O
 MAC I-ORG
 East I-ORG
 . O
-
 They O
 participated O
 in O
@@ -2044,7 +1967,6 @@ to O
 Tulsa I-ORG
 63-7 O
 . O
-
 Bowling I-ORG
 Green I-ORG
 was O
@@ -2064,7 +1986,6 @@ News I-ORG
 Media I-ORG
 Association I-ORG
 . O
-
 Three O
 Falcons I-ORG
 , O
@@ -2090,7 +2011,6 @@ All-MAC I-ORG
 preseason O
 teams O
 . O
-
 The O
 2007 O
 Bowling I-ORG
@@ -2104,7 +2024,6 @@ of O
 total O
 players O
 . O
-
 The O
 class O
 breakdown O
@@ -2130,7 +2049,6 @@ and O
 true O
 freshman O
 . O
-
 Returning O
 starters O
 from O
@@ -2146,7 +2064,6 @@ eight O
 defensive O
 starters O
 . O
-
 Overall O
 , O
 53 O
@@ -2172,7 +2089,6 @@ special O
 teams O
 ) O
 . O
-
 As O
 the O
 2007 O
@@ -2196,7 +2112,6 @@ various O
 post-season O
 awards O
 . O
-
 Kory I-PER
 Lichtensteiger I-PER
 was O
@@ -2216,7 +2131,6 @@ nation O
 best O
 center O
 . O
-
 He O
 was O
 one O
@@ -2225,7 +2139,6 @@ of O
 athletes O
 recognized O
 . O
-
 Bowling I-ORG
 Green I-ORG
 also O
@@ -2248,9 +2161,7 @@ the O
 MAC I-ORG
 ) O
 . O
-
--DOCSTART- O
-
+. O
 30 I-ORG
 Seconds I-ORG
 to I-ORG
@@ -2283,7 +2194,6 @@ Leto I-PER
 Tomo I-PER
 Milicevic I-PER
 . O
-
 Created O
 in O
 1998 O
@@ -2307,7 +2217,6 @@ small O
 family O
 project O
 . O
-
 Things O
 began O
 to O
@@ -2328,7 +2237,6 @@ and O
 keyboard O
 player O
 . O
-
 After O
 working O
 with O
@@ -2377,7 +2285,6 @@ band O
 's O
 roster O
 . O
-
 According O
 to O
 an O
@@ -2390,7 +2297,6 @@ the O
 band O
 's O
 name O
-
 30 I-ORG
 Seconds I-ORG
 to I-ORG
@@ -2421,7 +2327,6 @@ just O
 over O
 100,000 O
 . O
-
 Their O
 sophomore O
 album O
@@ -2438,7 +2343,6 @@ August O
 , O
 2005 O
 . O
-
 For O
 this O
 effort O
@@ -2472,7 +2376,6 @@ Jared I-PER
 film O
 career O
 . O
-
 The O
 album O
 was O
@@ -2495,7 +2398,6 @@ and O
 Linkin I-ORG
 Park I-ORG
 . O
-
 Because O
 A I-MISC
 Beautiful I-MISC
@@ -2556,7 +2458,6 @@ Björkband I-ORG
 song O
 ) O
 . O
-
 To O
 further O
 promote O
@@ -2596,7 +2497,6 @@ with O
 backstage O
 access O
 . O
-
 On O
 August O
 31 O
@@ -2627,7 +2527,6 @@ their O
 two O
 nominations O
 . O
-
 The O
 second O
 nomination O
@@ -2649,7 +2548,6 @@ Miss I-MISC
 Murder I-MISC
 " O
 . O
-
 In O
 the O
 video O
@@ -2663,7 +2561,6 @@ from O
 The I-MISC
 Shining I-MISC
 . O
-
 A I-MISC
 Beautiful I-MISC
 Lie I-MISC
@@ -2682,7 +2579,6 @@ over O
 1,000,000 O
 albums O
 . O
-
 In O
 October O
 , O
@@ -2702,7 +2598,6 @@ sponsored O
 by O
 MTV2 I-ORG
 . O
-
 They O
 were O
 supported O
@@ -2731,7 +2626,6 @@ Street I-ORG
 Drum I-ORG
 Corps I-ORG
 . O
-
 The O
 tour O
 was O
@@ -2749,7 +2643,6 @@ then-bassist O
 Matt I-PER
 Wachter I-PER
 . O
-
 " O
 Jared I-PER
 and O
@@ -2780,7 +2673,6 @@ we O
 leave O
 behind O
 . O
-
 We O
 fueled O
 the O
@@ -2793,7 +2685,6 @@ oil O
 he O
 explains O
 . O
-
 On O
 November O
 20 O
@@ -2829,7 +2720,6 @@ Republic I-LOC
 of I-LOC
 China I-LOC
 . O
-
 The O
 music O
 video O
@@ -2843,7 +2733,6 @@ The I-MISC
 Last I-MISC
 Emperor I-MISC
 . O
-
 On O
 April O
 29 O
@@ -2889,7 +2778,6 @@ The I-MISC
 Kill I-MISC
 " O
 . O
-
 As O
 of O
 Spring O
@@ -2925,7 +2813,6 @@ supporting O
 Linkin I-ORG
 Park I-ORG
 . O
-
 They O
 are O
 also O
@@ -2948,7 +2835,6 @@ Festival I-MISC
 and O
 Download I-MISC
 . O
-
 Following O
 other O
 commitments O
@@ -2962,7 +2848,6 @@ their O
 third O
 album O
 . O
-
 Following O
 the O
 release O
@@ -2995,7 +2880,6 @@ A I-MISC
 Beautiful I-MISC
 Lie I-MISC
 . O
-
 The O
 choices O
 available O
@@ -3021,7 +2905,6 @@ The I-MISC
 Story I-MISC
 " O
 . O
-
 Another O
 vote O
 was O
@@ -3044,7 +2927,6 @@ The I-MISC
 Fantasy I-MISC
 " O
 . O
-
 On O
 May O
 2 O
@@ -3069,7 +2951,6 @@ the O
 next O
 single O
 . O
-
 On O
 August O
 8th O
@@ -3094,7 +2975,6 @@ of O
 the O
 Kerrang I-ORG
 ! I-ORG
-
 Awards O
 2007 O
 - O
@@ -3108,7 +2988,6 @@ Single O
 The I-MISC
 Kill I-MISC
 . O
-
 On O
 August O
 24th O
@@ -3130,7 +3009,6 @@ was O
 The I-MISC
 Kill I-MISC
 . O
-
 The O
 other O
 award O
@@ -3140,7 +3018,6 @@ to O
 Madina I-ORG
 Lake I-ORG
 . O
-
 On O
 November O
 1 O
@@ -3171,7 +3048,6 @@ were O
 nominated O
 in O
 . O
-
 On O
 December O
 21st O
@@ -3190,7 +3066,6 @@ of I-MISC
 2007 I-MISC
 Award I-MISC
 . O
-
 They O
 beat O
 out O
@@ -3203,7 +3078,6 @@ over O
 million O
 votes O
 . O
-
 31 O
 other O
 bands O
@@ -3229,7 +3103,6 @@ in O
 the O
 contest O
 . O
-
 The O
 band O
 's O
@@ -3258,7 +3131,6 @@ band O
 's O
 motto O
 . O
-
 Roughly O
 translated O
 from O
@@ -3293,7 +3165,6 @@ ness O
 ) O
 " O
 . O
-
 The O
 logo O
 was O
@@ -3333,7 +3204,6 @@ name O
 and O
 motto O
 . O
-
 The O
 Echelon I-ORG
 is O
@@ -3393,7 +3263,6 @@ to O
 the O
 band O
 . O
-
 It O
 is O
 also O
@@ -3412,7 +3281,6 @@ Seconds I-MISC
 to I-MISC
 Mars I-MISC
 . O
-
 The O
 band O
 made O
@@ -3428,7 +3296,6 @@ A I-MISC
 Beautiful I-MISC
 Lie I-MISC
 . O
-
 Some O
 of O
 the O
@@ -3453,7 +3320,6 @@ Dream I-MISC
 Acoustic O
 ) O
 . O
-
 In O
 addition O
 to O
@@ -3477,7 +3343,6 @@ few O
 other O
 tracks O
 . O
-
 Among O
 these O
 tracks O
@@ -3504,7 +3369,6 @@ an O
 early O
 demo O
 . O
-
 " O
 Phase I-MISC
 1 I-MISC
@@ -3528,7 +3392,6 @@ Name I-MISC
 ) I-MISC
 " O
 . O
-
 Another O
 track O
 featured O
@@ -3560,7 +3423,6 @@ their O
 self-titled O
 debut O
 . O
-
 " O
 Revolution I-MISC
 " O
@@ -3609,7 +3471,6 @@ September I-MISC
 2001 I-MISC
 attacks O
 . O
-
 " O
 Occam I-MISC
 's I-MISC
@@ -3631,7 +3492,6 @@ band O
 's O
 releases O
 . O
-
 As O
 a O
 result O
@@ -3650,7 +3510,6 @@ five O
 unreleased O
 tracks O
 . O
-
 Demo O
 versions O
 of O
@@ -3671,7 +3530,6 @@ with O
 different O
 names O
 . O
-
 For O
 example O
 , O
@@ -3697,7 +3555,6 @@ called O
 Hero I-MISC
 " O
 . O
-
 Also O
 made O
 available O
@@ -3761,7 +3618,6 @@ a O
 small O
 feud O
 . O
-
 During O
 recent O
 live O
@@ -3842,7 +3698,6 @@ on O
 lyrics O
 ) O
 . O
-
 They O
 also O
 have O
@@ -3856,7 +3711,6 @@ Wake I-MISC
 Up I-MISC
 . O
 " O
-
 On O
 December O
 11 O
@@ -3889,7 +3743,6 @@ Back I-MISC
 Door I-MISC
 " O
 . O
-
 In O
 September O
 2007 O
@@ -3915,9 +3768,7 @@ Radio I-ORG
 Live I-MISC
 Lounge I-MISC
 . O
-
--DOCSTART- O
-
+. O
 The O
 38th I-MISC
 NAACP I-MISC
@@ -3935,7 +3786,6 @@ music O
 for O
 2006 O
 . O
-
 The O
 show O
 was O
@@ -3961,7 +3811,6 @@ Hollywood I-LOC
 , O
 California I-LOC
 . O
-
 The O
 show O
 was O
@@ -3971,7 +3820,6 @@ LL I-PER
 Cool I-PER
 J I-PER
 . O
-
 The O
 nominees O
 were O
@@ -3997,7 +3845,6 @@ Hills I-LOC
 , O
 California I-LOC
 . O
-
 The O
 winners O
 and O
@@ -4006,7 +3853,6 @@ are O
 shown O
 below O
 . O
-
 The O
 winners O
 are O
@@ -4014,7 +3860,6 @@ indicated O
 in O
 bold O
 . O
-
 The O
 following O
 recipients O
@@ -4039,9 +3884,7 @@ and O
 humanitarian O
 efforts O
 . O
-
--DOCSTART- O
-
+. O
 The O
 65th I-ORG
 wing I-ORG
@@ -4061,7 +3904,6 @@ flying O
 combat O
 missions O
 . O
-
 Subordinate O
 units O
 escorted O
@@ -4077,7 +3919,6 @@ dive O
 bombing O
 missions O
 . O
-
 They O
 attacked O
 airdromes O
@@ -4102,7 +3943,6 @@ trains O
 and O
 highways O
 . O
-
 During O
 " O
 Big I-MISC
@@ -4130,7 +3970,6 @@ German I-MISC
 aircraft O
 industry O
 . O
-
 Its O
 units O
 supported O
@@ -4204,7 +4043,6 @@ March O
 1945 O
 ) O
 . O
-
 As O
 an O
 Air O
@@ -4223,7 +4061,6 @@ from O
 to O
 1954 O
 . O
-
 Activated O
 three O
 years O
@@ -4251,7 +4088,6 @@ Centers I-ORG
 ADDCs I-ORG
 ) O
 . O
-
 The O
 65th I-ORG
 Air I-ORG
@@ -4271,7 +4107,6 @@ and O
 radar O
 sites O
 . O
-
 Its O
 fighter O
 squadrons O
@@ -4283,7 +4118,6 @@ over O
 Spanish I-MISC
 airspace O
 . O
-
 The O
 65th I-ORG
 also O
@@ -4302,7 +4136,6 @@ for O
 temporary O
 duty O
 . O
-
 Assigned O
 or O
 attached O
@@ -4332,7 +4165,6 @@ U.S. I-ORG
 Sixth I-ORG
 Fleet I-ORG
 . O
-
 In O
 June O
 1985 O
@@ -4354,7 +4186,6 @@ overall O
 warfighting O
 potential O
 . O
-
 Established O
 as O
 4 I-ORG
@@ -4366,14 +4197,12 @@ on O
 March O
 1943 O
 . O
-
 Activated O
 on O
 27 O
 March O
 1943 O
 . O
-
 Redesignated O
 65 I-ORG
 Fighter I-ORG
@@ -4383,14 +4212,12 @@ on O
 July O
 1943 O
 . O
-
 Inactivated O
 on O
 21 O
 November O
 1945 O
 . O
-
 Redesignated O
 65 I-ORG
 Air I-ORG
@@ -4403,28 +4230,24 @@ on O
 April O
 1952 O
 . O
-
 Organized O
 on O
 24 O
 April O
 1952 O
 . O
-
 Discontinued O
 on O
 8 O
 March O
 1954 O
 . O
-
 Activated O
 on O
 8 O
 April O
 1957 O
 . O
-
 Discontinued O
 , O
 and O
@@ -4435,7 +4258,6 @@ on O
 January O
 1965 O
 . O
-
 Redesignated O
 65 I-ORG
 Air I-ORG
@@ -4447,18 +4269,14 @@ on O
 June O
 1985 O
 . O
-
 Inactivated O
 on O
 30 O
 June O
 1991 O
 . O
-
 none O
-
 none O
-
 Per O
 bend O
 azure O
@@ -4521,7 +4339,6 @@ of O
 the O
 fourth O
 . O
-
 ( O
 Approved O
 1 O
@@ -4529,7 +4346,6 @@ August O
 1961 O
 ) O
 . O
-
 Fourth I-ORG
 Air I-ORG
 Force I-ORG
@@ -4588,7 +4404,6 @@ June O
 November O
 1945 O
 . O
-
 Iceland I-ORG
 Air I-ORG
 Defense I-ORG
@@ -4602,7 +4417,6 @@ April O
 March O
 1954 O
 . O
-
 Sixteenth I-ORG
 Air I-ORG
 Force I-ORG
@@ -4626,7 +4440,6 @@ July O
 January O
 1965 O
 . O
-
 Seventeenth I-ORG
 Air I-ORG
 Force I-ORG
@@ -4639,7 +4452,6 @@ June O
 June O
 1991 O
 . O
-
 Hamilton I-ORG
 Field I-ORG
 , O
@@ -4691,7 +4503,6 @@ October O
 November O
 1945 O
 . O
-
 Keflaví I-ORG
 International I-ORG
 Airport I-ORG
@@ -4706,7 +4517,6 @@ April O
 March O
 1954 O
 . O
-
 Madrid I-LOC
 , O
 Spain I-LOC
@@ -4729,7 +4539,6 @@ October O
 January O
 1965 O
 . O
-
 Sembach I-ORG
 Air I-ORG
 Base I-ORG
@@ -4754,7 +4563,6 @@ October O
 June O
 1991 O
 . O
-
 P-38 I-MISC
 Lightning I-MISC
 , O
@@ -4774,7 +4582,6 @@ Mustang I-MISC
 -- O
 1945 O
 . O
-
 F-94 I-MISC
 Starfire I-MISC
 , O
@@ -4789,7 +4596,6 @@ Sabre I-MISC
 -- O
 1954 O
 . O
-
 F-86 I-MISC
 Sabre I-MISC
 , O
@@ -4825,7 +4631,6 @@ Thunderchief I-MISC
 -- O
 1964 O
 . O
-
 CH-53 I-MISC
 Sea I-MISC
 Stallion I-MISC
@@ -4865,7 +4670,6 @@ Falcon I-MISC
 -- O
 1991 O
 . O
-
 Unknown O
 , O
 27 O
@@ -4903,7 +4707,6 @@ Colonel O
 William I-PER
 L I-PER
 . I-PER
-
 Curry I-PER
 , O
 29 O
@@ -4912,7 +4715,6 @@ July O
 -- O
 unkn O
 . O
-
 1st O
 Lieutenant O
 John I-PER
@@ -4936,7 +4738,6 @@ Colonel O
 Emmett I-PER
 S I-PER
 . I-PER
-
 Davis I-PER
 , O
 5 O
@@ -4945,7 +4746,6 @@ September O
 -- O
 unkn O
 . O
-
 Captain O
 Newell I-PER
 H. I-PER
@@ -4979,7 +4779,6 @@ Colonel O
 Thomas I-PER
 L I-PER
 . I-PER
-
 Hayes I-PER
 , O
 25 O
@@ -4990,7 +4789,6 @@ September O
 January O
 1965 O
 . O
-
 Unknown O
 , O
 1 O
@@ -5055,9 +4853,7 @@ January O
 -- O
 unkn O
 . O
-
--DOCSTART- O
-
+. O
 6PR I-ORG
 , O
 known O
@@ -5073,7 +4869,6 @@ October O
 , O
 1931 O
 . O
-
 6PR I-ORG
 's O
 focus O
@@ -5095,7 +4890,6 @@ talkback O
 radio O
 station O
 . O
-
 6PR I-ORG
 is O
 owned O
@@ -5116,7 +4910,6 @@ businesses O
 throughout O
 Australia I-LOC
 . O
-
 Radio O
 in O
 Australia I-LOC
@@ -5135,7 +4928,6 @@ October O
 , O
 1931 O
 . O
-
 6PR I-ORG
 was O
 founded O
@@ -5162,7 +4954,6 @@ Street I-LOC
 , O
 Perth I-LOC
 . O
-
 In O
 1963 O
 the O
@@ -5184,7 +4975,6 @@ to O
 Vox I-ORG
 Adeon I-ORG
 . O
-
 The O
 broadcasting O
 business O
@@ -5202,7 +4992,6 @@ Service I-ORG
 Pty I-ORG
 Ltd I-ORG
 . O
-
 The O
 operation O
 moved O
@@ -5223,7 +5012,6 @@ VBN I-ORG
 in O
 1963 O
 . O
-
 The O
 6PR I-ORG
 studio O
@@ -5249,7 +5037,6 @@ of O
 Mercedes I-ORG
 College I-ORG
 . O
-
 In O
 1985 O
 the O
@@ -5267,7 +5054,6 @@ Street I-LOC
 East I-LOC
 Perth I-LOC
 . O
-
 In O
 the O
 station O
@@ -5289,7 +5075,6 @@ around O
 one O
 hundred O
 . O
-
 The O
 limited O
 hours O
@@ -5313,7 +5098,6 @@ a O
 week O
 service O
 . O
-
 Throughout O
 the O
 sixties O
@@ -5333,7 +5117,6 @@ dominance O
 in O
 1972 O
 . O
-
 The O
 image O
 of O
@@ -5359,7 +5142,6 @@ promotion O
 in O
 1973 O
 . O
-
 This O
 boosted O
 6PR I-ORG
@@ -5379,7 +5161,6 @@ on O
 several O
 occasions O
 . O
-
 In O
 1977 O
 an O
@@ -5406,7 +5187,6 @@ personality O
 sport O
 format O
 . O
-
 In O
 the O
 early O
@@ -5445,7 +5225,6 @@ popular O
 with O
 listeners O
 . O
-
 In O
 1987 O
 the O
@@ -5474,7 +5253,6 @@ popular O
 talkback O
 programs O
 . O
-
 During O
 the O
 early O
@@ -5520,7 +5298,6 @@ on O
 the O
 station O
 . O
-
 In O
 1994 O
 6PR I-ORG
@@ -5557,7 +5334,6 @@ called O
 Racing I-ORG
 Radio I-ORG
 . O
-
 This O
 move O
 allowed O
@@ -5597,7 +5373,6 @@ more O
 comprehensive O
 manner O
 . O
-
 In O
 December O
 1994 O
@@ -5633,7 +5408,6 @@ and O
 other O
 places O
 . O
-
 During O
 the O
 nineties O
@@ -5674,7 +5448,6 @@ and O
 Graham I-PER
 Mabury I-PER
 . O
-
 During O
 the O
 Australian O
@@ -5689,7 +5462,6 @@ Perth I-LOC
 Football O
 Leader O
 . O
-
 Each O
 week O
 , O
@@ -5720,7 +5492,6 @@ all O
 things O
 football O
 . O
-
 The O
 AFL I-ORG
 commentary O
@@ -5749,7 +5520,6 @@ and O
 Brad I-PER
 Hardie I-PER
 . O
-
 With O
 commentary O
 teams O
@@ -5796,7 +5566,6 @@ based O
 in O
 Melbourne I-LOC
 . O
-
 Matches O
 that O
 are O
@@ -5822,7 +5591,6 @@ FIVEaa I-ORG
 in O
 Adelaide I-LOC
 . O
-
 The O
 local O
 West I-ORG
@@ -5841,7 +5609,6 @@ called O
 Bouncing I-MISC
 Around I-MISC
 . O
-
 Peter I-PER
 Vlahos I-PER
 is O
@@ -5862,7 +5629,6 @@ at O
 different O
 matches O
 . O
-
 Peter I-PER
 Vlahos I-PER
 then O
@@ -5886,7 +5652,6 @@ related O
 talkback O
 calls O
 . O
-
 Updates O
 of O
 all O
@@ -5902,7 +5667,6 @@ are O
 also O
 mentioned O
 . O
-
 Since O
 the O
 addition O
@@ -5946,7 +5710,6 @@ by O
 George I-PER
 Grljusich I-PER
 . O
-
 When O
 the O
 A-League I-ORG
@@ -5961,7 +5724,6 @@ broadcast O
 on O
 6PR I-ORG
 . O
-
 6PR I-ORG
 stopped O
 broadcasting O
@@ -5974,7 +5736,6 @@ the O
 A-League I-ORG
 season O
 . O
-
 As O
 of O
 the O
@@ -5993,7 +5754,6 @@ Home O
 Away O
 fixture O
 . O
-
 6PR I-ORG
 will O
 be O
@@ -6006,7 +5766,6 @@ of O
 the O
 Perth I-ORG
 Glory I-ORG
-
 From O
 2006 O
 , O
@@ -6024,7 +5783,6 @@ from O
 Subiaco I-LOC
 Oval I-LOC
 . O
-
 The O
 broadcast O
 team O
@@ -6058,7 +5816,6 @@ by O
 Force I-ORG
 Players O
 . O
-
 You O
 can O
 also O
@@ -6079,9 +5836,7 @@ on O
 882 I-ORG
 6PR I-ORG
 . O
-
--DOCSTART- O
-
+. O
 883JIA I-ORG
 FM I-ORG
 , O
@@ -6096,7 +5851,6 @@ Radio I-ORG
 in O
 Singapore I-LOC
 . O
-
 It O
 features O
 contemporary O
@@ -6109,7 +5863,6 @@ latest O
 entertainment O
 news O
 . O
-
 It O
 was O
 launched O
@@ -6118,7 +5871,6 @@ in O
 June O
 1995 O
 . O
-
 It O
 also O
 launched O
@@ -6127,7 +5879,6 @@ Power98FM I-ORG
 months O
 later O
 . O
-
 The O
 station O
 plays O
@@ -6142,7 +5893,6 @@ first O
 in O
 Singapore I-LOC
 . O
-
 The O
 weekday O
 morning O
@@ -6158,14 +5908,11 @@ English I-MISC
 and O
 Chinese I-MISC
 . O
-
 883Jia I-ORG
 FM I-ORG
 Official O
 Website O
-
--DOCSTART- O
-
+. O
 Aabenraa I-LOC
 County I-LOC
 is O
@@ -6184,7 +5931,6 @@ of O
 South I-LOC
 Jutland I-LOC
 . O
-
 Aabenraa I-LOC
 County I-LOC
 was O
@@ -6204,7 +5950,6 @@ the O
 Schleswig I-MISC
 Plebiscites I-MISC
 . O
-
 It O
 was O
 dissolved O
@@ -6223,7 +5968,6 @@ South I-LOC
 Jutland I-LOC
 County I-LOC
 . O
-
 Aabenraa I-LOC
 County I-LOC
 corresponded O
@@ -6252,7 +5996,6 @@ Hanved I-LOC
 Parish I-LOC
 ) O
 . O
-
 Both O
 were O
 transferred O
@@ -6268,7 +6011,6 @@ current O
 Danish-German I-LOC
 border O
 . O
-
 Aabenraa I-LOC
 County I-LOC
 and O
@@ -6282,7 +6024,6 @@ forming O
 Aabenraa-Sønderbor I-LOC
 Cunty I-LOC
 . O
-
 This O
 article O
 incorporates O
@@ -6301,9 +6042,7 @@ accessed O
 April O
 2007 O
 . O
-
--DOCSTART- O
-
+. O
 Adenet I-PER
 Le I-PER
 Roi I-PER
@@ -6312,7 +6051,6 @@ c.1240 O
 -- O
 c O
 . O
-
 1300 O
 ) O
 was O
@@ -6341,7 +6079,6 @@ Adam I-PER
 Rex I-PER
 Menestrallus I-PER
 . O
-
 He O
 is O
 known O
@@ -6359,9 +6096,7 @@ the O
 romance O
 Cleomadé I-MISC
 . O
-
--DOCSTART- O
-
+. O
 Adilson I-PER
 Tavares I-PER
 Varela I-PER
@@ -6396,7 +6131,6 @@ for O
 FC I-ORG
 Basel I-ORG
 . O
-
 Cabral I-PER
 also O
 holds O
@@ -6404,7 +6138,6 @@ a O
 Swiss I-MISC
 citizenship O
 . O
-
 Cabral I-PER
 came O
 through O
@@ -6426,7 +6159,6 @@ debut O
 in O
 2005 O
 . O
-
 He O
 went O
 on O
@@ -6454,7 +6186,6 @@ a O
 year O
 deal O
 . O
-
 Despite O
 being O
 born O
@@ -6476,9 +6207,7 @@ Swiss I-MISC
 Under-19s I-ORG
 side O
 . O
-
--DOCSTART- O
-
+. O
 Aero I-ORG
 Gare I-ORG
 was O
@@ -6501,7 +6230,6 @@ Hawker I-MISC
 amphibious O
 aircraft O
 . O
-
 It O
 sold O
 all O
@@ -6515,9 +6243,7 @@ Composites I-ORG
 in O
 1986 O
 . O
-
--DOCSTART- O
-
+. O
 Agnieszka I-PER
 Lipska I-PER
 Baranowska I-PER
@@ -6533,7 +6259,6 @@ playwright O
 and O
 poet O
 . O
-
 Born O
 on O
 April O
@@ -6574,7 +6299,6 @@ Duchy I-LOC
 of I-LOC
 Poznań I-LOC
 . O
-
 She O
 had O
 one O
@@ -6589,7 +6313,6 @@ she O
 was O
 six O
 . O
-
 She O
 was O
 married O
@@ -6615,7 +6338,6 @@ the O
 January I-MISC
 Uprising I-MISC
 . O
-
 After O
 her O
 husband O
@@ -6655,7 +6377,6 @@ lands O
 in O
 Marszew I-LOC
 . O
-
 She O
 had O
 many O
@@ -6680,7 +6401,6 @@ manor O
 in O
 Marszew I-LOC
 . O
-
 They O
 included O
 Karol I-PER
@@ -6695,7 +6415,6 @@ and O
 Eweryst I-PER
 Estkowski I-PER
 . O
-
 She O
 took O
 part O
@@ -6735,7 +6454,6 @@ dziewcząt I-ORG
 ) O
 ) O
 . O
-
 She O
 wrote O
 several O
@@ -6760,7 +6478,6 @@ Sczaniecki I-PER
 from O
 Karmin I-LOC
 . O
-
 She O
 also O
 wrote O
@@ -6780,7 +6497,6 @@ poet O
 Adam I-PER
 Mickiewicz I-PER
 . O
-
 Most O
 of O
 her O
@@ -6807,7 +6523,6 @@ of O
 Greater I-LOC
 Poland I-LOC
 . O
-
 Some O
 of O
 them O
@@ -6830,7 +6545,6 @@ Kobiet I-PER
 " O
 ) O
 . O
-
 She O
 died O
 on O
@@ -6841,9 +6555,7 @@ December O
 in O
 Poznań I-LOC
 . O
-
--DOCSTART- O
-
+. O
 Agotes I-MISC
 or O
 Cagots I-MISC
@@ -6866,7 +6578,6 @@ and O
 also O
 Brittany I-LOC
 . O
-
 They O
 have O
 been O
@@ -6901,7 +6612,6 @@ Caquins I-MISC
 in O
 Brittany I-LOC
 . O
-
 The O
 earliest O
 mention O
@@ -6922,7 +6632,6 @@ Christiens I-MISC
 or O
 Christianos I-MISC
 . O
-
 During O
 the O
 Middle O
@@ -6943,7 +6652,6 @@ even O
 as O
 cannibals O
 . O
-
 They O
 were O
 shunned O
@@ -6973,7 +6681,6 @@ from O
 the O
 villages O
 . O
-
 Excluded O
 from O
 all O
@@ -7008,7 +6715,6 @@ the O
 other O
 worshippers O
 . O
-
 Either O
 they O
 were O
@@ -7047,7 +6753,6 @@ their O
 exclusive O
 use O
 . O
-
 They O
 were O
 compelled O
@@ -7082,7 +6787,6 @@ called O
 Canards I-MISC
 ) O
 . O
-
 And O
 so O
 pestilential O
@@ -7104,7 +6808,6 @@ common O
 road O
 barefooted O
 . O
-
 The O
 only O
 trades O
@@ -7124,7 +6827,6 @@ occupation O
 was O
 wood-cutting O
 . O
-
 The O
 origin O
 of O
@@ -7136,7 +6838,6 @@ Cagots I-MISC
 is O
 uncertain O
 . O
-
 It O
 has O
 been O
@@ -7162,7 +6863,6 @@ dog O
 and O
 Goth I-MISC
 . O
-
 But O
 opposed O
 to O
@@ -7188,7 +6888,6 @@ earlier O
 than O
 1551 O
 . O
-
 French I-MISC
 historian O
 Pierre I-PER
@@ -7225,7 +6924,6 @@ of O
 the O
 Saracens I-MISC
 . O
-
 Others O
 made O
 them O
@@ -7234,7 +6932,6 @@ of O
 the O
 Albigenses I-MISC
 . O
-
 A O
 far O
 more O
@@ -7290,7 +6987,6 @@ condition O
 resembling O
 it O
 . O
-
 Thus O
 would O
 arise O
@@ -7301,7 +6997,6 @@ Christians I-MISC
 and O
 Cretins I-MISC
 . O
-
 It O
 was O
 not O
@@ -7339,9 +7034,7 @@ the O
 general O
 peasantry O
 . O
-
--DOCSTART- O
-
+. O
 The O
 AGS I-MISC
 JH21 I-MISC
@@ -7355,14 +7048,12 @@ the O
 1986 O
 season O
 . O
-
 The O
 driver O
 was O
 Ivan I-PER
 Capelli I-PER
 . O
-
 The O
 engine O
 was O
@@ -7372,7 +7063,6 @@ Moderni I-ORG
 turbocharger O
 V6 O
 . O
-
 The O
 team O
 did O
@@ -7382,9 +7072,7 @@ a O
 main O
 sponsor O
 . O
-
--DOCSTART- O
-
+. O
 Aisby I-LOC
 is O
 a O
@@ -7404,7 +7092,6 @@ the O
 Domesday I-MISC
 Book I-MISC
 . O
-
 A O
 small O
 hamlet O
@@ -7433,7 +7120,6 @@ the O
 same O
 county O
 . O
-
 Once O
 a O
 small O
@@ -7467,7 +7153,6 @@ dwellings O
 since O
 1990 O
 . O
-
 Both O
 Heydour I-LOC
 and O
@@ -7497,7 +7182,6 @@ trace O
 their O
 origins O
 . O
-
 Aisby I-LOC
 can O
 be O
@@ -7526,9 +7210,7 @@ Haydour I-LOC
 and O
 Heydor I-LOC
 . O
-
--DOCSTART- O
-
+. O
 Albert I-PER
 Wren I-PER
 was O
@@ -7536,7 +7218,6 @@ an O
 Ontario I-LOC
 politician O
 . O
-
 He O
 was O
 first O
@@ -7557,7 +7238,6 @@ the O
 provincial O
 election O
 . O
-
 He O
 had O
 also O
@@ -7572,7 +7252,6 @@ but O
 was O
 unsuccessful O
 . O
-
 He O
 was O
 re-elected O
@@ -7593,7 +7272,6 @@ death O
 in O
 1961 O
 . O
-
 Wren I-PER
 sat O
 with O
@@ -7650,7 +7328,6 @@ to O
 John I-PER
 Wintermeyer I-PER
 . O
-
 Robert I-PER
 Gibson I-PER
 succeeded O
@@ -7670,9 +7347,7 @@ the O
 1967 O
 election O
 . O
-
--DOCSTART- O
-
+. O
 Alexander I-PER
 Gradsky I-PER
 ( O
@@ -7711,7 +7386,6 @@ popular O
 recording O
 artist O
 . O
-
 He O
 is O
 known O
@@ -7738,7 +7412,6 @@ Us I-MISC
 Begin I-MISC
 ... I-MISC
 " O
-
 He O
 's O
 also O
@@ -7775,7 +7448,6 @@ has O
 different O
 lyrics O
 . O
-
 He O
 has O
 proposed O
@@ -7789,7 +7461,6 @@ Russian I-MISC
 national O
 anthem O
 . O
-
 It O
 was O
 probably O
@@ -7813,7 +7484,6 @@ Square I-LOC
 in O
 Moscow I-LOC
 . O
-
 Gradsky I-PER
 has O
 also O
@@ -7829,7 +7499,6 @@ City I-LOC
 Carnegie I-ORG
 Hall I-ORG
 . O
-
 He O
 was O
 married O
@@ -7843,7 +7512,6 @@ with O
 Nikita I-PER
 Mikhalkov I-PER
 . O
-
 Gradsky I-PER
 started O
 his O
@@ -7866,7 +7534,6 @@ using O
 rock O
 elements O
 . O
-
 Since O
 then O
 he O
@@ -7875,7 +7542,6 @@ dozens O
 of O
 records O
 . O
-
 He O
 is O
 known O
@@ -7891,9 +7557,7 @@ than O
 3 O
 octavs O
 . O
-
--DOCSTART- O
-
+. O
 The O
 Alfred I-LOC
 Phillips I-LOC
@@ -7917,7 +7581,6 @@ of O
 Gibson I-LOC
 City I-LOC
 . O
-
 It O
 has O
 been O
@@ -7932,7 +7595,6 @@ February O
 , O
 1999 O
 . O
-
 The O
 Phillips I-LOC
 House I-LOC
@@ -7947,7 +7609,6 @@ Registered O
 Historic O
 Places O
 . O
-
 All O
 three O
 of O
@@ -7983,9 +7644,7 @@ Paxton I-LOC
 , O
 Illinois I-LOC
 . O
-
--DOCSTART- O
-
+. O
 The O
 Amateur I-ORG
 Hockey I-ORG
@@ -8012,7 +7671,6 @@ existence O
 until O
 1898 O
 . O
-
 It O
 was O
 the O
@@ -8034,7 +7692,6 @@ started O
 in O
 1883 O
 . O
-
 It O
 was O
 organized O
@@ -8049,7 +7706,6 @@ the O
 Canadian I-MISC
 champion O
 . O
-
 Prior O
 to O
 its O
@@ -8065,7 +7721,6 @@ tournament O
 in O
 Montreal I-LOC
 . O
-
 The O
 1893 O
 champion O
@@ -8106,7 +7761,6 @@ league O
 of O
 Canada I-LOC
 . O
-
 of O
 various O
 hockey O
@@ -8130,7 +7784,6 @@ Club I-ORG
 of O
 Montreal I-LOC
 . O
-
 They O
 agreed O
 that O
@@ -8149,7 +7802,6 @@ the O
 of O
 March O
 . O
-
 The O
 constitution O
 would O
@@ -8161,14 +7813,12 @@ lacrosse O
 league O
 constitution O
 . O
-
 The O
 teams O
 knew O
 each O
 other O
 . O
-
 Mr O
 . O
 Thomas I-PER
@@ -8186,7 +7836,6 @@ McGill I-ORG
 hockey O
 team O
 . O
-
 In O
 that O
 age O
@@ -8215,7 +7864,6 @@ on O
 each O
 side O
 . O
-
 The O
 left O
 wing O
@@ -8231,7 +7879,6 @@ forwards O
 like O
 today O
 . O
-
 The O
 rover O
 would O
@@ -8258,7 +7905,6 @@ towards O
 the O
 goaltender O
 . O
-
 The O
 face O
 offs O
@@ -8284,7 +7930,6 @@ of O
 the O
 rink O
 . O
-
 The O
 goaltenders O
 used O
@@ -8292,14 +7937,12 @@ no O
 special O
 equipment O
 . O
-
 There O
 were O
 no O
 goal O
 nets O
 . O
-
 The O
 goals O
 were O
@@ -8310,7 +7953,6 @@ with O
 no O
 crossbar O
 . O
-
 An O
 umpire O
 would O
@@ -8321,7 +7963,6 @@ of O
 each O
 score O
 . O
-
 There O
 were O
 no O
@@ -8361,7 +8002,6 @@ of O
 the O
 rink O
 . O
-
 A O
 match O
 was O
@@ -8387,7 +8027,6 @@ modern O
 definition O
 ) O
 . O
-
 Sudden-death O
 overtime O
 was O
@@ -8414,7 +8053,6 @@ tie O
 after O
 regulation O
 . O
-
 Players O
 in O
 all O
@@ -8427,7 +8065,6 @@ entire O
 60 O
 minutes O
 . O
-
 The O
 AHAC I-ORG
 operated O
@@ -8475,7 +8112,6 @@ the O
 NHL I-ORG
 today O
 . O
-
 With O
 the O
 exception O
@@ -8517,7 +8153,6 @@ Cup I-MISC
 was O
 contested O
 . O
-
 The O
 first O
 championship O
@@ -8540,7 +8175,6 @@ before O
 the O
 AHAC I-ORG
 . O
-
 The O
 first O
 title O
@@ -8561,7 +8195,6 @@ the O
 champions O
 4-0 O
 . O
-
 The O
 Victorias I-ORG
 would O
@@ -8586,7 +8219,6 @@ third O
 successive O
 challenge O
 . O
-
 Because O
 of O
 the O
@@ -8609,7 +8241,6 @@ system O
 in O
 1888 O
 . O
-
 The O
 series O
 system O
@@ -8671,7 +8302,6 @@ the O
 Montreal I-ORG
 HC I-ORG
 . O
-
 However O
 , O
 teams O
@@ -8695,7 +8325,6 @@ the O
 challenge O
 system O
 . O
-
 In O
 1893 O
 , O
@@ -8740,7 +8369,6 @@ to O
 the O
 championship O
 . O
-
 Lord I-PER
 Stanley I-PER
 announced O
@@ -8783,7 +8411,6 @@ as O
 initial O
 champion O
 . O
-
 At O
 the O
 time O
@@ -8810,7 +8437,6 @@ Association I-ORG
 MAAA I-ORG
 ) O
 . O
-
 The O
 hockey O
 club O
@@ -8843,7 +8469,6 @@ General O
 of O
 Canada I-LOC
 . O
-
 Thus O
 , O
 the O
@@ -8867,7 +8492,6 @@ hockey O
 club O
 present O
 . O
-
 After O
 accepting O
 the O
@@ -8888,7 +8512,6 @@ presented O
 to O
 them O
 . O
-
 In O
 the O
 end O
@@ -8922,7 +8545,6 @@ of O
 the O
 MAAA I-ORG
 . O
-
 It O
 was O
 believed O
@@ -8986,7 +8608,6 @@ hockey O
 club O
 ) O
 . O
-
 Inexplicably O
 , O
 the O
@@ -9012,7 +8633,6 @@ and O
 the O
 club O
 . O
-
 Indeed O
 , O
 the O
@@ -9034,7 +8654,6 @@ Montreal I-ORG
 HC I-ORG
 " O
 . O
-
 The O
 MAAA I-ORG
 , O
@@ -9056,7 +8675,6 @@ that O
 bore O
 them O
 . O
-
 The O
 issue O
 would O
@@ -9073,12 +8691,10 @@ attempts O
 at O
 reconciliation O
 . O
-
 † O
 Stanley I-MISC
 Cup I-MISC
 winner O
-
 According O
 to O
 Arthur I-PER
@@ -9120,14 +8736,12 @@ winner O
 from O
 1888-1894 O
 . O
-
 See O
 reference O
 copy O
 on O
 Backcheck O
 . O
-
 According O
 to O
 Ultimate I-MISC
@@ -9155,7 +8769,6 @@ after O
 every O
 series O
 . O
-
 The O
 final O
 champion O
@@ -9179,9 +8792,7 @@ Canada I-MISC
 ' O
 champion O
 . O
-
--DOCSTART- O
-
+. O
 Andrew I-PER
 Sant I-PER
 ( O
@@ -9195,7 +8806,6 @@ born O
 Australian I-MISC
 poet O
 . O
-
 Sant I-PER
 migrated O
 with O
@@ -9209,7 +8819,6 @@ completed O
 his O
 education O
 . O
-
 He O
 has O
 subsequently O
@@ -9249,7 +8858,6 @@ University I-ORG
 of I-ORG
 Chichester I-ORG
 . O
-
 In O
 2001 O
 he O
@@ -9265,7 +8873,6 @@ Beijing I-LOC
 , O
 China I-LOC
 . O
-
 He O
 jointly O
 founded O
@@ -9284,7 +8891,6 @@ has O
 also O
 lived O
 . O
-
 The O
 most O
 recent O
@@ -9327,7 +8933,6 @@ UK I-LOC
 2008 O
 ) O
 . O
-
 Individual O
 poems O
 have O
@@ -9355,9 +8960,7 @@ many O
 other O
 publications O
 . O
-
--DOCSTART- O
-
+. O
 Angela I-PER
 Carder I-PER
 ( O
@@ -9394,7 +8997,6 @@ of O
 her O
 fetus O
 . O
-
 The O
 case O
 stands O
@@ -9419,7 +9021,6 @@ own O
 health O
 care O
 . O
-
 At O
 age O
 thirteen O
@@ -9438,7 +9039,6 @@ form O
 of O
 cancer O
 . O
-
 She O
 survived O
 , O
@@ -9457,7 +9057,6 @@ be O
 in O
 remission O
 . O
-
 Ten O
 years O
 after O
@@ -9481,7 +9080,6 @@ with O
 equal O
 determination O
 . O
-
 The O
 second O
 cancer O
@@ -9489,7 +9087,6 @@ went O
 into O
 remission O
 . O
-
 Angela I-PER
 later O
 married O
@@ -9497,7 +9094,6 @@ and O
 became O
 pregnant O
 . O
-
 In O
 1987 O
 , O
@@ -9521,7 +9117,6 @@ to O
 her O
 lung O
 . O
-
 Exactly O
 what O
 plan O
@@ -9599,7 +9194,6 @@ chance O
 of O
 survival O
 . O
-
 Whatever O
 her O
 choice O
@@ -9636,7 +9230,6 @@ immediate O
 C-section O
 procedure O
 . O
-
 Fearing O
 a O
 lawsuit O
@@ -9666,7 +9259,6 @@ and O
 the O
 hospital O
 . O
-
 At O
 the O
 hearing O
@@ -9713,7 +9305,6 @@ not O
 testify O
 ) O
 . O
-
 Her O
 treating O
 physicians O
@@ -9722,7 +9313,6 @@ opposed O
 the O
 procedure O
 . O
-
 However O
 , O
 a O
@@ -9762,7 +9352,6 @@ same O
 gestational O
 age O
 . O
-
 Carder I-PER
 's O
 own O
@@ -9796,7 +9385,6 @@ the O
 fetus O
 " O
 . O
-
 Nonetheless O
 , O
 and O
@@ -9827,7 +9415,6 @@ an O
 immediate O
 C-section O
 . O
-
 Obstetricians O
 at O
 the O
@@ -9846,7 +9433,6 @@ one O
 reluctantly O
 agreed O
 . O
-
 A O
 three-judge O
 appellate O
@@ -9876,7 +9462,6 @@ it O
 done O
 . O
 " O
-
 Exactly O
 how O
 long O
@@ -9890,7 +9475,6 @@ of O
 some O
 dispute O
 . O
-
 The O
 most O
 commonly O
@@ -9900,7 +9484,6 @@ is O
 two O
 hours O
 . O
-
 Susan I-PER
 Faludi I-PER
 quotes O
@@ -9929,7 +9512,6 @@ a O
 rock O
 " O
 . O
-
 Angela I-PER
 Carder I-PER
 survived O
@@ -9939,7 +9521,6 @@ by O
 two O
 days O
 . O
-
 In O
 the O
 wake O
@@ -9998,7 +9579,6 @@ and O
 bodily O
 integrity O
 . O
-
 One O
 hundred O
 twenty O
@@ -10025,7 +9605,6 @@ Obstetricians I-ORG
 and I-ORG
 Gynecologists I-ORG
 . O
-
 One O
 attorney O
 for O
@@ -10080,7 +9659,6 @@ give O
 birth O
 ? O
 " O
-
 On O
 April O
 26 O
@@ -10119,7 +9697,6 @@ and O
 her O
 fetus O
 . O
-
 At O
 the O
 same O
@@ -10178,7 +9755,6 @@ among O
 other O
 charges O
 . O
-
 In O
 November O
 of O
@@ -10219,9 +9795,7 @@ of O
 pregnant O
 women O
 . O
-
--DOCSTART- O
-
+. O
 Angelo I-PER
 Fresquet I-PER
 ( O
@@ -10258,7 +9832,6 @@ Special O
 Events O
 Coordinator O
 . O
-
 Angelo I-PER
 Fresquet I-PER
 , O
@@ -10267,7 +9840,6 @@ Made O
 in O
 Miami O
 " O
-
 Angelo I-PER
 Fresquet I-PER
 , O
@@ -10357,7 +9929,6 @@ began O
 in O
 1989 O
 . O
-
 At O
 the O
 time O
@@ -10380,7 +9951,6 @@ grow O
 in O
 Miami I-LOC
 . O
-
 With O
 not O
 much O
@@ -10400,7 +9970,6 @@ parties O
 recalls O
 Angelo I-PER
 . O
-
 With O
 a O
 very O
@@ -10432,7 +10001,6 @@ later O
 union O
 jobs O
 . O
-
 His O
 Acting O
 / O
@@ -10449,7 +10017,6 @@ as O
 print O
 ads O
 . O
-
 Son O
 of O
 Famous O
@@ -10496,7 +10063,6 @@ Iglesias I-PER
 & O
 others O
 . O
-
 Although O
 his O
 acting O
@@ -10517,7 +10083,6 @@ a O
 social O
 network O
 . O
-
 He O
 was O
 crafting O
@@ -10541,7 +10106,6 @@ early O
 90 O
 's O
 . O
-
 As O
 the O
 nightlife O
@@ -10599,7 +10163,6 @@ and O
 many O
 more O
 . O
-
 During O
 this O
 time O
@@ -10633,7 +10196,6 @@ and O
 many O
 more O
 . O
-
 He O
 was O
 climbing O
@@ -10658,7 +10220,6 @@ kinds O
 of O
 demographics O
 . O
-
 By O
 the O
 mid O
@@ -10714,7 +10275,6 @@ and O
 many O
 others O
 . O
-
 By O
 the O
 mid O
@@ -10737,7 +10297,6 @@ Miami I-LOC
 elite O
 impresarios O
 . O
-
 Success O
 would O
 follow O
@@ -10753,7 +10312,6 @@ this O
 very O
 day O
 . O
-
 He O
 has O
 accomplished O
@@ -10778,7 +10336,6 @@ events O
 in O
 Miami I-LOC
 . O
-
 In O
 2002 O
 , O
@@ -10826,7 +10383,6 @@ NYC I-LOC
 & O
 Vegas I-LOC
 . O
-
 He O
 has O
 worked O
@@ -10874,7 +10430,6 @@ Miami I-LOC
 Hottest O
 Venue's O
 . O
-
 His O
 style O
 of O
@@ -10927,7 +10482,6 @@ coordinated O
 produced O
 by O
 . O
-
 He O
 helped O
 create O
@@ -10961,7 +10515,6 @@ house O
 , O
 etc O
 . O
-
 He O
 later O
 moved O
@@ -11017,7 +10570,6 @@ with O
 Angelo I-PER
 grew O
 . O
-
 The O
 list O
 is O
@@ -11162,7 +10714,6 @@ and O
 many O
 more O
 . O
-
 Angelo I-PER
 has O
 reached O
@@ -11193,7 +10744,6 @@ rich O
 & O
 famous O
 . O
-
 His O
 events O
 have O
@@ -11229,7 +10779,6 @@ name O
 a O
 few O
 . O
-
 He O
 was O
 and O
@@ -11270,7 +10819,6 @@ the O
 status O
 quo O
 . O
-
 Angelo I-PER
 now O
 is O
@@ -11352,7 +10900,6 @@ is O
 currently O
 writing O
 . O
-
 He O
 is O
 a O
@@ -11369,7 +10916,6 @@ principles O
 & O
 faith O
 . O
-
 He O
 enjoys O
 spending O
@@ -11420,7 +10966,6 @@ to O
 their O
 destiny O
 ! O
-
 Current O
 News O
 : O
@@ -11456,7 +11001,6 @@ the O
 Miami I-LOC
 Area O
 . O
-
 You O
 can O
 catch O
@@ -11481,7 +11025,6 @@ visit O
 online O
 at O
 www.krankd.com I-MISC
-
 Angelo I-PER
 's O
 favorite O
@@ -11505,7 +11048,6 @@ not O
 position O
 . O
 " O
-
 " O
 Leaders O
 must O
@@ -11526,29 +11068,24 @@ motivate O
 them O
 . O
 " O
-
 " O
 Leadership O
 is O
 more O
 ? O
-
 If O
 not O
 , O
 much O
 more O
 ? O
-
 Influence O
 rather O
 than O
 position O
 . O
 " O
-
--DOCSTART- O
-
+. O
 The O
 Anguilla I-ORG
 United I-ORG
@@ -11562,7 +11099,6 @@ parties O
 in O
 Anguilla I-LOC
 . O
-
 At O
 the O
 last O
@@ -11588,9 +11124,7 @@ of O
 elected O
 seats O
 . O
-
--DOCSTART- O
-
+. O
 A I-MISC
 Portuguesa I-MISC
 is O
@@ -11600,7 +11134,6 @@ anthem O
 of O
 Portugal I-LOC
 . O
-
 It O
 was O
 written O
@@ -11681,7 +11214,6 @@ Monarchy I-ORG
 in O
 Portugal I-LOC
 . O
-
 The O
 title O
 A I-MISC
@@ -11757,7 +11289,6 @@ song O
 ) O
 " O
 . O
-
 In O
 1890 O
 , O
@@ -11803,7 +11334,6 @@ the O
 two O
 territories O
 . O
-
 Despite O
 popular O
 uproar O
@@ -11843,7 +11373,6 @@ boosting O
 republican O
 movement O
 . O
-
 Inspired O
 by O
 the O
@@ -11897,7 +11426,6 @@ and O
 16th O
 centuries O
 . O
-
 The O
 words O
 were O
@@ -11932,7 +11460,6 @@ the O
 Portuguese I-MISC
 authorities O
 . O
-
 On O
 January O
 31 O
@@ -11964,7 +11491,6 @@ as O
 their O
 anthem O
 . O
-
 The O
 revolution O
 was O
@@ -11974,7 +11500,6 @@ the O
 song O
 banned O
 . O
-
 In O
 1910 O
 , O
@@ -11997,7 +11522,6 @@ republic O
 in O
 Portugal I-LOC
 . O
-
 In O
 the O
 following O
@@ -12021,7 +11545,6 @@ Portugal I-LOC
 national O
 anthem O
 . O
-
 The O
 song O
 consists O
@@ -12038,7 +11561,6 @@ by O
 a O
 chorus O
 . O
-
 The O
 second O
 and O
@@ -12074,7 +11596,6 @@ of O
 Portuguese I-MISC
 ) O
 . O
-
 The O
 fifth O
 line O
@@ -12130,9 +11651,7 @@ the O
 Pink O
 Map O
 . O
-
--DOCSTART- O
-
+. O
 Armistice I-MISC
 Day I-MISC
 is O
@@ -12152,7 +11671,6 @@ November O
 , O
 1918 O
 . O
-
 It O
 commemorates O
 the O
@@ -12202,7 +11720,6 @@ eleventh O
 month O
 . O
 " O
-
 While O
 this O
 official O
@@ -12243,7 +11760,6 @@ old O
 Ottoman I-LOC
 Empire I-LOC
 . O
-
 The O
 date O
 was O
@@ -12274,7 +11790,6 @@ killed O
 during O
 war O
 . O
-
 After O
 World I-MISC
 War I-MISC
@@ -12301,7 +11816,6 @@ Commonwealth I-ORG
 of I-ORG
 Nations I-ORG
 . O
-
 Armistice I-MISC
 Day I-MISC
 is O
@@ -12311,7 +11825,6 @@ holiday O
 in O
 France I-LOC
 . O
-
 It O
 is O
 also O
@@ -12333,7 +11846,6 @@ the O
 Flanders I-LOC
 Fields I-LOC
 . O
-
 In O
 many O
 parts O
@@ -12397,7 +11909,6 @@ events O
 in O
 1917 O
 . O
-
 Beginning O
 in O
 1939 O
@@ -12430,7 +11941,6 @@ on O
 a O
 weekday O
 . O
-
 Since O
 the O
 1990s O
@@ -12474,7 +11984,6 @@ same O
 day O
 ) O
 . O
-
 November O
 11th O
 2008 O
@@ -12487,9 +11996,7 @@ of O
 Armistice I-MISC
 Day I-MISC
 . O
-
--DOCSTART- O
-
+. O
 A I-MISC
 Storm I-MISC
 to I-MISC
@@ -12511,7 +12018,6 @@ released O
 in O
 2006 O
 . O
-
 The O
 album O
 cover O
@@ -12523,9 +12029,7 @@ by O
 Mattias I-PER
 Noren I-PER
 . O
-
--DOCSTART- O
-
+. O
 The O
 Mass I-LOC
 Transit I-LOC
@@ -12545,7 +12049,6 @@ all O
 of O
 Greece I-LOC
 . O
-
 The O
 ISAP I-ORG
 , O
@@ -12604,7 +12107,6 @@ the O
 Greek I-ORG
 government I-ORG
 . O
-
 Proastiakos I-ORG
 S.A. I-ORG
 belongs O
@@ -12618,9 +12120,7 @@ a O
 public O
 company O
 . O
-
--DOCSTART- O
-
+. O
 Atwick I-LOC
 is O
 a O
@@ -12639,7 +12139,6 @@ Yorkshire I-LOC
 , O
 England I-LOC
 . O
-
 The O
 village O
 is O
@@ -12660,7 +12159,6 @@ the O
 B1242 I-LOC
 road O
 . O
-
 The O
 civil O
 parish O
@@ -12677,7 +12175,6 @@ hamlet O
 of O
 Skirlington I-LOC
 . O
-
 According O
 to O
 the O
@@ -12693,7 +12190,6 @@ population O
 of O
 318 O
 . O
-
 The O
 World I-MISC
 War I-MISC
@@ -12711,7 +12207,6 @@ by O
 William I-PER
 Foot I-PER
 . O
-
 They O
 included O
 a O
@@ -12722,9 +12217,7 @@ and O
 several O
 pillboxes O
 . O
-
--DOCSTART- O
-
+. O
 The O
 Australian I-ORG
 League I-ORG
@@ -12757,7 +12250,6 @@ C. I-PER
 H. I-PER
 Douglas I-PER
 . O
-
 It O
 describes O
 itself O
@@ -12768,7 +12260,6 @@ virtues O
 of O
 freedom O
 . O
-
 It O
 is O
 not O
@@ -12787,7 +12278,6 @@ against O
 government O
 intervention O
 . O
-
 The O
 League I-ORG
 was O
@@ -12820,7 +12310,6 @@ Australia I-LOC
 from O
 1946 O
 . O
-
 The O
 League I-ORG
 's O
@@ -12839,7 +12328,6 @@ age O
 of O
 90 O
 . O
-
 The O
 League I-ORG
 , O
@@ -12871,7 +12359,6 @@ killed O
 ever O
 occurred O
 . O
-
 It O
 is O
 strongly O
@@ -12886,7 +12373,6 @@ advocate O
 David I-PER
 Irving I-PER
 . O
-
 They O
 believe O
 that O
@@ -12901,7 +12387,6 @@ society O
 of O
 Jews I-MISC
 . O
-
 The O
 League I-ORG
 is O
@@ -12952,7 +12437,6 @@ century O
 " O
 ) O
 . O
-
 The O
 League I-ORG
 describes O
@@ -12972,7 +12456,6 @@ in O
 its O
 anti-communism O
 . O
-
 They O
 argue O
 in O
@@ -12990,7 +12473,6 @@ and O
 individual O
 enterprise O
 . O
-
 They O
 are O
 keen O
@@ -12999,7 +12481,6 @@ of O
 Social O
 Credit O
 . O
-
 They O
 are O
 strongly O
@@ -13024,7 +12505,6 @@ to O
 Australian I-MISC
 identity O
 . O
-
 The O
 League I-ORG
 has O
@@ -13041,7 +12521,6 @@ National I-ORG
 Socialist I-ORG
 Party I-ORG
 . O
-
 Former O
 Western I-MISC
 Australian I-MISC
@@ -13082,7 +12561,6 @@ and O
 Australia I-ORG
 First I-ORG
 . O
-
 Mr O
 Campbell I-PER
 stated O
@@ -13097,7 +12575,6 @@ with O
 the O
 League I-ORG
 . O
-
 It O
 's O
 me O
@@ -13106,7 +12583,6 @@ the O
 association O
 . O
 " O
-
 Former O
 treasurer O
 Peter I-PER
@@ -13151,7 +12627,6 @@ banking O
 and O
 money O
 " O
-
 The O
 Australian I-MISC
 branch O
@@ -13211,7 +12686,6 @@ Eric I-PER
 Butler I-PER
 . O
 " O
-
 ALOR I-ORG
 is O
 also O
@@ -13220,7 +12694,6 @@ associated O
 with O
 National I-ORG
 Action I-ORG
-
 In O
 the O
 1970s O
@@ -13260,7 +12733,6 @@ known O
 as O
 entryism O
 . O
-
 Doug I-PER
 Anthony I-PER
 led O
@@ -13282,7 +12754,6 @@ vote O
 against O
 them O
 . O
-
 After O
 a O
 long O
@@ -13296,7 +12767,6 @@ existing O
 leadership O
 prevailed O
 . O
-
 A O
 surprising O
 consequence O
@@ -13326,7 +12796,6 @@ had O
 more O
 members O
 . O
-
 This O
 fact O
 became O
@@ -13351,7 +12820,6 @@ of O
 the O
 media O
 . O
-
 It O
 has O
 been O
@@ -13387,7 +12855,6 @@ the O
 United I-LOC
 States I-LOC
 . O
-
 Critics O
 have O
 pointed O
@@ -13413,7 +12880,6 @@ of O
 Augusto I-PER
 Pinochet I-PER
 . O
-
 ( O
 1946 O
 ) O
@@ -13434,7 +12900,6 @@ Harcourt I-PER
 , I-PER
 D I-PER
 . O
-
 ( O
 1972 O
 ) O
@@ -13484,9 +12949,7 @@ Collingwood I-LOC
 , O
 p. O
 170 O
-
--DOCSTART- O
-
+. O
 Australian I-MISC
 Melodrama I-MISC
 is O
@@ -13501,9 +12964,7 @@ released O
 in O
 1994 O
 . O
-
--DOCSTART- O
-
+. O
 The O
 Ayalon I-LOC
 Cave I-LOC
@@ -13519,7 +12980,6 @@ Ramla I-LOC
 , O
 Israel I-LOC
 . O
-
 The O
 cave O
 , O
@@ -13544,7 +13004,6 @@ cave O
 in O
 Israel I-LOC
 . O
-
 Researchers O
 announced O
 that O
@@ -13575,7 +13034,6 @@ unknown O
 to O
 science O
 . O
-
 They O
 added O
 that O
@@ -13605,7 +13063,6 @@ of O
 the O
 region O
 . O
-
 The O
 cave O
 was O
@@ -13623,7 +13080,6 @@ quarry O
 near O
 Ramla I-LOC
 . O
-
 According O
 to O
 Professor O
@@ -13651,7 +13107,6 @@ impermeable O
 to O
 water O
 . O
-
 The O
 cave O
 will O
@@ -13668,7 +13123,6 @@ to O
 continue O
 undisturbed O
 . O
-
 As O
 the O
 cave O
@@ -13707,7 +13161,6 @@ an O
 energy O
 source O
 . O
-
 Rather O
 , O
 energy O
@@ -13728,7 +13181,6 @@ the O
 pool O
 water O
 . O
-
 These O
 bacteria O
 produce O
@@ -13753,7 +13205,6 @@ from O
 the O
 air O
 . O
-
 These O
 compounds O
 form O
@@ -13765,9 +13216,7 @@ cave O
 's O
 ecosystem O
 . O
-
--DOCSTART- O
-
+. O
 Baatsagaan I-LOC
 is O
 a O
@@ -13782,9 +13231,7 @@ in O
 southern O
 Mongolia I-LOC
 . O
-
--DOCSTART- O
-
+. O
 The O
 Badminton I-ORG
 Hall I-ORG
@@ -13814,7 +13261,6 @@ to O
 the O
 game O
 . O
-
 There O
 is O
 also O
@@ -13833,7 +13279,6 @@ Hall I-ORG
 of I-ORG
 Fame I-ORG
 . O
-
 The O
 Inaugural O
 Members O
@@ -13859,9 +13304,7 @@ E I-PER
 Scheele I-PER
 Obe I-PER
 . O
-
--DOCSTART- O
-
+. O
 The O
 Badminton I-ORG
 World I-ORG
@@ -13880,7 +13323,6 @@ sport O
 of O
 badminton O
 . O
-
 Founded O
 in O
 1934 O
@@ -13924,7 +13366,6 @@ achieve O
 international O
 recognition O
 . O
-
 On O
 September O
 24 O
@@ -13954,7 +13395,6 @@ Federation I-ORG
 BWF I-ORG
 ) O
 . O
-
 Its O
 head O
 office O
@@ -13984,7 +13424,6 @@ in O
 Kuala I-LOC
 Lumpur I-LOC
 . O
-
 Its O
 current O
 president O
@@ -13993,7 +13432,6 @@ Kang I-PER
 Young I-PER
 Joong I-PER
 . O
-
 The O
 BWF I-ORG
 bestows O
@@ -14020,9 +13458,7 @@ contributions O
 to O
 badminton O
 . O
-
--DOCSTART- O
-
+. O
 Bahus-Soubiran I-LOC
 is O
 a O
@@ -14037,9 +13473,7 @@ of O
 south-westrn O
 France I-LOC
 . O
-
--DOCSTART- O
-
+. O
 Bandarlapalle I-LOC
 is O
 a O
@@ -14058,7 +13492,6 @@ Pradesh I-LOC
 in O
 India I-LOC
 . O
-
 The O
 village O
 is O
@@ -14071,7 +13504,6 @@ of O
 Deccan I-LOC
 Plateau I-LOC
 . O
-
 There O
 are O
 some O
@@ -14087,7 +13519,6 @@ Konda I-ORG
 and O
 Ramakuppam I-ORG
 . O
-
 About O
 ten O
 miles O
@@ -14111,7 +13542,6 @@ plains O
 of O
 Tamilnadu I-LOC
 . O
-
 The O
 villagers O
 are O
@@ -14120,7 +13550,6 @@ a O
 farming O
 community O
 . O
-
 Agriculture O
 mainly O
 depends O
@@ -14157,7 +13586,6 @@ of O
 south O
 India I-LOC
 . O
-
 The O
 main O
 crops O
@@ -14172,7 +13600,6 @@ Wheat O
 and O
 Pulses O
 . O
-
 People O
 also O
 get O
@@ -14202,7 +13629,6 @@ in O
 the O
 village O
 . O
-
 Bandarlapalle I-LOC
 was O
 very O
@@ -14213,7 +13639,6 @@ developed O
 until O
 recently O
 . O
-
 However O
 , O
 since O
@@ -14240,7 +13665,6 @@ schools O
 being O
 built O
 . O
-
 The O
 major O
 festival O
@@ -14267,7 +13691,6 @@ the O
 good O
 harvest O
 . O
-
 The O
 main O
 attraction O
@@ -14285,9 +13708,7 @@ towns O
 and O
 villages O
 . O
-
--DOCSTART- O
-
+. O
 The O
 Bangladesh I-ORG
 Scouts I-ORG
@@ -14299,7 +13720,6 @@ organization O
 of O
 Bangladesh I-LOC
 . O
-
 Scouting O
 was O
 founded O
@@ -14342,7 +13762,6 @@ Bangladesh I-MISC
 Liberation I-MISC
 War I-MISC
 . O
-
 Following O
 its O
 independence O
@@ -14363,7 +13782,6 @@ Movement I-ORG
 in O
 1974 O
 . O
-
 The O
 organization O
 has O
@@ -14373,7 +13791,6 @@ as O
 of O
 2004 O
 . O
-
 During O
 the O
 Bangladesh I-MISC
@@ -14411,7 +13828,6 @@ Office O
 in O
 India I-LOC
 . O
-
 Scouting O
 has O
 grown O
@@ -14425,7 +13841,6 @@ of O
 considerable O
 difficulties O
 . O
-
 Scouts O
 are O
 involved O
@@ -14458,7 +13873,6 @@ housing O
 and O
 sports O
 . O
-
 During O
 national O
 disasters O
@@ -14488,7 +13902,6 @@ and O
 organizing O
 shelters O
 . O
-
 Membership O
 is O
 open O
@@ -14510,7 +13923,6 @@ creed O
 or O
 color O
 . O
-
 The O
 Scouts O
 receive O
@@ -14529,28 +13941,20 @@ in O
 citizenship O
 training O
 . O
-
 1 O
 . O
-
 2 O
 . O
-
 3 O
 . O
-
 4 O
 . O
-
 5 O
 . O
-
 6 O
 . O
-
 7 O
 . O
-
 The O
 Scout O
 Motto O
@@ -14576,7 +13980,6 @@ for O
 service O
 . O
 " O
-
 The O
 National I-LOC
 Training I-LOC
@@ -14587,7 +13990,6 @@ Mouchak I-LOC
 , O
 Gazipur I-LOC
 . O
-
 It O
 includes O
 a O
@@ -14598,7 +14000,6 @@ in O
 November O
 2007 O
 . O
-
 In O
 addition O
 , O
@@ -14630,9 +14031,7 @@ around O
 the O
 world O
 . O
-
--DOCSTART- O
-
+. O
 Bank I-LOC
 Hey I-LOC
 ( O
@@ -14652,7 +14051,6 @@ Lancashire I-LOC
 , O
 England I-LOC
 . O
-
 It O
 is O
 located O
@@ -14673,9 +14071,7 @@ boundary O
 with O
 Hyndburn I-LOC
 . O
-
--DOCSTART- O
-
+. O
 The O
 Battle I-MISC
 of I-MISC
@@ -14718,7 +14114,6 @@ and O
 Wang I-PER
 Shichong I-PER
 . O
-
 Li I-PER
 Shimin I-PER
 led O
@@ -14748,7 +14143,6 @@ from O
 the O
 east O
 . O
-
 However O
 , O
 Dou I-PER
@@ -14770,7 +14164,6 @@ the O
 new O
 threat O
 . O
-
 Li I-PER
 Shimin I-PER
 's O
@@ -14797,7 +14190,6 @@ capturing O
 Dou I-PER
 Jiande I-PER
 . O
-
 Afterwards O
 , O
 Wang I-PER
@@ -14811,7 +14203,6 @@ choice O
 surrendered O
 Luoyang I-LOC
 . O
-
 Dou I-PER
 Jiande I-PER
 was O
@@ -14837,9 +14228,7 @@ rebellion O
 against O
 Tang I-PER
 . O
-
--DOCSTART- O
-
+. O
 The O
 French I-MISC
 Voulet-Chanoine I-ORG
@@ -14890,7 +14279,6 @@ in O
 West I-LOC
 Africa I-LOC
 . O
-
 After O
 leaving O
 French I-LOC
@@ -14910,7 +14298,6 @@ meeting O
 little O
 resistance O
 . O
-
 One O
 of O
 the O
@@ -14937,7 +14324,6 @@ long O
 Islamized I-MISC
 region O
 . O
-
 Determinated O
 to O
 bar O
@@ -14987,7 +14373,6 @@ concentrated O
 her O
 forces O
 . O
-
 The O
 day O
 after O
@@ -14999,7 +14384,6 @@ started O
 what O
 Lt O
 . O
-
 Paul I-PER
 Joalland I-PER
 called O
@@ -15014,7 +14398,6 @@ the O
 campaign O
 " O
 . O
-
 The O
 French I-MISC
 found O
@@ -15052,7 +14435,6 @@ a O
 superior O
 enemy O
 . O
-
 After O
 the O
 Azna I-MISC
@@ -15095,7 +14477,6 @@ from O
 the O
 gunfire O
 . O
-
 The O
 French I-MISC
 felt O
@@ -15149,7 +14530,6 @@ too O
 much O
 blood O
 . O
-
 The O
 French I-MISC
 met O
@@ -15177,7 +14557,6 @@ Azna I-MISC
 to O
 escape O
 . O
-
 The O
 battle O
 had O
@@ -15203,9 +14582,7 @@ with O
 cartridges O
 consummed O
 . O
-
--DOCSTART- O
-
+. O
 The O
 Battle I-MISC
 of I-MISC
@@ -15253,7 +14630,6 @@ de I-PER
 la I-PER
 Pazuela I-PER
 . O
-
 The O
 Campaign O
 was O
@@ -15283,7 +14659,6 @@ Tucumán I-MISC
 and O
 Salta I-LOC
 . O
-
 Despite O
 having O
 malaria O
@@ -15306,7 +14681,6 @@ the O
 commanding O
 post O
 . O
-
 Belgrano I-PER
 's O
 army O
@@ -15335,7 +14709,6 @@ forces O
 from O
 Cochabamba I-LOC
 . O
-
 Both O
 colonels O
 had O
@@ -15355,7 +14728,6 @@ with O
 valuable O
 information O
 . O
-
 Knowing O
 that O
 the O
@@ -15393,7 +14765,6 @@ provide O
 much O
 resistance O
 . O
-
 At O
 the O
 end O
@@ -15427,7 +14798,6 @@ north O
 of O
 Potosí I-LOC
 . O
-
 The O
 realist O
 troops O
@@ -15464,7 +14834,6 @@ the O
 Cochabamban I-MISC
 forces O
 . O
-
 Castro I-PER
 also O
 attained O
@@ -15476,7 +14845,6 @@ instructions O
 to O
 Belgrano I-PER
 . O
-
 With O
 these O
 documents O
@@ -15499,7 +14867,6 @@ on O
 October O
 1 O
 . O
-
 Belgrano I-PER
 's O
 army O
@@ -15553,7 +14920,6 @@ Belgrano I-PER
 right O
 column O
 . O
-
 The O
 realist O
 army O
@@ -15577,7 +14943,6 @@ Belgrano I-PER
 's O
 encampment O
 . O
-
 Belgrano I-PER
 and O
 Eustaquio I-PER
@@ -15602,7 +14967,6 @@ the O
 dispersed O
 troops O
 . O
-
 Díaz I-PER
 Vélez I-PER
 took O
@@ -15628,7 +14992,6 @@ of O
 the O
 enemy O
 . O
-
 At O
 this O
 point O
@@ -15653,9 +15016,7 @@ of O
 Buenos I-LOC
 Aires I-LOC
 . O
-
--DOCSTART- O
-
+. O
 BayCon I-MISC
 is O
 the O
@@ -15671,7 +15032,6 @@ and O
 Fantasy O
 Convention O
 . O
-
 It O
 is O
 held O
@@ -15685,7 +15045,6 @@ Jose I-LOC
 , O
 California I-LOC
 . O
-
 BayCon I-MISC
 is O
 a O
@@ -15701,7 +15060,6 @@ last O
 several O
 years O
 . O
-
 The O
 convention O
 draws O
@@ -15723,7 +15081,6 @@ Washington I-LOC
 and O
 Nevada I-LOC
 . O
-
 Some O
 of O
 the O
@@ -15745,7 +15102,6 @@ and O
 Irene I-PER
 Radford I-PER
 . O
-
 Past O
 Guests O
 of O
@@ -15805,7 +15161,6 @@ and O
 Esther I-PER
 Friesner I-PER
 . O
-
 Toastmasters O
 have O
 included O
@@ -15828,7 +15183,6 @@ Laura I-PER
 Brodian I-PER
 Freas I-PER
 . O
-
 Co-founded O
 by O
 John I-PER
@@ -15866,7 +15220,6 @@ weekend O
 in O
 1982 O
 . O
-
 BayCon I-MISC
 ' O
 83 O
@@ -15877,7 +15230,6 @@ over O
 Thanksgiving I-MISC
 weekend O
 . O
-
 ( O
 The O
 name O
@@ -15904,7 +15256,6 @@ from O
 1973-78 O
 . O
 ) O
-
 To O
 avoid O
 conflicts O
@@ -15930,7 +15281,6 @@ Thanksgiving I-MISC
 in O
 1984 O
 . O
-
 For O
 most O
 of O
@@ -15954,7 +15304,6 @@ Red I-ORG
 Lion I-ORG
 ) O
 . O
-
 In O
 2007 O
 , O
@@ -15968,7 +15317,6 @@ Mateo I-LOC
 Marriott I-ORG
 Hotel I-ORG
 . O
-
 From O
 2008-2010 O
 , O
@@ -15993,9 +15341,7 @@ Clara I-LOC
 , O
 California I-LOC
 . O
-
--DOCSTART- O
-
+. O
 BCSWomen I-ORG
 is O
 a O
@@ -16022,7 +15368,6 @@ in O
 Information O
 Technology O
 . O
-
 The O
 group O
 has O
@@ -16035,7 +15380,6 @@ active O
 mailing O
 list O
 . O
-
 Activities O
 include O
 meetings O
@@ -16044,7 +15388,6 @@ networking O
 and O
 mentoring O
 . O
-
 The O
 chair O
 is O
@@ -16057,9 +15400,7 @@ University I-ORG
 of I-ORG
 Westminster I-ORG
 . O
-
--DOCSTART- O
-
+. O
 The O
 BEL20 O
 is O
@@ -16072,7 +15413,6 @@ of O
 Euronext I-ORG
 Brussels I-ORG
 . O
-
 In O
 general O
 , O
@@ -16097,7 +15437,6 @@ Brussels I-ORG
 Stock I-ORG
 Exchange I-ORG
 . O
-
 Since O
 Nyrstar I-ORG
 was O
@@ -16119,7 +15458,6 @@ full O
 20 O
 listings O
 . O
-
 The O
 composition O
 of O
@@ -16141,7 +15479,6 @@ the O
 calendar O
 year O
 . O
-
 These O
 changes O
 are O
@@ -16155,7 +15492,6 @@ of O
 every O
 March O
 . O
-
 In O
 addition O
 to O
@@ -16196,7 +15532,6 @@ for O
 the O
 index O
 . O
-
 In O
 addition O
 , O
@@ -16233,7 +15568,6 @@ day O
 of O
 December O
 . O
-
 The O
 minimum O
 requirement O
@@ -16257,7 +15591,6 @@ the O
 index O
 value O
 . O
-
 At O
 each O
 annual O
@@ -16283,7 +15616,6 @@ share O
 price O
 subsequently O
 . O
-
 The O
 BEL20 O
 is O
@@ -16292,9 +15624,7 @@ market O
 value-weighted O
 index O
 . O
-
--DOCSTART- O
-
+. O
 Benjamin I-PER
 Stoloff I-PER
 ( O
@@ -16321,7 +15651,6 @@ director O
 and O
 producer O
 . O
-
 He O
 began O
 his O
@@ -16346,7 +15675,6 @@ in O
 his O
 career O
 . O
-
 Stoloff I-PER
 was O
 born O
@@ -16357,7 +15685,6 @@ Pennsylvania I-LOC
 , O
 USA I-LOC
 . O
-
 He O
 died O
 in O
@@ -16365,9 +15692,7 @@ Hollywood I-LOC
 , O
 California I-LOC
 . O
-
--DOCSTART- O
-
+. O
 Benny I-PER
 Lee I-PER
 Boynton I-PER
@@ -16384,7 +15709,6 @@ American I-MISC
 football O
 player O
 . O
-
 He O
 was O
 elected O
@@ -16398,7 +15722,6 @@ Fame I-ORG
 in O
 1962 O
 . O
-
 He O
 played O
 professionally O
@@ -16409,9 +15732,7 @@ Jeffersons I-ORG
 and O
 Buffalo I-ORG
 Bisons I-ORG
-
--DOCSTART- O
-
+. O
 Ben I-PER
 Player I-PER
 Ben I-PER
@@ -16422,7 +15743,6 @@ current O
 World O
 Champion O
 . O
-
 He O
 is O
 known O
@@ -16435,7 +15755,6 @@ and O
 massive O
 charging O
 . O
-
 His O
 victory O
 came O
@@ -16456,7 +15775,6 @@ the O
 Pipeline I-MISC
 final I-MISC
 . O
-
 He O
 has O
 finished O
@@ -16471,7 +15789,6 @@ tour O
 several O
 times O
 . O
-
 Ben I-PER
 now O
 also O
@@ -16481,7 +15798,6 @@ Movement I-ORG
 Bodyboarding I-ORG
 Magazine I-ORG
 . O
-
 The O
 Shark I-MISC
 Island I-MISC
@@ -16500,7 +15816,6 @@ tune O
 of O
 $120,000 O
 . O
-
 But O
 as O
 they O
@@ -16525,7 +15840,6 @@ July O
 wave O
 action O
 . O
-
 When O
 the O
 month-long O
@@ -16552,7 +15866,6 @@ hands O
 of O
 competitors O
 . O
-
 And O
 so O
 the O
@@ -16609,7 +15922,6 @@ life O
 and O
 limb O
 . O
-
 " O
 I O
 just O
@@ -16642,7 +15954,6 @@ voted O
 to O
 compete O
 . O
-
 At O
 28 O
 , O
@@ -16674,7 +15985,6 @@ the O
 infamous O
 Island I-LOC
 . O
-
 Retreating O
 to O
 his O
@@ -16707,7 +16017,6 @@ rewarded O
 the O
 brave O
 . O
-
 He O
 paddled O
 out O
@@ -16729,7 +16038,6 @@ a O
 failed O
 one O
 . O
-
 " O
 I O
 ended O
@@ -16743,7 +16051,6 @@ on O
 the O
 reef O
 . O
-
 It O
 was O
 n't O
@@ -16752,7 +16059,6 @@ at O
 all O
 ... O
 " O
-
 Six O
 months O
 later O
@@ -16772,7 +16078,6 @@ the O
 world O
 tour O
 . O
-
 The O
 irony O
 of O
@@ -16812,7 +16117,6 @@ matters O
 at O
 hand O
 . O
-
 After O
 further O
 tour O
@@ -16858,7 +16162,6 @@ Queenslander I-MISC
 Mitchell I-PER
 Rawlins I-PER
 . O
-
 With O
 Rawlins I-PER
 knocked O
@@ -16886,7 +16189,6 @@ becoming O
 world O
 champ O
 . O
-
 His O
 surfing O
 in O
@@ -16905,7 +16207,6 @@ with O
 solid O
 boosts O
 . O
-
 Ben I-PER
 opened O
 up O
@@ -16923,7 +16224,6 @@ to O
 the O
 siren O
 . O
-
 Not O
 just O
 the O
@@ -16937,13 +16237,11 @@ of O
 the O
 world O
 ... O
-
 Then O
 , O
 further O
 controversy O
 . O
-
 In O
 the O
 hazy O
@@ -16978,7 +16276,6 @@ opponent O
 had O
 made O
 . O
-
 Scores O
 were O
 hastily O
@@ -17010,14 +16307,12 @@ the O
 Pipeline I-MISC
 trophy I-MISC
 . O
-
 The O
 confusion O
 soured O
 the O
 occasion O
 . O
-
 But O
 Ben I-PER
 Player I-PER
@@ -17028,7 +16323,6 @@ newest O
 world O
 champion O
 . O
-
 This O
 month O
 Player I-PER
@@ -17040,7 +16334,6 @@ defend O
 his O
 title O
 . O
-
 No O
 such O
 contest O
@@ -17062,7 +16355,6 @@ win O
 it O
 clean O
 . O
-
 And O
 again O
 it O
@@ -17111,7 +16403,6 @@ planet O
 will O
 attest O
 . O
-
 " O
 Ben I-PER
 gets O
@@ -17130,7 +16421,6 @@ says O
 Kelly I-PER
 Slater I-PER
 . O
-
 " O
 He O
 does O
@@ -17149,7 +16439,6 @@ job O
 done O
 right O
 . O
-
 He O
 has O
 a O
@@ -17162,7 +16451,6 @@ ride O
 a O
 wave O
 . O
-
 A O
 great O
 surfer O
@@ -17178,7 +16466,6 @@ they O
 ride O
 . O
 " O
-
 That O
 wiry O
 frame O
@@ -17214,7 +16501,6 @@ every O
 northern O
 winter O
 . O
-
 He O
 shares O
 physical O
@@ -17252,7 +16538,6 @@ of O
 the O
 mid-1990s O
 . O
-
 " O
 You O
 ca O
@@ -17286,7 +16571,6 @@ Sydney I-LOC
 northern O
 beaches O
 . O
-
 As O
 the O
 younger O
@@ -17310,7 +16594,6 @@ talent O
 and O
 drive O
 . O
-
 " O
 The O
 fact O
@@ -17328,7 +16611,6 @@ more O
 competitive O
 . O
 " O
-
 In O
 fact O
 Ben I-PER
@@ -17350,7 +16632,6 @@ comparatively O
 new O
 sport O
 . O
-
 Player I-PER
 won O
 Australian I-MISC
@@ -17379,7 +16660,6 @@ bodyboarding O
 in O
 Australia I-LOC
 . O
-
 This O
 crew O
 put O
@@ -17430,7 +16710,6 @@ the O
 barrelling O
 section O
 . O
-
 His O
 progressive O
 riding O
@@ -17471,7 +16750,6 @@ from O
 under O
 him O
 . O
-
 At O
 the O
 start O
@@ -17488,7 +16766,6 @@ out O
 of O
 bodyboarding O
 . O
-
 " O
 Three O
 years O
@@ -17502,7 +16779,6 @@ the O
 same O
 day O
 . O
-
 [ O
 Surfwear O
 label O
@@ -17530,7 +16806,6 @@ contract O
 went O
 bust O
 . O
-
 Basically O
 I O
 lost O
@@ -17550,7 +16825,6 @@ me O
 says O
 Player I-PER
 . O
-
 Player I-PER
 pinpoints O
 Mike I-PER
@@ -17589,7 +16863,6 @@ support O
 bodyboarding O
 " O
 . O
-
 A O
 kind O
 of O
@@ -17600,7 +16873,6 @@ through O
 the O
 sport O
 . O
-
 First O
 came O
 the O
@@ -17615,7 +16887,6 @@ wetsuits O
 and O
 accessories O
 . O
-
 Now O
 bodyboarding O
 specific O
@@ -17630,7 +16901,6 @@ newly O
 independent O
 industry O
 . O
-
 " O
 The O
 sport O
@@ -17648,7 +16918,6 @@ will O
 tell O
 you O
 . O
-
 " O
 It O
 's O
@@ -17664,7 +16933,6 @@ in O
 bodyboarding O
 . O
 " O
-
 The O
 thought O
 of O
@@ -17674,7 +16942,6 @@ entered O
 his O
 head O
 . O
-
 " O
 It O
 was O
@@ -17693,7 +16960,6 @@ ends O
 meet O
 ? O
 " O
-
 He O
 'd O
 always O
@@ -17738,7 +17004,6 @@ launched O
 a O
 magazine O
 . O
-
 " O
 The O
 only O
@@ -17767,7 +17032,6 @@ could O
 n't O
 relate O
 . O
-
 I O
 wanted O
 to O
@@ -17791,7 +17055,6 @@ do O
 . O
 ' O
 " O
-
 For O
 the O
 first O
@@ -17809,7 +17072,6 @@ was O
 named O
 Movement I-ORG
 . O
-
 It O
 now O
 employs O
@@ -17823,7 +17085,6 @@ this O
 author O
 ) O
 . O
-
 Player I-PER
 's O
 been O
@@ -17852,7 +17113,6 @@ in O
 the O
 sport O
 . O
-
 It O
 has O
 even O
@@ -17863,7 +17123,6 @@ for O
 the O
 sport O
 . O
-
 " O
 The O
 more O
@@ -17881,7 +17140,6 @@ bodyboarding O
 again O
 . O
 " O
-
 As O
 the O
 street O
@@ -17898,7 +17156,6 @@ of O
 the O
 sport O
 . O
-
 Bodyboarders O
 now O
 seek O
@@ -17918,7 +17175,6 @@ surfers O
 leave O
 alone O
 . O
-
 " O
 On O
 a O
@@ -17930,7 +17186,6 @@ much O
 steeper O
 situations O
 . O
-
 Being O
 prone O
 means O
@@ -17963,7 +17218,6 @@ the O
 wave O
 . O
 " O
-
 This O
 extreme O
 element O
@@ -17972,7 +17226,6 @@ with O
 heavy O
 consequences O
 . O
-
 During O
 a O
 contest O
@@ -17994,7 +17247,6 @@ down O
 on O
 him O
 . O
-
 When O
 he O
 finally O
@@ -18019,7 +17271,6 @@ the O
 imploding O
 wave O
 . O
-
 " O
 I O
 think O
@@ -18050,7 +17301,6 @@ different O
 he O
 says O
 . O
-
 " O
 We O
 're O
@@ -18067,7 +17317,6 @@ own O
 industry O
 . O
 " O
-
 The O
 revamped O
 world O
@@ -18084,7 +17333,6 @@ suit O
 the O
 craft O
 . O
-
 Shark I-LOC
 Island I-LOC
 is O
@@ -18118,7 +17366,6 @@ into O
 aerial O
 manoeuvres O
 . O
-
 The O
 contest O
 site O
@@ -18136,7 +17383,6 @@ barrels O
 both O
 ways O
 . O
-
 Then O
 there O
 is O
@@ -18157,7 +17403,6 @@ or O
 lying O
 down O
 . O
-
 Portugal I-LOC
 is O
 the O
@@ -18198,7 +17443,6 @@ in O
 South I-LOC
 America I-LOC
 . O
-
 In O
 Australia I-LOC
 , O
@@ -18234,7 +17478,6 @@ wherever O
 they O
 go O
 . O
-
 The O
 organisers O
 of O
@@ -18277,7 +17520,6 @@ so O
 to O
 speak O
 . O
-
 But O
 for O
 now O
@@ -18306,7 +17548,6 @@ Shore I-LOC
 of O
 Oahu I-LOC
 . O
-
 Mixed O
 results O
 on O
@@ -18350,7 +17591,6 @@ in O
 mid-to-late O
 January O
 . O
-
 If O
 the O
 waves O
@@ -18377,9 +17617,7 @@ winning O
 the O
 day O
 . O
-
--DOCSTART- O
-
+. O
 Bilje I-LOC
 is O
 a O
@@ -18412,7 +17650,6 @@ northeast O
 of O
 Osijek I-LOC
 . O
-
 Its O
 name O
 derived O
@@ -18431,7 +17668,6 @@ in O
 English I-MISC
 ) O
 . O
-
 Chief O
 occupations O
 among O
@@ -18450,7 +17686,6 @@ a O
 mill O
 ) O
 . O
-
 The O
 manor O
 with O
@@ -18471,7 +17706,6 @@ a O
 horticultural O
 monument O
 . O
-
 The O
 neighbouring O
 village O
@@ -18492,7 +17726,6 @@ in O
 Europe I-LOC
 Belje I-LOC
 . O
-
 Kopački I-LOC
 Rit I-LOC
 , O
@@ -18523,7 +17756,6 @@ far O
 from O
 Mece I-LOC
 . O
-
 The O
 area O
 surrounding O
@@ -18547,9 +17779,7 @@ opulent O
 fishing O
 grounds O
 . O
-
--DOCSTART- O
-
+. O
 Bilka I-ORG
 is O
 a O
@@ -18558,7 +17788,6 @@ chain O
 of O
 hypermarkets O
 . O
-
 The O
 first O
 store O
@@ -18573,7 +17802,6 @@ suburb O
 of O
 Aarhus I-LOC
 . O
-
 The O
 chain O
 was O
@@ -18591,7 +17819,6 @@ of O
 Dansk I-ORG
 Supermarked I-ORG
 . O
-
 The O
 name O
 Bilka I-ORG
@@ -18630,7 +17857,6 @@ to O
 West I-LOC
 Germany I-LOC
 . O
-
 However O
 , O
 Herman I-PER
@@ -18665,9 +17891,7 @@ to O
 the O
 stores O
 . O
-
--DOCSTART- O
-
+. O
 William I-PER
 James I-PER
 Atessis I-PER
@@ -18703,7 +17927,6 @@ University I-ORG
 of I-ORG
 Texas I-ORG
 . O
-
 One O
 of O
 the O
@@ -18738,7 +17961,6 @@ as O
 a O
 senior O
 . O
-
 He O
 currently O
 resides O
@@ -18747,7 +17969,6 @@ Phoenix I-LOC
 , O
 Arizona I-LOC
 . O
-
 Attended O
 James I-ORG
 High I-ORG
@@ -18756,12 +17977,10 @@ School I-ORG
 in O
 Houston I-LOC
 . O
-
 Graduated O
 in O
 1967 O
 . O
-
 He O
 was O
 a O
@@ -18785,7 +18004,6 @@ class O
 of O
 1967 O
 . O
-
 He O
 was O
 an O
@@ -18801,7 +18019,6 @@ baseball O
 and O
 basketball O
 . O
-
 He O
 was O
 inducted O
@@ -18817,7 +18034,6 @@ Fame I-ORG
 in O
 1995 O
 . O
-
 In O
 1996 O
 was O
@@ -18845,7 +18061,6 @@ Houston I-ORG
 Chronicle I-ORG
 list O
 . O
-
 Atessis I-PER
 was O
 a O
@@ -18882,7 +18097,6 @@ left O
 defensive O
 end O
 . O
-
 Including O
 two O
 years O
@@ -18902,7 +18116,6 @@ of O
 and O
 1970 O
 . O
-
 Was O
 voted O
 Longhorn I-MISC
@@ -18922,7 +18135,6 @@ in O
 and O
 1970 O
 . O
-
 The O
 Longhorns I-ORG
 also O
@@ -18947,7 +18159,6 @@ during O
 that O
 time O
 . O
-
 Was O
 a O
 consensus O
@@ -18986,7 +18197,6 @@ Dick I-PER
 Bumpas I-PER
 ) O
 . O
-
 Consensus O
 All-SWC O
 choice O
@@ -19019,7 +18229,6 @@ both O
 in O
 1970 O
 . O
-
 Played O
 in O
 the O
@@ -19034,7 +18243,6 @@ in O
 January O
 1971 O
 . O
-
 Is O
 a O
 member O
@@ -19055,7 +18263,6 @@ in O
 in O
 2001 O
 . O
-
 Texas I-LOC
 Coach O
 Darrell I-PER
@@ -19080,7 +18287,6 @@ three O
 years O
 . O
 " O
-
 Played O
 in O
 the O
@@ -19098,7 +18304,6 @@ June O
 , O
 1971 O
 . O
-
 Singled O
 out O
 for O
@@ -19120,7 +18325,6 @@ of O
 the O
 game O
 award O
-
 Played O
 in O
 what O
@@ -19154,7 +18358,6 @@ Longhorns I-ORG
 winning O
 15-14 O
 . O
-
 In O
 2005 O
 was O
@@ -19190,7 +18393,6 @@ also O
 in O
 2005 O
 . O
-
 In O
 2006 O
 he O
@@ -19210,7 +18412,6 @@ in O
 Texas I-ORG
 Longhorn I-ORG
 history O
-
 Was O
 highly O
 regarded O
@@ -19220,7 +18421,6 @@ stellar O
 collegiate O
 career O
 . O
-
 Was O
 drafted O
 by O
@@ -19230,7 +18430,6 @@ Champion O
 Baltimore I-ORG
 Colts I-ORG
 . O
-
 Was O
 injured O
 in O
@@ -19241,7 +18440,6 @@ released O
 in O
 mid-season O
 . O
-
 Played O
 defensive O
 end O
@@ -19251,7 +18449,6 @@ Patriots I-ORG
 in O
 1971 O
 . O
-
 Asked O
 to O
 drop O
@@ -19269,7 +18466,6 @@ had O
 never O
 played O
 . O
-
 Left O
 camp O
 in O
@@ -19285,7 +18481,6 @@ St. I-ORG
 Louis I-ORG
 Cardinals I-ORG
 . O
-
 Was O
 moved O
 to O
@@ -19305,7 +18500,6 @@ to O
 play O
 linebacker O
 . O
-
 Was O
 injured O
 again O
@@ -19314,7 +18508,6 @@ released O
 by O
 Cards I-ORG
 . O
-
 Signed O
 as O
 a O
@@ -19334,15 +18527,12 @@ in O
 training O
 camp O
 . O
-
 NFL I-ORG
 saga O
 of O
 an O
 All-American O
-
--DOCSTART- O
-
+. O
 William I-PER
 Mailes I-PER
 " I-PER
@@ -19390,7 +18580,6 @@ and O
 Boston I-ORG
 Bruins I-ORG
 . O
-
 After O
 a O
 few O
@@ -19418,7 +18607,6 @@ Eagles I-ORG
 in O
 1933-34 O
 . O
-
 After O
 the O
 season O
@@ -19446,7 +18634,6 @@ subsequent O
 dispersal O
 draft O
 . O
-
 In O
 Boston I-LOC
 he O
@@ -19490,7 +18677,6 @@ in O
 and O
 1941 O
 . O
-
 While O
 World I-MISC
 War I-MISC
@@ -19522,7 +18708,6 @@ sole O
 remaining O
 star O
 . O
-
 Frequently O
 injured O
 , O
@@ -19549,7 +18734,6 @@ two O
 points O
 short O
 . O
-
 Cowley I-PER
 finished O
 his O
@@ -19568,7 +18752,6 @@ in O
 NHL I-ORG
 games O
 . O
-
 At O
 the O
 time O
@@ -19600,7 +18783,6 @@ Louis I-ORG
 Eagles I-ORG
 roster O
 . O
-
 After O
 his O
 career O
@@ -19623,7 +18805,6 @@ of O
 the O
 PCHL I-ORG
 . O
-
 He O
 also O
 helped O
@@ -19637,7 +18818,6 @@ part-owner O
 in O
 1967 O
 . O
-
 He O
 was O
 inducted O
@@ -19650,7 +18830,6 @@ Fame I-ORG
 in O
 1968 O
 . O
-
 In O
 1998 O
 , O
@@ -19671,9 +18850,7 @@ Greatest O
 Hockey O
 Players O
 . O
-
--DOCSTART- O
-
+. O
 Bishop I-ORG
 Garrigan I-ORG
 High I-ORG
@@ -19691,7 +18868,6 @@ Algona I-LOC
 , O
 Iowa I-LOC
 . O
-
 It O
 is O
 located O
@@ -19704,7 +18880,6 @@ of O
 Sioux I-LOC
 City I-LOC
 . O
-
 The O
 school O
 is O
@@ -19725,7 +18900,6 @@ of I-LOC
 Sioux I-LOC
 City I-LOC
 . O
-
 The O
 school O
 was O
@@ -19743,9 +18917,7 @@ for O
 5 O
 parishes O
 . O
-
--DOCSTART- O
-
+. O
 Blue I-MISC
 Winds I-MISC
 Dancing I-MISC
@@ -19757,7 +18929,6 @@ by O
 Tom I-PER
 Whitecloud I-PER
 . O
-
 The O
 story O
 stands O
@@ -19779,7 +18950,6 @@ and O
 social O
 observations O
 . O
-
 Blue I-MISC
 Winds I-MISC
 Dancing I-MISC
@@ -19823,9 +18993,7 @@ an O
 ancient O
 society O
 . O
-
--DOCSTART- O
-
+. O
 The O
 Boilerhouse I-ORG
 Boys I-ORG
@@ -19856,9 +19024,7 @@ and O
 soundtrack O
 composers O
 . O
-
--DOCSTART- O
-
+. O
 Bontnewydd I-LOC
 is O
 an O
@@ -19872,7 +19038,6 @@ Welsh I-LOC
 Highland I-LOC
 Railway I-LOC
 . O
-
 The O
 halt O
 was O
@@ -19901,7 +19066,6 @@ Eifion I-LOC
 cycle O
 route O
 . O
-
 The O
 train O
 services O
@@ -19913,9 +19077,7 @@ Ffestiniog I-ORG
 Railway I-ORG
 Company I-ORG
 . O
-
--DOCSTART- O
-
+. O
 Boultham I-LOC
 is O
 a O
@@ -19925,9 +19087,7 @@ Lincolnshire I-LOC
 , O
 England I-LOC
 . O
-
--DOCSTART- O
-
+. O
 The O
 Brain I-ORG
 Injury I-ORG
@@ -19948,7 +19108,6 @@ in O
 the O
 UK I-LOC
 . O
-
 They O
 support O
 people O
@@ -19979,7 +19138,6 @@ stroke O
 or O
 disease O
 . O
-
 They O
 offer O
 a O
@@ -20011,7 +19169,6 @@ and O
 community-based O
 support O
 . O
-
 BIRT I-ORG
 is O
 a O
@@ -20041,9 +19198,7 @@ as O
 brain O
 injury O
 . O
-
--DOCSTART- O
-
+. O
 Brampton I-ORG
 City I-ORG
 Council I-ORG
@@ -20059,7 +19214,6 @@ Brampton I-LOC
 , O
 Ontario I-LOC
 . O
-
 It O
 consists O
 of O
@@ -20082,7 +19236,6 @@ elected O
 city O
 councillors O
 . O
-
 Each O
 councillor O
 represents O
@@ -20090,7 +19243,6 @@ two O
 city O
 wards O
 . O
-
 Listed O
 as O
 regional O
@@ -20098,9 +19250,7 @@ councillor O
 , O
 city O
 councillor O
-
--DOCSTART- O
-
+. O
 Brandhorst I-LOC
 is O
 a O
@@ -20118,7 +19268,6 @@ Saxony-Anhalt I-LOC
 , O
 Germany I-LOC
 . O
-
 The O
 municipality O
 is O
@@ -20142,9 +19291,7 @@ city O
 of O
 Oranienbau I-LOC
 . O
-
--DOCSTART- O
-
+. O
 Brensbach I-LOC
 is O
 a O
@@ -20159,9 +19306,7 @@ Hesse I-LOC
 , O
 Germany I-LOC
 . O
-
--DOCSTART- O
-
+. O
 It O
 connected O
 with O
@@ -20199,7 +19344,6 @@ the O
 Saco I-LOC
 River I-LOC
 . O
-
 B&SR I-LOC
 design O
 was O
@@ -20212,7 +19356,6 @@ Sandy I-LOC
 River I-LOC
 Railroad I-LOC
 . O
-
 Hinkley I-ORG
 Locomotive I-ORG
 Works I-ORG
@@ -20247,7 +19390,6 @@ in O
 early O
 1882 O
 . O
-
 The O
 successful O
 design O
@@ -20269,7 +19411,6 @@ and I-LOC
 Megantic I-LOC
 Railway I-LOC
 . O
-
 Construction O
 began O
 in O
@@ -20285,7 +19426,6 @@ by O
 early O
 1883 O
 . O
-
 B&SR I-LOC
 used O
 early O
@@ -20298,7 +19438,6 @@ with O
 earthen O
 fills O
 . O
-
 A O
 14-foot O
 granite O
@@ -20325,7 +19464,6 @@ rails O
 in O
 1898 O
 . O
-
 Trestles O
 on O
 the O
@@ -20344,7 +19482,6 @@ bridges O
 by O
 1906 O
 . O
-
 Original O
 Hinkley I-ORG
 locomotives O
@@ -20363,7 +19500,6 @@ with O
 pilot O
 wheels O
 . O
-
 B&SR I-LOC
 then O
 replaced O
@@ -20402,7 +19538,6 @@ B&SR I-LOC
 in O
 1912 O
 . O
-
 Under O
 Maine I-LOC
 Central I-LOC
@@ -20424,7 +19559,6 @@ Junction I-LOC
 and O
 return O
 . O
-
 The O
 first O
 left O
@@ -20442,7 +19576,6 @@ at O
 8:45 O
 PM O
 . O
-
 Train O
 speed O
 seldom O
@@ -20452,7 +19585,6 @@ miles O
 per O
 hour O
 . O
-
 Two O
 passenger O
 train O
@@ -20463,7 +19595,6 @@ for O
 this O
 service O
 . O
-
 The O
 first O
 consisted O
@@ -20482,7 +19613,6 @@ or O
 two O
 coaches O
 . O
-
 A O
 couple O
 of O
@@ -20504,7 +19634,6 @@ second O
 train O
 set O
 . O
-
 Freight O
 traffic O
 in O
@@ -20547,7 +19676,6 @@ inbound O
 petroleum O
 products O
 . O
-
 Locomotive O
 # O
 8 O
@@ -20563,7 +19691,6 @@ Maine I-LOC
 gauge O
 railways O
 . O
-
 Bond O
 interest O
 went O
@@ -20585,7 +19712,6 @@ preserve O
 their O
 railroad O
 . O
-
 The O
 B&SR I-LOC
 was O
@@ -20618,7 +19744,6 @@ sagged O
 in O
 1930 O
 . O
-
 Locomotive O
 # O
 8 O
@@ -20634,7 +19759,6 @@ railway O
 in O
 Maine I-LOC
 . O
-
 B&SR I-LOC
 became O
 a O
@@ -20655,14 +19779,12 @@ late O
 1930 O
 's O
 . O
-
 Operation O
 ceased O
 in O
 September O
 1941 O
 . O
-
 The O
 rolling O
 stock O
@@ -20686,7 +19808,6 @@ World I-MISC
 War I-MISC
 II I-MISC
 . O
-
 The O
 rolling O
 stock O
@@ -20707,7 +19828,6 @@ after O
 the O
 war O
 . O
-
 There O
 are O
 still O
@@ -20727,7 +19847,6 @@ carefully O
 for O
 them O
 . O
-
 Milepost O
 0 O
 : O
@@ -20750,7 +19869,6 @@ Mountain I-LOC
 Division I-LOC
 . O
 ) O
-
 Agent O
 's O
 station O
@@ -20760,7 +19878,6 @@ Maine I-LOC
 Central I-LOC
 Railroad I-LOC
 . O
-
 B&SR I-LOC
 had O
 6 O
@@ -20774,7 +19891,6 @@ a O
 single-stall O
 enginehouse O
 . O
-
 The O
 freight O
 house O
@@ -20801,7 +19917,6 @@ on O
 standard-gauge O
 cars O
 . O
-
 There O
 was O
 no O
@@ -20852,7 +19967,6 @@ of O
 the O
 spur O
 . O
-
 Milepost O
 0.8 O
 : O
@@ -20862,7 +19976,6 @@ Scribner O
 southbound O
 spur O
 . O
-
 Milepost O
 1 O
 : O
@@ -20873,13 +19986,11 @@ over O
 Hancock I-LOC
 Brook I-LOC
 . O
-
 Milepost O
 1.2 O
 : O
 Small O
 's O
-
 Milepost O
 2.0 O
 : O
@@ -20893,7 +20004,6 @@ stop O
 passenger O
 shelter O
 . O
-
 Milepost O
 2.7 O
 : O
@@ -20903,7 +20013,6 @@ Siding O
 northbound O
 spur O
 . O
-
 Milepost O
 3 O
 : O
@@ -20915,7 +20024,6 @@ on O
 the O
 railroad O
 . O
-
 Milepost O
 4 O
 : O
@@ -20948,7 +20056,6 @@ town O
 of O
 Sebago I-LOC
 . O
-
 Milepost O
 4.4 O
 : O
@@ -20961,7 +20068,6 @@ stop O
 passenger O
 shelter O
 . O
-
 Milepost O
 5.4 O
 : O
@@ -20971,7 +20077,6 @@ Pit O
 northbound O
 spur O
 . O
-
 Milepost O
 7 O
 : O
@@ -20982,7 +20087,6 @@ a O
 rock O
 cut O
 . O
-
 Milepost O
 7.2 O
 : O
@@ -20998,7 +20102,6 @@ stop O
 passenger O
 shelter O
 . O
-
 Milepost O
 7.5 O
 : O
@@ -21013,7 +20116,6 @@ to O
 Hancock I-LOC
 Pond I-LOC
 . O
-
 The O
 main O
 line O
@@ -21039,7 +20141,6 @@ covered O
 water O
 tank O
 . O
-
 Milepost O
 9.0 O
 : O
@@ -21056,7 +20157,6 @@ stop O
 passenger O
 shelter O
 . O
-
 Milepost O
 10.5 O
 : O
@@ -21073,7 +20173,6 @@ stop O
 passenger O
 shelter O
 . O
-
 Milepost O
 11.3 O
 : O
@@ -21083,7 +20182,6 @@ Kennett O
 southbound O
 spur O
 . O
-
 Milepost O
 12.1 O
 : O
@@ -21099,7 +20197,6 @@ stop O
 passenger O
 shelter O
 . O
-
 Milepost O
 13 O
 : O
@@ -21119,7 +20216,6 @@ over O
 Willett I-LOC
 Brook I-LOC
 . O
-
 Milepost O
 13.5 O
 : O
@@ -21136,7 +20232,6 @@ serving O
 a O
 sawmill O
 . O
-
 Milepost O
 15.8 O
 : O
@@ -21157,7 +20252,6 @@ Maine I-LOC
 gauge O
 railroads O
 . O
-
 The O
 yard O
 was O
@@ -21175,7 +20269,6 @@ and O
 Bridgton I-LOC
 Junction I-LOC
 . O
-
 There O
 were O
 2 O
@@ -21219,7 +20312,6 @@ a O
 4-stall O
 enginehouse O
 . O
-
 Milepost O
 15.9 O
 : O
@@ -21237,7 +20329,6 @@ coal O
 trestle O
 . O
 ) O
-
 Milepost O
 16.4 O
 : O
@@ -21253,7 +20344,6 @@ coal O
 trestle O
 spur O
 . O
-
 Milepost O
 19.5 O
 : O
@@ -21272,7 +20362,6 @@ separate O
 freight O
 house O
 . O
-
 Milepost O
 20.7 O
 : O
@@ -21314,7 +20403,6 @@ a O
 single-stall O
 enginehouse O
 . O
-
 Baggage O
 car O
 # O
@@ -21323,7 +20411,6 @@ later O
 renumbered O
 # O
 31 O
-
 Baggage O
 car O
 # O
@@ -21332,7 +20419,6 @@ later O
 renumbered O
 # O
 30 O
-
 Coach O
 # O
 18 O
@@ -21347,7 +20433,6 @@ Railway I-LOC
 in O
 1911 O
 . O
-
 RPO O
 # O
 25 O
@@ -21368,7 +20453,6 @@ yard O
 about O
 1927 O
 . O
-
 The O
 larger O
 smoking O
@@ -21406,7 +20490,6 @@ to O
 carry O
 passengers O
 . O
-
 The O
 car O
 was O
@@ -21419,7 +20502,6 @@ restaurant O
 in O
 1935 O
 . O
-
 The O
 appearance O
 of O
@@ -21443,7 +20525,6 @@ of O
 the O
 boiler O
 . O
-
 Flat O
 cars O
 # O
@@ -21461,7 +20542,6 @@ railway O
 in O
 Maine I-LOC
 . O
-
 Flat O
 car O
 # O
@@ -21485,7 +20565,6 @@ York I-LOC
 in O
 1920 O
 . O
-
 The O
 tank O
 was O
@@ -21502,7 +20581,6 @@ when O
 was O
 scrapped O
 . O
-
 Flat O
 car O
 # O
@@ -21523,7 +20601,6 @@ Company I-ORG
 in O
 1901 O
 . O
-
 Cars O
 # O
 22 O
@@ -21540,7 +20617,6 @@ cars O
 in O
 Maine I-LOC
 . O
-
 Flat O
 cars O
 # O
@@ -21565,7 +20641,6 @@ they O
 required O
 repairs O
 . O
-
 Flat O
 car O
 # O
@@ -21576,7 +20651,6 @@ as O
 a O
 flanger O
 . O
-
 Box O
 cars O
 # O
@@ -21599,7 +20673,6 @@ when O
 transporting O
 livestock O
 . O
-
 Box O
 cars O
 # O
@@ -21619,7 +20692,6 @@ railroad O
 in O
 Maine I-LOC
 . O
-
 Box O
 cars O
 # O
@@ -21637,9 +20709,7 @@ railway O
 in O
 Maine I-LOC
 . O
-
--DOCSTART- O
-
+. O
 The O
 British I-ORG
 Columbia I-ORG
@@ -21660,7 +20730,6 @@ Burnaby I-LOC
 British I-LOC
 Columbia I-LOC
 . O
-
 It O
 provides O
 full O
@@ -21687,7 +20756,6 @@ technologies O
 and O
 trades O
 . O
-
 Dr. O
 Verna I-PER
 Magee-Shepherd I-PER
@@ -21698,7 +20766,6 @@ of O
 the O
 Institute O
 . O
-
 Dr. O
 Don I-PER
 Wright I-PER
@@ -21712,7 +20779,6 @@ March O
 , O
 2008 O
 . O
-
 In O
 addition O
 to O
@@ -21752,7 +20818,6 @@ small O
 satellite O
 campuses O
 . O
-
 It O
 is O
 also O
@@ -21783,7 +20848,6 @@ several O
 other O
 institutions O
 . O
-
 BCIT I-ORG
 provides O
 the O
@@ -21798,7 +20862,6 @@ of O
 British I-LOC
 Columbia I-LOC
 . O
-
 Approximately O
 16,000 O
 full-time O
@@ -21815,7 +20878,6 @@ over O
 100,000 O
 alumni O
 . O
-
 BCIT I-ORG
 has O
 over O
@@ -21833,7 +20895,6 @@ faculty O
 and O
 staff O
 . O
-
 BCIT I-ORG
 has O
 six O
@@ -21849,7 +20910,6 @@ variety O
 of O
 subjects O
 . O
-
 BCIT I-ORG
 also O
 has O
@@ -21871,9 +20931,7 @@ and O
 commercialization O
 assistance O
 . O
-
--DOCSTART- O
-
+. O
 William I-PER
 Herbert I-PER
 " I-PER
@@ -21909,7 +20967,6 @@ Pirates I-ORG
 in O
 1924 O
 . O
-
 The O
 24-year-old O
 right-hander O
@@ -21923,7 +20980,6 @@ weighed O
 169 O
 lbs O
 . O
-
 On O
 May O
 9 O
@@ -21953,7 +21009,6 @@ at O
 Forbes I-LOC
 Field I-LOC
 . O
-
 He O
 pitched O
 a O
@@ -21970,7 +21025,6 @@ Pirates I-ORG
 lost O
 10-7 O
 . O
-
 His O
 lifetime O
 ERA O
@@ -21978,7 +21032,6 @@ stands O
 at O
 0.00 O
 . O
-
 His O
 manager O
 was O
@@ -21989,7 +21042,6 @@ Famer O
 Bill I-PER
 McKechnie I-PER
 . O
-
 Other O
 notable O
 teammates O
@@ -22019,7 +21071,6 @@ and O
 Pie I-PER
 Traynor I-PER
 . O
-
 May I-PER
 died O
 in O
@@ -22035,9 +21086,7 @@ age O
 of O
 84 O
 . O
-
--DOCSTART- O
-
+. O
 Bullocks I-MISC
 to I-MISC
 Stan I-MISC
@@ -22053,7 +21102,6 @@ American I-MISC
 Dad I-MISC
 ! I-MISC
 . O
-
 At O
 the O
 CIA I-ORG
@@ -22069,7 +21117,6 @@ Director O
 Avery I-PER
 Bullock I-PER
 . O
-
 Stan I-PER
 believes O
 that O
@@ -22082,7 +21129,6 @@ for O
 a O
 promotion O
 . O
-
 The O
 next O
 morning O
@@ -22108,7 +21154,6 @@ slept O
 with O
 Hayley I-PER
 . O
-
 Stan I-PER
 is O
 against O
@@ -22129,7 +21174,6 @@ promotion O
 he O
 wanted O
 . O
-
 Francine I-PER
 is O
 against O
@@ -22160,7 +21204,6 @@ on O
 everything O
 ) O
 . O
-
 Jeff I-PER
 and O
 Hayley I-PER
@@ -22174,7 +21217,6 @@ breaks-up O
 with O
 Bullock I-PER
 . O
-
 Bullock I-PER
 then O
 tells O
@@ -22202,7 +21244,6 @@ Stan I-PER
 's O
 SUV O
 . O
-
 At O
 a O
 diner O
@@ -22235,7 +21276,6 @@ from O
 Klaus I-PER
 ) O
 . O
-
 Bullock I-PER
 then O
 claims O
@@ -22276,7 +21316,6 @@ him O
 the O
 promotion O
 . O
-
 Meanwhile O
 , O
 Steve I-PER
@@ -22315,7 +21354,6 @@ Tony I-PER
 Blair I-PER
 ) O
 . O
-
 Steve I-PER
 and O
 Roger I-PER
@@ -22337,7 +21375,6 @@ all O
 the O
 two O
 . O
-
 This O
 is O
 a O
@@ -22359,7 +21396,6 @@ by O
 Patrick I-PER
 Stewart I-PER
 . O
-
 However O
 , O
 Seth I-PER
@@ -22378,9 +21414,7 @@ the O
 starship O
 Enterprise I-MISC
 . O
-
--DOCSTART- O
-
+. O
 Cal I-LOC
 Anderson I-LOC
 Park I-LOC
@@ -22404,7 +21438,6 @@ Bobby I-LOC
 Morris I-LOC
 Playfield I-LOC
 . O
-
 The O
 north O
 end O
@@ -22433,7 +21466,6 @@ a O
 wading O
 pool O
 . O
-
 The O
 south O
 end O
@@ -22444,7 +21476,6 @@ Bobby I-LOC
 Morris I-LOC
 Playfield I-LOC
 . O
-
 The O
 wading O
 pool O
@@ -22460,7 +21491,6 @@ to O
 7 O
 p.m O
 . O
-
 Lincoln I-LOC
 Reservoir I-LOC
 was O
@@ -22472,7 +21502,6 @@ completed O
 in O
 1901 O
 . O
-
 A O
 parcel O
 just O
@@ -22487,7 +21516,6 @@ the O
 same O
 year O
 . O
-
 In O
 1908 O
 it O
@@ -22523,7 +21551,6 @@ in O
 West I-LOC
 Seattle I-LOC
 . O
-
 The O
 playfield O
 was O
@@ -22542,7 +21569,6 @@ auditor O
 in O
 1980 O
 . O
-
 Meanwhile O
 , O
 the O
@@ -22560,7 +21586,6 @@ Lincoln I-LOC
 Reservoir I-LOC
 Park I-LOC
 . O
-
 On O
 April O
 10 O
@@ -22584,7 +21609,6 @@ gay O
 state O
 legislator O
 . O
-
 Anderson I-PER
 had O
 died O
@@ -22593,7 +21617,6 @@ in O
 of O
 AIDS O
 . O
-
 Rebuilding O
 of O
 the O
@@ -22615,7 +21638,6 @@ through O
 summer O
 2005 O
 . O
-
 The O
 north O
 west O
@@ -22656,9 +21678,7 @@ Link I-LOC
 Light I-LOC
 Rail I-LOC
 . O
-
--DOCSTART- O
-
+. O
 CALOI I-ORG
 is O
 a O
@@ -22676,7 +21696,6 @@ in O
 São I-LOC
 Paulo I-LOC
 . O
-
 Caloi I-ORG
 was O
 founded O
@@ -22694,7 +21713,6 @@ brother-in-law O
 Agenor I-PER
 Poletti I-PER
 . O
-
 In O
 the O
 1960s O
@@ -22707,7 +21725,6 @@ producing O
 folding O
 bicycles O
 . O
-
 In O
 1972 O
 , O
@@ -22730,7 +21747,6 @@ Caloi I-ORG
 in O
 Brazil I-LOC
 . O
-
 In O
 1990 O
 Caloi I-ORG
@@ -22746,7 +21762,6 @@ Jacksonville I-LOC
 , O
 Florida I-LOC
 . O
-
 Caloi I-ORG
 was O
 directed O
@@ -22759,7 +21774,6 @@ from O
 to O
 1999 O
 . O
-
 When O
 Luigi I-PER
 Caloi I-PER
@@ -22808,7 +21822,6 @@ and O
 José I-PER
 Pedro I-PER
 . O
-
 In O
 1928 O
 , O
@@ -22829,7 +21842,6 @@ Guido I-PER
 Caloi I-PER
 alone O
 . O
-
 In O
 1948 O
 , O
@@ -22847,7 +21859,6 @@ Bicicletas I-ORG
 Caloi I-ORG
 S I-ORG
 . O
-
 Guido I-PER
 died O
 in O
@@ -22866,7 +21877,6 @@ Caloi I-PER
 until O
 1999 O
 . O
-
 In O
 1999 O
 , O
@@ -22886,7 +21896,6 @@ Edson I-PER
 Vaz I-PER
 Musa I-PER
 . O
-
 Bruno I-PER
 Caloi I-PER
 , O
@@ -22913,7 +21922,6 @@ October O
 , O
 2006 O
 . O
-
 Caloi I-ORG
 currently O
 manufactures O
@@ -22935,9 +21943,7 @@ and O
 Racing O
 Bicycles O
 . O
-
--DOCSTART- O
-
+. O
 " O
 Cancer I-MISC
 for I-MISC
@@ -22955,7 +21961,6 @@ band O
 , O
 Eels I-ORG
 . O
-
 This O
 tracks O
 comes O
@@ -22967,7 +21972,6 @@ album O
 Electro-Shock I-MISC
 Blues I-MISC
 . O
-
 It O
 also O
 features O
@@ -22982,9 +21986,7 @@ film O
 American I-MISC
 Beauty I-MISC
 . O
-
--DOCSTART- O
-
+. O
 Candace I-PER
 Savage I-PER
 ( O
@@ -22996,7 +21998,6 @@ a O
 Canadian I-MISC
 writer O
 . O
-
 Born O
 in O
 Peace I-LOC
@@ -23012,7 +22013,6 @@ University I-ORG
 of I-ORG
 Alberta I-ORG
 . O
-
 A O
 frequent O
 contributor O
@@ -23039,15 +22039,12 @@ Nature I-MISC
 2005 O
 ) O
 . O
-
 Savage I-PER
 lives O
 in O
 Saskatchewan I-LOC
 . O
-
--DOCSTART- O
-
+. O
 Candie I-PER
 Payne I-PER
 ( O
@@ -23069,7 +22066,6 @@ artist O
 to O
 Deltasonic I-ORG
 . O
-
 She O
 is O
 the O
@@ -23096,13 +22092,11 @@ of O
 The I-ORG
 Zutons I-ORG
 . O
-
 Payne I-PER
 sings O
 60s-inspired O
 pop O
 . O
-
 Soul O
 singers O
 Minnie I-PER
@@ -23115,7 +22109,6 @@ among O
 her O
 influences O
 . O
-
 " O
 She O
 insists O
@@ -23141,9 +22134,7 @@ over-singing O
 ' O
 . O
 " O
-
--DOCSTART- O
-
+. O
 The O
 capture O
 gun O
@@ -23180,7 +22171,6 @@ early O
 1960 O
 's O
 . O
-
 Since O
 then O
 it O
@@ -23201,7 +22191,6 @@ transport O
 them O
 safely O
 . O
-
 The O
 original O
 piston-operated O
@@ -23245,7 +22234,6 @@ with O
 a O
 wadding O
 . O
-
 On O
 impact O
 with O
@@ -23271,7 +22259,6 @@ prostration O
 within O
 minutes O
 . O
-
 Because O
 of O
 the O
@@ -23312,7 +22299,6 @@ drugs O
 when O
 needed O
 . O
-
 Many O
 large O
 animals O
@@ -23329,7 +22315,6 @@ without O
 careful O
 treatment O
 . O
-
 One O
 major O
 discovery O
@@ -23371,7 +22356,6 @@ safely O
 immobilise O
 them O
 . O
-
 In O
 some O
 species O
@@ -23384,7 +22368,6 @@ very O
 small O
 indeed O
 . O
-
 Modern O
 capture O
 guns O
@@ -23393,15 +22376,12 @@ gas-fired O
 and O
 collapsible O
 . O
-
 Several O
 models O
 are O
 available O
 . O
-
--DOCSTART- O
-
+. O
 " O
 Diamond O
 " O
@@ -23422,7 +22402,6 @@ Newcastle I-LOC
 upon I-LOC
 Tyne I-LOC
 . O
-
 Citrone I-PER
 was O
 raised O
@@ -23447,7 +22426,6 @@ sports O
 nutrition O
 products O
 . O
-
 Whilst O
 still O
 a O
@@ -23478,7 +22456,6 @@ club O
 in O
 Redcar I-LOC
 . O
-
 The O
 health O
 club O
@@ -23511,7 +22488,6 @@ a O
 new O
 challenge O
 . O
-
 He O
 found O
 this O
@@ -23528,7 +22504,6 @@ Casino I-ORG
 in O
 Newcastle I-LOC
 . O
-
 He O
 began O
 playing O
@@ -23570,7 +22545,6 @@ the O
 heads-up O
 confrontation O
 . O
-
 His O
 major O
 tournament O
@@ -23604,7 +22578,6 @@ European I-MISC
 Poker I-MISC
 Championships I-MISC
 . O
-
 Citrone I-PER
 also O
 appeared O
@@ -23637,7 +22610,6 @@ Bambos I-PER
 " I-PER
 Xanthos I-PER
 . O
-
 In O
 2004 O
 , O
@@ -23654,7 +22626,6 @@ smuggling O
 2,700,000 O
 cigarettes O
 . O
-
 Citrone I-PER
 denied O
 his O
@@ -23671,7 +22642,6 @@ fellow O
 poker O
 player O
 . O
-
 Citrone I-PER
 however O
 , O
@@ -23695,7 +22665,6 @@ and O
 a O
 friend O
 . O
-
 Citrone I-PER
 eventually O
 served O
@@ -23725,7 +22694,6 @@ of O
 the O
 Crown I-ORG
 . O
-
 Due O
 to O
 Citrone I-PER
@@ -23753,7 +22721,6 @@ than O
 this O
 amount O
 . O
-
 He O
 also O
 appeared O
@@ -23771,7 +22738,6 @@ in O
 his O
 heat O
 . O
-
 Citrone I-PER
 is O
 known O
@@ -23792,7 +22758,6 @@ the O
 extra O
 challenge O
 . O
-
 Citrone I-PER
 is O
 also O
@@ -23808,7 +22773,6 @@ alongside O
 Gary I-PER
 Jones I-PER
 . O
-
 Currently O
 he O
 is O
@@ -23822,7 +22786,6 @@ Poker I-ORG
 channel O
 846 O
 ) O
-
 As O
 of O
 2007 O
@@ -23834,7 +22797,6 @@ winnings O
 exceed O
 $670,000 O
 . O
-
 He O
 has O
 one O
@@ -23847,9 +22809,7 @@ in O
 December O
 2004 O
 . O
-
--DOCSTART- O
-
+. O
 Carl I-PER
 Heinrich I-PER
 Georg I-PER
@@ -23875,7 +22835,6 @@ Senator O
 and O
 entomologist O
 . O
-
 He O
 collected O
 insects O
@@ -23911,9 +22870,7 @@ the O
 Senckenberg I-ORG
 Museum I-ORG
 . O
-
--DOCSTART- O
-
+. O
 Carmen I-PER
 Cavallaro I-PER
 ( O
@@ -23936,7 +22893,6 @@ in O
 New I-LOC
 York I-LOC
 . O
-
 He O
 established O
 himself O
@@ -23955,7 +22911,6 @@ of O
 his O
 generation O
 . O
-
 Known O
 as O
 the O
@@ -23985,7 +22940,6 @@ a O
 toy O
 piano O
 . O
-
 His O
 parents O
 were O
@@ -24010,7 +22964,6 @@ the O
 United I-LOC
 States I-LOC
 . O
-
 As O
 a O
 young O
@@ -24024,7 +22977,6 @@ in O
 many O
 capitals O
 . O
-
 In O
 1933 O
 , O
@@ -24045,7 +22997,6 @@ the O
 featured O
 soloist O
 . O
-
 After O
 four O
 years O
@@ -24066,7 +23017,6 @@ Vallee I-PER
 in O
 1937 O
 . O
-
 He O
 also O
 worked O
@@ -24078,7 +23028,6 @@ and O
 Abe I-PER
 Lyman I-PER
 . O
-
 Starting O
 his O
 own O
@@ -24116,7 +23065,6 @@ over O
 the O
 years O
 . O
-
 Although O
 his O
 band O
@@ -24172,7 +23120,6 @@ and O
 Mel I-PER
 Tormé I-PER
 . O
-
 Other O
 venues O
 where O
@@ -24200,7 +23147,6 @@ Angeles I-LOC
 Coconut I-ORG
 Grove I-ORG
 . O
-
 In O
 1963 O
 , O
@@ -24215,7 +23161,6 @@ the O
 song O
 Sukiyaki I-MISC
 . O
-
 Cavallaro I-PER
 developed O
 a O
@@ -24245,7 +23190,6 @@ quadruple O
 octave O
 chords O
 . O
-
 His O
 musical O
 interests O
@@ -24278,7 +23222,6 @@ of O
 classical O
 melodies O
 . O
-
 In O
 this O
 , O
@@ -24294,7 +23237,6 @@ pianist O
 Eddy I-PER
 Duchin I-PER
 . O
-
 Liberace I-PER
 was O
 greatly O
@@ -24305,7 +23247,6 @@ Cavallaro I-PER
 and O
 Duchin I-PER
 . O
-
 All O
 three O
 shared O
@@ -24321,7 +23262,6 @@ a O
 pop O
 idiom O
 . O
-
 Cavallaro I-PER
 also O
 became O
@@ -24388,7 +23328,6 @@ World I-MISC
 1945 O
 ) O
 . O
-
 His O
 most O
 celebrated O
@@ -24417,7 +23356,6 @@ Story I-MISC
 1956 O
 ) O
 . O
-
 Carmen I-PER
 Cavallaro I-PER
 died O
@@ -24433,9 +23371,7 @@ Columbus I-LOC
 , O
 Ohio I-LOC
 . O
-
--DOCSTART- O
-
+. O
 Carter I-PER
 Anthony I-PER
 Beauford I-PER
@@ -24468,7 +23404,6 @@ Band I-ORG
 DMB I-ORG
 ) O
 . O
-
 He O
 is O
 known O
@@ -24517,7 +23452,6 @@ right-handed O
 drumset O
 set-up O
 . O
-
 Beauford I-PER
 was O
 exposed O
@@ -24531,7 +23465,6 @@ age O
 of O
 three O
 . O
-
 At O
 the O
 time O
@@ -24566,7 +23499,6 @@ to O
 the O
 show O
 . O
-
 Carter I-PER
 was O
 mesmerized O
@@ -24576,7 +23508,6 @@ Rich I-PER
 on O
 stage O
 . O
-
 After O
 that O
 show O
@@ -24604,7 +23535,6 @@ learning O
 the O
 instrument O
 . O
-
 Carter I-PER
 began O
 playing O
@@ -24617,7 +23547,6 @@ he O
 was O
 nine O
 . O
-
 Eventually O
 , O
 he O
@@ -24631,7 +23560,6 @@ jazz O
 fusion O
 band O
 . O
-
 Other O
 members O
 included O
@@ -24656,7 +23584,6 @@ guitarist O
 Tim I-PER
 Reynolds I-PER
 . O
-
 Secrets O
 would O
 perform O
@@ -24679,7 +23606,6 @@ as O
 a O
 bartender O
 . O
-
 Carter I-PER
 also O
 played O
@@ -24697,7 +23623,6 @@ and O
 George I-PER
 Melvin I-PER
 . O
-
 A O
 driving O
 Jazz O
@@ -24724,7 +23649,6 @@ Gap I-MISC
 Jazz I-MISC
 Festival I-MISC
 . O
-
 Eventually O
 , O
 Dave I-PER
@@ -24745,7 +23669,6 @@ wished O
 to O
 record O
 . O
-
 Upon O
 listening O
 , O
@@ -24761,7 +23684,6 @@ as O
 DMB I-ORG
 drummer O
 . O
-
 Has O
 a O
 daughter O
@@ -24773,7 +23695,6 @@ his O
 first O
 marriage O
 . O
-
 With O
 his O
 second O
@@ -24807,7 +23728,6 @@ in O
 December O
 2004 O
 . O
-
 Beauford I-PER
 has O
 also O
@@ -24845,9 +23765,7 @@ the I-ORG
 Flecktones I-ORG
 ) O
 . O
-
--DOCSTART- O
-
+. O
 Cary I-ORG
 Towne I-ORG
 Center I-ORG
@@ -24861,7 +23779,6 @@ Cary I-LOC
 North I-LOC
 Carolina I-LOC
 . O
-
 It O
 is O
 managed O
@@ -24871,7 +23788,6 @@ CBL I-ORG
 Associates I-ORG
 Properties I-ORG
 . O
-
 Cary I-ORG
 Village I-ORG
 Mall I-ORG
@@ -24887,7 +23803,6 @@ Belk I-ORG
 as O
 anchors O
 . O
-
 In O
 1991 O
 , O
@@ -24919,7 +23834,6 @@ Cary I-ORG
 Towne I-ORG
 Center I-ORG
 . O
-
 Dillard I-ORG
 's I-ORG
 was O
@@ -24942,7 +23856,6 @@ tenant O
 since O
 1979 O
 . O
-
 Thalhimer I-ORG
 's I-ORG
 became O
@@ -24958,7 +23871,6 @@ Macy I-ORG
 in O
 2006 O
 . O
-
 The O
 official O
 spelling O
@@ -24972,7 +23884,6 @@ Towne I-ORG
 Center I-ORG
 . O
 " O
-
 However O
 , O
 it O
@@ -24995,7 +23906,6 @@ Towne I-ORG
 Centre I-ORG
 . O
 " O
-
 It O
 is O
 also O
@@ -25010,9 +23920,7 @@ Cary I-ORG
 Village I-ORG
 Mall I-ORG
 . O
-
--DOCSTART- O
-
+. O
 CBS I-ORG
 Cable I-ORG
 was O
@@ -25045,7 +23953,6 @@ etc O
 . O
 ) O
 . O
-
 It O
 debuted O
 in O
@@ -25060,7 +23967,6 @@ December O
 , O
 1982 O
 . O
-
 CBS I-ORG
 Cable I-ORG
 was O
@@ -25090,7 +23996,6 @@ cable O
 television O
 medium O
 . O
-
 Its O
 program O
 offerings O
@@ -25101,7 +24006,6 @@ often O
 critically O
 praised O
 . O
-
 Nevertheless O
 the O
 network O
@@ -25146,7 +24050,6 @@ lineup O
 of O
 programming O
 . O
-
 Cable O
 systems O
 in O
@@ -25175,7 +24078,6 @@ most O
 cities O
 ) O
 . O
-
 CBS I-ORG
 Cable I-ORG
 was O
@@ -25227,7 +24129,6 @@ far O
 more O
 easily O
 . O
-
 MTV I-ORG
 and O
 ESPN I-ORG
@@ -25258,7 +24159,6 @@ months O
 in O
 operation O
 . O
-
 Not O
 to O
 be O
@@ -25290,9 +24190,7 @@ into O
 Discovery I-ORG
 Times I-ORG
 . O
-
--DOCSTART- O
-
+. O
 The O
 Centennial I-ORG
 Convention I-ORG
@@ -25315,7 +24213,6 @@ district O
 of O
 Hayward I-LOC
 . O
-
 Centennial I-ORG
 Tower I-ORG
 and O
@@ -25324,7 +24221,6 @@ are O
 next O
 door O
 . O
-
 The O
 City I-LOC
 Of I-LOC
@@ -25339,7 +24235,6 @@ its O
 100th O
 Birthday O
 . O
-
 It O
 was O
 the O
@@ -25350,7 +24245,6 @@ Hayward I-ORG
 Union I-ORG
 High I-ORG
 . O
-
 Parking O
 is O
 available O
@@ -25373,7 +24267,6 @@ located O
 above O
 Safeway I-ORG
 . O
-
 Today O
 , O
 it O
@@ -25409,7 +24302,6 @@ other O
 special O
 events O
 . O
-
 There O
 are O
 also O
@@ -25425,9 +24317,7 @@ a O
 1,280-square-foot O
 patio O
 . O
-
--DOCSTART- O
-
+. O
 Cesaroni I-ORG
 Design I-ORG
 Associates I-ORG
@@ -25474,7 +24364,6 @@ Design O
 CAD O
 ) O
 . O
-
 Currently O
 , O
 Cesaroni I-ORG
@@ -25498,7 +24387,6 @@ and O
 brand O
 sensitivity O
 . O
-
 In O
 its O
 27 O
@@ -25521,7 +24409,6 @@ in O
 the O
 world O
 . O
-
 Cesaroni I-ORG
 Design I-ORG
 's O
@@ -25534,7 +24421,6 @@ to O
 consumer O
 goods O
 . O
-
 Major O
 clients O
 include O
@@ -25551,9 +24437,7 @@ SHURE I-ORG
 and O
 LifeFitness I-ORG
 . O
-
--DOCSTART- O
-
+. O
 Chad I-PER
 Edward I-PER
 Gaudin I-PER
@@ -25587,7 +24471,6 @@ Major I-ORG
 League I-ORG
 Baseball I-ORG
 . O
-
 Gaudin I-PER
 attended O
 Crescent I-ORG
@@ -25599,7 +24482,6 @@ Metairie I-LOC
 , O
 Louisiana I-LOC
 . O
-
 He O
 earned O
 All-State O
@@ -25613,7 +24495,6 @@ and O
 senior O
 years O
 . O
-
 Gaudin I-PER
 was O
 selected O
@@ -25645,7 +24526,6 @@ League I-ORG
 Baseball I-ORG
 Draft O
 . O
-
 He O
 signed O
 on O
@@ -25661,7 +24541,6 @@ professionally O
 until O
 2002 O
 . O
-
 He O
 played O
 in O
@@ -25685,7 +24564,6 @@ minor O
 league O
 baseball O
 . O
-
 On O
 July O
 15 O
@@ -25744,7 +24622,6 @@ batters O
 he O
 faced O
 . O
-
 ( O
 Two O
 7-inning O
@@ -25782,7 +24659,6 @@ perfect O
 games O
 . O
 ) O
-
 Gaudin I-PER
 made O
 only O
@@ -25811,7 +24687,6 @@ big O
 league O
 club O
 . O
-
 When O
 Gaudin I-PER
 made O
@@ -25846,7 +24721,6 @@ in O
 the O
 majors O
 . O
-
 After O
 posting O
 a O
@@ -25895,7 +24769,6 @@ with O
 AAA I-ORG
 Durham I-ORG
 . O
-
 On O
 December O
 12 O
@@ -25916,7 +24789,6 @@ catcher O
 Kevin I-PER
 Cash I-PER
 . O
-
 Although O
 he O
 pitched O
@@ -25948,7 +24820,6 @@ the O
 Blue I-ORG
 Jays I-ORG
 . O
-
 Opponents O
 had O
 batted O
@@ -25964,7 +24835,6 @@ innings O
 hits O
 ) O
 . O
-
 On O
 December O
 5 O
@@ -25995,7 +24865,6 @@ outfielder O
 Dustin I-PER
 Majewski I-PER
 . O
-
 Gaudin I-PER
 began O
 the O
@@ -26013,7 +24882,6 @@ Triple I-ORG
 A I-ORG
 team O
 . O
-
 He O
 was O
 recalled O
@@ -26048,7 +24916,6 @@ big O
 league O
 club O
 . O
-
 In O
 his O
 first O
@@ -26079,7 +24946,6 @@ of O
 his O
 career O
 . O
-
 His O
 inherited O
 runners O
@@ -26097,7 +24963,6 @@ the O
 American I-ORG
 League I-ORG
 . O
-
 In O
 2007 O
 , O
@@ -26122,7 +24987,6 @@ begin O
 the O
 season O
 . O
-
 His O
 excellent O
 performance O
@@ -26152,9 +25016,7 @@ and O
 Joe I-PER
 Blanton I-PER
 . O
-
--DOCSTART- O
-
+. O
 Chamicuro I-MISC
 is O
 a O
@@ -26175,7 +25037,6 @@ in O
 South I-LOC
 America I-LOC
 . O
-
 The O
 language O
 is O
@@ -26190,7 +25051,6 @@ between O
 and O
 20 O
 . O
-
 The O
 Chamicuros I-MISC
 live O
@@ -26216,7 +25076,6 @@ meaning O
 beautiful O
 plains O
 . O
-
 As O
 with O
 all O
@@ -26241,7 +25100,6 @@ it O
 is O
 spoken O
 . O
-
 A O
 Chamicuro I-MISC
 dictionary O
@@ -26263,7 +25121,6 @@ shifted O
 to O
 Spanish I-MISC
 . O
-
 There O
 is O
 controversy O
@@ -26335,9 +25192,7 @@ language O
 or O
 languages O
 . O
-
--DOCSTART- O
-
+. O
 Champdor I-LOC
 is O
 a O
@@ -26349,9 +25204,7 @@ département O
 of O
 Ai I-LOC
 . O
-
--DOCSTART- O
-
+. O
 Changer I-MISC
 les I-MISC
 choses I-MISC
@@ -26385,7 +25238,6 @@ November O
 , O
 2001 O
 . O
-
 It O
 spawned O
 the O
@@ -26404,7 +25256,6 @@ en I-MISC
 toi I-MISC
 " O
 . O
-
 Both O
 singles O
 charted O
@@ -26430,9 +25281,7 @@ top O
 at O
 all O
 . O
-
--DOCSTART- O
-
+. O
 Charan I-PER
 Jeath I-PER
 Singh I-PER
@@ -26457,7 +25306,6 @@ various O
 political O
 organisations O
 . O
-
 In O
 the O
 1994 O
@@ -26481,7 +25329,6 @@ Party I-ORG
 NFP I-ORG
 ) O
 . O
-
 He O
 was O
 elected O
@@ -26524,7 +25371,6 @@ only O
 two O
 seats O
 . O
-
 In O
 the O
 1999 O
@@ -26551,7 +25397,6 @@ the O
 votes O
 cast O
 . O
-
 Following O
 the O
 death O
@@ -26580,7 +25425,6 @@ Party I-ORG
 NFP I-ORG
 ) O
 . O
-
 Although O
 he O
 was O
@@ -26599,7 +25443,6 @@ votes O
 by O
 50% O
 . O
-
 In O
 the O
 2006 O
@@ -26637,9 +25480,7 @@ the O
 votes O
 cast O
 . O
-
--DOCSTART- O
-
+. O
 Charlie I-PER
 Gaudion I-PER
 ( O
@@ -26665,7 +25506,6 @@ in O
 the O
 VFL I-ORG
 . O
-
 He O
 was O
 the O
@@ -26677,7 +25517,6 @@ player O
 Michael I-PER
 Gaudion I-PER
 . O
-
 Gaudion I-PER
 was O
 a O
@@ -26693,7 +25532,6 @@ in O
 at O
 Footscray I-ORG
 . O
-
 He O
 played O
 with O
@@ -26713,7 +25551,6 @@ signed O
 with O
 Coburg I-ORG
 . O
-
 After O
 just O
 a O
@@ -26741,7 +25578,6 @@ during O
 the O
 1930s O
 . O
-
 He O
 was O
 also O
@@ -26766,7 +25602,6 @@ last O
 as O
 captain O
 . O
-
 In O
 both O
 1956 O
@@ -26786,9 +25621,7 @@ his O
 son O
 Michael I-PER
 . O
-
--DOCSTART- O
-
+. O
 The O
 Cherche-Midi I-LOC
 prison I-LOC
@@ -26810,7 +25643,6 @@ the O
 builing O
 destroyed O
 . O
-
 Famous O
 detainees O
 at O
@@ -26831,7 +25663,6 @@ and O
 Alfred I-PER
 Dreyfus I-PER
 . O
-
 It O
 has O
 been O
@@ -26852,7 +25683,6 @@ from O
 to O
 1944 O
 . O
-
 In O
 this O
 prison O
@@ -26861,9 +25691,7 @@ were O
 carried O
 out O
 . O
-
--DOCSTART- O
-
+. O
 The O
 Christian I-ORG
 Democratic I-ORG
@@ -26885,7 +25713,6 @@ in O
 Eas I-LOC
 Timor I-LOC
 . O
-
 At O
 the O
 last O
@@ -26912,9 +25739,7 @@ of O
 88 O
 seats O
 . O
-
--DOCSTART- O
-
+. O
 Christopher I-PER
 Bailey I-PER
 is O
@@ -26935,7 +25760,6 @@ screenwriter O
 for O
 television O
 . O
-
 He O
 wrote O
 the O
@@ -26949,7 +25773,6 @@ Kinda I-MISC
 in O
 1982 O
 . O
-
 This O
 script O
 drew O
@@ -26992,7 +25815,6 @@ of O
 the O
 piece O
 . O
-
 The O
 strength O
 of O
@@ -27011,7 +25833,6 @@ Who I-MISC
 in O
 1983 O
 . O
-
 This O
 serial O
 , O
@@ -27023,7 +25844,6 @@ sequel O
 to O
 Kinda I-MISC
 . O
-
 New O
 script O
 editor O
@@ -27059,7 +25879,6 @@ were O
 taken O
 further O
 . O
-
 As O
 a O
 result O
@@ -27091,9 +25910,7 @@ career O
 in O
 academia O
 . O
-
--DOCSTART- O
-
+. O
 Christopher I-PER
 Penley I-PER
 ( O
@@ -27174,7 +25991,6 @@ a O
 Beretta I-MISC
 9mm I-MISC
 . O
-
 After O
 the O
 gun O
@@ -27201,7 +26017,6 @@ in O
 the O
 classroom O
 . O
-
 The O
 student O
 immediately O
@@ -27215,7 +26030,6 @@ called O
 the O
 police O
 . O
-
 SWAT O
 arrived O
 on O
@@ -27234,7 +26048,6 @@ contact O
 with O
 Penley I-PER
 . O
-
 After O
 a O
 twenty O
@@ -27255,7 +26068,6 @@ by O
 opening O
 fire O
 . O
-
 He O
 was O
 transported O
@@ -27279,7 +26091,6 @@ to O
 his O
 wounds O
 . O
-
 A O
 number O
 of O
@@ -27292,7 +26103,6 @@ used O
 as O
 transplants O
 . O
-
 Seminole I-LOC
 County I-LOC
 Sheriff O
@@ -27319,7 +26129,6 @@ in O
 the O
 bathroom O
 . O
-
 Some O
 students O
 at O
@@ -27341,7 +26150,6 @@ something O
 planned O
 " O
 . O
-
 Police O
 have O
 been O
@@ -27370,7 +26178,6 @@ of O
 the O
 situation O
 . O
-
 The O
 Orlando I-ORG
 Sentinel I-ORG
@@ -27390,7 +26197,6 @@ son O
 was O
 shot O
 . O
-
 The O
 Florida I-ORG
 Department I-ORG
@@ -27415,7 +26221,6 @@ at O
 the O
 deputy O
 . O
-
 Christopher I-PER
 Penley I-PER
 's O
@@ -27426,7 +26231,6 @@ by O
 his O
 family O
 . O
-
 Chris I-PER
 Penley I-PER
 's O
@@ -27437,7 +26241,6 @@ people O
 vital O
 organs O
 . O
-
 Christopher I-PER
 Penley I-PER
 has O
@@ -27458,7 +26261,6 @@ a O
 Youth O
 center O
 . O
-
 The O
 youth O
 center O
@@ -27492,9 +26294,7 @@ to O
 be O
 heard O
 . O
-
--DOCSTART- O
-
+. O
 Circuit I-LOC
 Park I-LOC
 Zandvoort I-LOC
@@ -27524,7 +26324,6 @@ Sea I-LOC
 coast O
 line O
 . O
-
 Although O
 there O
 were O
@@ -27550,7 +26349,6 @@ June O
 , O
 1939 O
 . O
-
 A O
 real O
 circuit O
@@ -27568,7 +26366,6 @@ by O
 John I-PER
 Hugenholtz I-PER
 . O
-
 The O
 circuit O
 was O
@@ -27580,7 +26377,6 @@ August O
 , O
 1948 O
 . O
-
 Next O
 year O
 , O
@@ -27594,7 +26390,6 @@ Zandvoort I-MISC
 Grand I-MISC
 Prix I-MISC
 . O
-
 It O
 remained O
 on O
@@ -27610,7 +26405,6 @@ next O
 34 O
 years O
 . O
-
 The O
 company O
 that O
@@ -27633,7 +26427,6 @@ of O
 Circuit I-LOC
 Zandvoort I-LOC
 . O
-
 The O
 track O
 , O
@@ -27676,7 +26469,6 @@ at O
 that O
 time O
 . O
-
 A O
 plan O
 to O
@@ -27694,7 +26486,6 @@ people O
 and O
 companies O
 . O
-
 In O
 1995 O
 , O
@@ -27718,7 +26509,6 @@ Grand I-MISC
 Prix I-MISC
 Circuit O
 . O
-
 One O
 of O
 the O
@@ -27772,7 +26562,6 @@ advertising O
 ban O
 ) O
 . O
-
 The O
 most O
 famous O
@@ -27793,7 +26582,6 @@ excellent O
 overtaking O
 opportunities O
 . O
-
 This O
 corner O
 is O
@@ -27834,7 +26622,6 @@ corner O
 after O
 him O
 . O
-
 On O
 the O
 other O
@@ -27849,7 +26636,6 @@ Corner I-LOC
 are O
 known O
 . O
-
 Circuit I-LOC
 Park I-LOC
 Zandvoort I-LOC
@@ -27875,7 +26661,6 @@ September O
 October O
 2006 O
 . O
-
 In O
 the O
 history O
@@ -27889,7 +26674,6 @@ accidents O
 have O
 occurred O
 . O
-
 The O
 older O
 ' O
@@ -27919,7 +26703,6 @@ for O
 X86-based O
 pc's O
 . O
-
 This O
 was O
 later O
@@ -27945,7 +26728,6 @@ The I-MISC
 Pits I-MISC
 ' O
 . O
-
 The O
 current O
 layout O
@@ -27962,9 +26744,7 @@ Official I-MISC
 WTCC I-MISC
 Game I-MISC
 . O
-
--DOCSTART- O
-
+. O
 Claire I-PER
 Keim I-PER
 ( O
@@ -27981,7 +26761,6 @@ actress O
 and O
 singer O
 . O
-
 Keim I-PER
 was O
 born O
@@ -27998,7 +26777,6 @@ and O
 a O
 dentist O
 . O
-
 She O
 had O
 a O
@@ -28011,9 +26789,7 @@ a O
 French I-MISC
 actor O
 . O
-
--DOCSTART- O
-
+. O
 For O
 other O
 uses O
@@ -28023,7 +26799,6 @@ Dock I-LOC
 ( O
 disambiguation O
 ) O
-
 The O
 Clarence I-LOC
 Dock I-LOC
@@ -28068,7 +26843,6 @@ to O
 the O
 south O
 . O
-
 It O
 was O
 built O
@@ -28079,16 +26853,13 @@ steamship O
 dock O
 facility O
 . O
-
 It O
 opened O
 in O
 September O
 1830 O
 . O
-
--DOCSTART- O
-
+. O
 Clergoux I-LOC
 is O
 a O
@@ -28103,9 +26874,7 @@ of O
 central O
 Franc I-LOC
 . O
-
--DOCSTART- O
-
+. O
 Cliddesden I-LOC
 railway I-LOC
 station I-LOC
@@ -28123,7 +26892,6 @@ Hampshire I-LOC
 , O
 UK I-LOC
 . O
-
 The O
 station O
 was O
@@ -28142,7 +26910,6 @@ closure O
 in O
 1932 O
 . O
-
 The O
 station O
 used O
@@ -28165,9 +26932,7 @@ the O
 fictional O
 Buggleskelly I-LOC
 . O
-
--DOCSTART- O
-
+. O
 Clinical I-ORG
 Hospital I-ORG
 Mostar I-ORG
@@ -28188,7 +26953,6 @@ Bosnia I-LOC
 and I-LOC
 Herzegovina I-LOC
 . O
-
 It O
 is O
 located O
@@ -28201,7 +26965,6 @@ of O
 the O
 city O
 . O
-
 The O
 hospital O
 was O
@@ -28215,7 +26978,6 @@ centre O
 in O
 1977 O
 . O
-
 However O
 , O
 the O
@@ -28240,7 +27002,6 @@ into O
 a O
 hospital O
 . O
-
 Since O
 1997 O
 the O
@@ -28260,9 +27021,7 @@ training O
 medical O
 professionals O
 . O
-
--DOCSTART- O
-
+. O
 The O
 Cold I-ORG
 Spring I-ORG
@@ -28293,7 +27052,6 @@ genomics O
 and O
 bioinformatics O
 . O
-
 The O
 Laboratory I-ORG
 has O
@@ -28312,7 +27070,6 @@ of I-ORG
 Biological I-ORG
 Sciences I-ORG
 . O
-
 Seven O
 Nobel I-MISC
 laureates O
@@ -28323,7 +27080,6 @@ with O
 the O
 lab O
 . O
-
 Though O
 the O
 lab O
@@ -28367,7 +27123,6 @@ of O
 Laurel I-LOC
 Hollow I-LOC
 .. O
-
 The O
 laboratory O
 began O
@@ -28409,7 +27164,6 @@ on O
 the O
 site O
 . O
-
 In O
 1921 O
 , O
@@ -28425,7 +27179,6 @@ Department I-ORG
 of I-ORG
 Genetics I-ORG
 . O
-
 The O
 Carnegie I-ORG
 Institution I-ORG
@@ -28483,7 +27236,6 @@ Spring I-ORG
 Harbor I-ORG
 Laboratory I-ORG
 . O
-
 In O
 1944 O
 Barbara I-PER
@@ -28512,7 +27264,6 @@ Physiology O
 or O
 Medicine O
 . O
-
 One O
 well-known O
 aspect O
@@ -28542,7 +27293,6 @@ and O
 Salvado I-PER
 Luria I-PER
 . O
-
 Another O
 Nobel O
 laureate O
@@ -28553,7 +27303,6 @@ Richard I-PER
 J. I-PER
 Roberts I-PER
 . O
-
 Nobel I-MISC
 laureate O
 James I-PER
@@ -28592,7 +27341,6 @@ role O
 of O
 Chancellor O
 . O
-
 In O
 October O
 2007 O
@@ -28615,7 +27363,6 @@ in O
 the O
 U.K I-LOC
 . O
-
 Currently O
 , O
 cancer O
@@ -28627,7 +27374,6 @@ as O
 laboratory O
 President O
 . O
-
 During O
 the O
 years O
@@ -28666,7 +27412,6 @@ of O
 the O
 period O
 . O
-
 In O
 1935 O
 the O
@@ -28693,7 +27438,6 @@ stop O
 all O
 efforts O
 . O
-
 In O
 1939 O
 the O
@@ -28710,7 +27454,6 @@ to O
 its O
 closure O
 . O
-
 Their O
 reports O
 , O
@@ -28736,7 +27479,6 @@ since O
 been O
 discredited O
 . O
-
 However O
 , O
 this O
@@ -28793,7 +27535,6 @@ England I-LOC
 and O
 Germany I-LOC
 . O
-
 Aside O
 from O
 its O
@@ -28814,7 +27555,6 @@ variety O
 of O
 topics O
 . O
-
 The O
 first O
 of O
@@ -28833,7 +27573,6 @@ held O
 in O
 1934 O
 . O
-
 The O
 Symposium O
 in O
@@ -28853,7 +27592,6 @@ field O
 of O
 chronobiology O
 . O
-
 Now O
 , O
 over O
@@ -28877,7 +27615,6 @@ are O
 held O
 annually O
 . O
-
 The O
 Banbury I-LOC
 Center I-LOC
@@ -28896,7 +27633,6 @@ only O
 invited O
 participants O
 . O
-
 These O
 elite O
 meetings O
@@ -28910,7 +27646,6 @@ biology O
 and O
 neuroscience O
 . O
-
 Salvador I-PER
 Luria I-PER
 and O
@@ -28939,7 +27674,6 @@ of O
 molecular O
 genetics O
 . O
-
 The O
 courses O
 proliferated O
@@ -28971,7 +27705,6 @@ throughout O
 the O
 world O
 . O
-
 The O
 laboratory O
 also O
@@ -28990,7 +27723,6 @@ biotechnology O
 and O
 biology O
 . O
-
 The O
 lab O
 is O
@@ -29040,9 +27772,7 @@ Sciences I-ORG
 in O
 1998 O
 . O
-
--DOCSTART- O
-
+. O
 The O
 United I-LOC
 States I-LOC
@@ -29064,7 +27794,6 @@ housing O
 male O
 inmates O
 . O
-
 It O
 is O
 part O
@@ -29075,7 +27804,6 @@ Federal I-LOC
 Correctional I-LOC
 Complex I-LOC
 . O
-
 USP I-LOC
 Coleman I-LOC
 II I-LOC
@@ -29104,7 +27832,6 @@ south O
 of O
 Ocala I-LOC
 . O
-
 The O
 FCC I-LOC
 Complex I-LOC
@@ -29123,9 +27850,7 @@ off O
 Highway I-LOC
 301 I-LOC
 . O
-
--DOCSTART- O
-
+. O
 The O
 Commonwealth I-MISC
 Bank I-MISC
@@ -29145,7 +27870,6 @@ Bali I-LOC
 , O
 Indonesia I-LOC
 . O
-
 The O
 2007 O
 event O
@@ -29159,7 +27883,6 @@ till O
 September O
 16 O
 . O
-
 Held O
 since O
 1990 O
@@ -29172,7 +27895,6 @@ on O
 outdoor O
 hardcourts O
 . O
-
 Prior O
 to O
 2001 O
@@ -29185,9 +27907,7 @@ in O
 Kuala I-LOC
 Lumpur I-LOC
 . O
-
--DOCSTART- O
-
+. O
 Connecticut I-MISC
 Classic I-MISC
 Lotto I-MISC
@@ -29202,7 +27922,6 @@ the O
 Connecticut I-ORG
 Lottery I-ORG
 . O
-
 It O
 is O
 drawn O
@@ -29215,7 +27934,6 @@ Tuesdays O
 and O
 Fridays O
 . O
-
 The O
 earliest O
 version O
@@ -29229,7 +27947,6 @@ as O
 a O
 pick-6-of-36 O
 . O
-
 Later O
 it O
 became O
@@ -29237,7 +27954,6 @@ a O
 6/40 O
 game O
 . O
-
 The O
 current O
 6/44 O
@@ -29248,7 +27964,6 @@ in O
 September O
 1989 O
 . O
-
 The O
 in-state O
 game O
@@ -29282,7 +27997,6 @@ version O
 in O
 1998 O
 . O
-
 The O
 name O
 was O
@@ -29304,7 +28018,6 @@ in O
 May O
 1999 O
 . O
-
 The O
 current O
 game O
@@ -29329,7 +28042,6 @@ matching O
 more O
 numbers O
 . O
-
 The O
 jackpot O
 is O
@@ -29339,7 +28051,6 @@ all O
 six O
 match O
 . O
-
 Top-prize O
 winners O
 choose O
@@ -29355,7 +28066,6 @@ claiming O
 the O
 jackpot O
 . O
-
 In O
 the O
 unlikely O
@@ -29375,7 +28085,6 @@ in O
 yearly O
 installments O
 . O
-
 The O
 overall O
 prize O
@@ -29394,7 +28103,6 @@ the O
 jackpot O
 alone O
 . O
-
 As O
 with O
 all O
@@ -29412,7 +28120,6 @@ Lotto I-MISC
 is O
 18 O
 . O
-
 The O
 Classic I-MISC
 Lotto I-MISC
@@ -29439,7 +28146,6 @@ or O
 more O
 tickets O
 . O
-
 Winners O
 of O
 Classic I-MISC
@@ -29457,7 +28163,6 @@ claim O
 their O
 prizes O
 . O
-
 A O
 Classic I-MISC
 Lotto I-MISC
@@ -29478,7 +28183,6 @@ February O
 went O
 unclaimed O
 . O
-
 The O
 Connecticut I-ORG
 Lottery I-ORG
@@ -29520,7 +28224,6 @@ be O
 used O
 for O
 . O
-
 It O
 is O
 possible O
@@ -29562,7 +28265,6 @@ usual O
 $1 O
 million O
 . O
-
 Since O
 Connecticut I-LOC
 is O
@@ -29587,7 +28289,6 @@ other O
 multi-state O
 games O
 . O
-
 One O
 of O
 these O
@@ -29622,12 +28323,9 @@ at O
 least O
 2009 O
 . O
-
 Connecticut I-ORG
 Lottery I-ORG
-
--DOCSTART- O
-
+. O
 The O
 Cornish I-ORG
 Colony I-ORG
@@ -29639,7 +28337,6 @@ Windsor I-LOC
 , O
 Vermont I-LOC
 . O
-
 It O
 is O
 dedicated O
@@ -29675,7 +28372,6 @@ the O
 Connecticut I-LOC
 River I-LOC
 . O
-
 It O
 is O
 operated O
@@ -29684,7 +28380,6 @@ a O
 non-profit O
 corporation O
 . O
-
 Its O
 displays O
 concentrate O
@@ -29696,7 +28391,6 @@ between O
 and O
 1935 O
 . O
-
 It O
 specializes O
 in O
@@ -29714,9 +28408,7 @@ of O
 Alma I-PER
 Gilbert I-PER
 . O
-
--DOCSTART- O
-
+. O
 Coronado I-ORG
 Unified I-ORG
 School I-ORG
@@ -29729,7 +28421,6 @@ in O
 Coronado I-LOC
 , O
 California I-LOC
-
 Through O
 rigorous O
 academic O
@@ -29793,9 +28484,7 @@ determine O
 their O
 futures O
 . O
-
--DOCSTART- O
-
+. O
 Cosham I-LOC
 railway I-LOC
 station I-LOC
@@ -29819,7 +28508,6 @@ in O
 southern O
 England I-LOC
 . O
-
 Opened O
 in O
 1847 O
@@ -29849,7 +28537,6 @@ Brighton I-LOC
 and O
 Southampton I-LOC
 . O
-
 It O
 is O
 currently O
@@ -29870,7 +28557,6 @@ train O
 operating O
 companies O
 . O
-
 Westward O
 , O
 the O
@@ -29912,7 +28598,6 @@ Bedhampton I-LOC
 and O
 Havant I-LOC
 . O
-
 Although O
 the O
 nearest O
@@ -29933,7 +28618,6 @@ Cosham I-LOC
 and O
 Bedhampton I-LOC
 . O
-
 Passengers O
 between O
 these O
@@ -29958,7 +28642,6 @@ change O
 trains O
 there O
 . O
-
 Local O
 Civic O
 Trust O
@@ -29989,9 +28672,7 @@ encourage O
 its O
 use O
 . O
-
--DOCSTART- O
-
+. O
 Crazyhead I-ORG
 are O
 an O
@@ -30005,7 +28686,6 @@ band O
 from O
 Leicester I-LOC
 . O
-
 Though O
 lumped O
 in O
@@ -30044,7 +28724,6 @@ and O
 Captain I-ORG
 Beefheart I-ORG
 . O
-
 They O
 described O
 themselves O
@@ -30081,7 +28760,6 @@ of O
 black O
 humour O
 . O
-
 who O
 were O
 credited O
@@ -30098,7 +28776,6 @@ Space I-ORG
 Bastards I-ORG
 " O
 . O
-
 Formed O
 in O
 1986 O
@@ -30143,7 +28820,6 @@ in O
 March O
 1983 O
 . O
-
 For O
 the O
 rest O
@@ -30169,7 +28845,6 @@ the O
 Glastonbury I-MISC
 Festival I-MISC
 . O
-
 Their O
 second O
 single O
@@ -30185,7 +28860,6 @@ the O
 Indie I-MISC
 Chart I-MISC
 . O
-
 In O
 mid-1988 O
 their O
@@ -30215,7 +28889,6 @@ owned O
 by O
 EMI I-ORG
 . O
-
 The O
 band O
 embarked O
@@ -30253,7 +28926,6 @@ supporting O
 Iggy I-PER
 Pop I-PER
 . O
-
 They O
 then O
 released O
@@ -30277,7 +28949,6 @@ another O
 UK I-LOC
 tour O
 . O
-
 In O
 1989 O
 they O
@@ -30297,7 +28968,6 @@ the O
 Reading I-MISC
 Festival I-MISC
 . O
-
 At O
 the O
 behest O
@@ -30340,7 +29010,6 @@ tour O
 post-Ceauşescu O
 Romania I-LOC
 . O
-
 Later O
 that O
 year O
@@ -30358,7 +29027,6 @@ audience O
 of O
 50,000 O
 . O
-
 The O
 band O
 were O
@@ -30383,7 +29051,6 @@ through O
 Revolver I-ORG
 Records I-ORG
 . O
-
 In O
 1992 O
 they O
@@ -30424,7 +29091,6 @@ it O
 fell O
 through O
 . O
-
 Over O
 the O
 next O
@@ -30436,7 +29102,6 @@ sporadic O
 live O
 appearances O
 . O
-
 In O
 1997 O
 they O
@@ -30468,7 +29133,6 @@ material O
 13th I-MISC
 Floor I-MISC
 . O
-
 They O
 again O
 toured O
@@ -30485,7 +29149,6 @@ of O
 UK I-LOC
 dates O
 . O
-
 They O
 started O
 recording O
@@ -30510,7 +29173,6 @@ of O
 the O
 band O
 . O
-
 They O
 played O
 their O
@@ -30523,7 +29185,6 @@ on O
 December O
 2000 O
 . O
-
 The O
 band O
 reformed O
@@ -30539,9 +29200,7 @@ again O
 in O
 2008 O
 . O
-
--DOCSTART- O
-
+. O
 Crown I-ORG
 Pacific I-ORG
 Partners I-ORG
@@ -30584,7 +29243,6 @@ Idaho I-LOC
 and O
 Montana I-LOC
 . O
-
 It O
 also O
 held O
@@ -30628,7 +29286,6 @@ Utah I-LOC
 and O
 Arizona I-LOC
 . O
-
 The O
 partnership O
 went O
@@ -30649,7 +29306,6 @@ York I-ORG
 Stock I-ORG
 Exchange I-ORG
 . O
-
 It O
 filed O
 for O
@@ -30691,9 +29347,7 @@ Timberlands I-ORG
 , O
 LLC O
 . O
-
--DOCSTART- O
-
+. O
 Dahvin I-PER
 " I-PER
 DaHv I-PER
@@ -30717,7 +29371,6 @@ rapper O
 and O
 singer O
 . O
-
 She O
 originally O
 started O
@@ -30736,7 +29389,6 @@ career O
 in O
 rapping O
 . O
-
 Radio I-ORG
 Disney I-ORG
 added O
@@ -30746,9 +29398,7 @@ the O
 Radio I-MISC
 Disney I-MISC
 IncubaTor I-MISC
-
--DOCSTART- O
-
+. O
 Dancemania I-MISC
 is O
 a O
@@ -30771,7 +29421,6 @@ Toshiba-EMI I-ORG
 in O
 Japan I-LOC
 . O
-
 The O
 series O
 deals O
@@ -30816,9 +29465,7 @@ public O
 for O
 free O
 . O
-
--DOCSTART- O
-
+. O
 Daniel I-PER
 Near I-PER
 ( O
@@ -30831,7 +29478,6 @@ Ontario I-LOC
 political O
 figure O
 . O
-
 He O
 represented O
 Welland I-LOC
@@ -30850,7 +29496,6 @@ a O
 Liberal I-ORG
 member O
 . O
-
 He O
 was O
 born O
@@ -30871,7 +29516,6 @@ grew O
 up O
 there O
 . O
-
 He O
 married O
 Elizabeth I-PER
@@ -30893,7 +29537,6 @@ first O
 wife O
 died O
 . O
-
 He O
 served O
 five O
@@ -30911,9 +29554,7 @@ of O
 the O
 peace O
 . O
-
--DOCSTART- O
-
+. O
 Daniel I-PER
 Claudiu I-PER
 Prodan I-PER
@@ -30930,7 +29571,6 @@ Romanian I-MISC
 soccer O
 defender O
 . O
-
 He O
 was O
 born O
@@ -30948,7 +29588,6 @@ Bucureşti I-ORG
 in O
 1992 O
 . O
-
 Prodan I-PER
 won O
 five O
@@ -30964,7 +29603,6 @@ play O
 in O
 Spain I-LOC
 . O
-
 From O
 1998 O
 to O
@@ -30988,7 +29626,6 @@ serious O
 knee O
 injury O
 . O
-
 Prodan I-PER
 got O
 54 O
@@ -31016,7 +29653,6 @@ and O
 Euro I-MISC
 1996 I-MISC
 . O
-
 He O
 scored O
 one O
@@ -31028,9 +29664,7 @@ Slovakia I-LOC
 in O
 1994 O
 . O
-
--DOCSTART- O
-
+. O
 Daniel I-PER
 Segal I-PER
 is O
@@ -31049,7 +29683,6 @@ University I-ORG
 of I-ORG
 Oxford I-ORG
 . O
-
 He O
 specialises O
 in O
@@ -31058,7 +29691,6 @@ and O
 group O
 theory O
 . O
-
 He O
 originally O
 studied O
@@ -31092,7 +29724,6 @@ on O
 group O
 theory O
 . O
-
 He O
 is O
 currently O
@@ -31110,7 +29741,6 @@ he O
 is O
 sub-warden O
 . O
-
 His O
 postgraduate O
 students O
@@ -31123,9 +29753,7 @@ and O
 Geoff I-PER
 Smith I-PER
 . O
-
--DOCSTART- O
-
+. O
 Darkness I-MISC
 Death I-MISC
 Doom I-MISC
@@ -31136,7 +29764,6 @@ album O
 by O
 Runemagick I-ORG
 . O
-
 It O
 was O
 released O
@@ -31146,7 +29773,6 @@ on O
 Aftermath I-ORG
 Records I-ORG
 . O
-
 A O
 limited O
 edition O
@@ -31159,9 +29785,7 @@ titled O
 The I-MISC
 Pentagram I-MISC
 . O
-
--DOCSTART- O
-
+. O
 Dark I-ORG
 Room I-ORG
 Notes I-ORG
@@ -31178,7 +29802,6 @@ Dublin I-LOC
 , O
 Ireland I-LOC
 . O
-
 The O
 three O
 founding O
@@ -31199,7 +29822,6 @@ hail O
 from O
 Galway I-LOC
 . O
-
 Later O
 members O
 Arran I-PER
@@ -31219,7 +29841,6 @@ comes O
 from O
 Dublin I-LOC
 . O
-
 The O
 band O
 's O
@@ -31241,7 +29862,6 @@ introverted O
 lyrical O
 sensibility O
 . O
-
 According O
 to O
 Village I-ORG
@@ -31270,7 +29890,6 @@ or O
 Joy I-ORG
 Division I-ORG
 . O
-
 While O
 the O
 comparisons O
@@ -31314,7 +29933,6 @@ and O
 filmmakers O
 " O
 . O
-
 Dark I-ORG
 Room I-ORG
 Notes I-ORG
@@ -31330,7 +29948,6 @@ Shanahan I-PER
 in O
 2006 O
 . O
-
 They O
 performed O
 their O
@@ -31342,7 +29959,6 @@ in O
 December O
 2006 O
 . O
-
 With O
 the O
 release O
@@ -31410,7 +30026,6 @@ Thursday O
 October O
 18 O
 . O
-
 The O
 band O
 were O
@@ -31431,7 +30046,6 @@ show O
 Other I-MISC
 Voices I-MISC
 . O
-
 Producers O
 already O
 working O
@@ -31444,15 +30058,11 @@ and O
 Tom I-PER
 Rixton I-PER
 . O
-
 Current O
 members O
-
 Former O
 members O
-
--DOCSTART- O
-
+. O
 DATECS I-ORG
 Ltd. I-ORG
 , O
@@ -31479,7 +30089,6 @@ Academy I-ORG
 of I-ORG
 Sciences I-ORG
 . O
-
 The O
 start O
 was O
@@ -31528,7 +30137,6 @@ Type I-MISC
 in O
 1992 O
 . O
-
 During O
 1996 O
 , O
@@ -31556,7 +30164,6 @@ Security I-ORG
 and I-ORG
 Cooperation I-ORG
 . O
-
 In O
 1997 O
 , O
@@ -31578,7 +30185,6 @@ product O
 Flex I-MISC
 Word I-MISC
 . O
-
 In O
 cooperation O
 with O
@@ -31593,7 +30199,6 @@ systems O
 in O
 1994 O
 . O
-
 Two O
 , O
 Samsung I-ORG
@@ -31616,7 +30221,6 @@ them O
 for O
 networking O
 . O
-
 The O
 company O
 produced O
@@ -31649,7 +30253,6 @@ a O
 year O
 later O
 . O
-
 In O
 only O
 a O
@@ -31687,7 +30290,6 @@ and I-LOC
 Eastern I-LOC
 Europe I-LOC
 . O
-
 During O
 the O
 next O
@@ -31749,9 +30351,7 @@ new O
 program O
 products O
 . O
-
--DOCSTART- O
-
+. O
 David I-PER
 W. I-PER
 Snoke I-PER
@@ -31772,7 +30372,6 @@ Physics I-ORG
 and I-ORG
 Astronomy I-ORG
 . O
-
 In O
 2006 O
 he O
@@ -31806,7 +30405,6 @@ semiconductor O
 systems O
 . O
 " O
-
 In O
 2004 O
 he O
@@ -31822,7 +30420,6 @@ proponent O
 Michael I-PER
 Behe I-PER
 . O
-
 Snoke I-PER
 received O
 his O
@@ -31837,7 +30434,6 @@ Illinois I-ORG
 at O
 Urbana-Champaign I-LOC
 . O
-
 He O
 has O
 worked O
@@ -31858,7 +30454,6 @@ Max I-ORG
 Planck I-ORG
 Institute I-ORG
 . O
-
 His O
 research O
 has O
@@ -31900,7 +30495,6 @@ excitons O
 and O
 polaritons O
 . O
-
 His O
 research O
 group O
@@ -31932,7 +30526,6 @@ Bose-Einstein O
 condensation O
 experiments O
 . O
-
 His O
 book O
 , O
@@ -32019,7 +30612,6 @@ modern O
 science O
 . O
 " O
-
 Snoke I-PER
 was O
 elected O
@@ -32033,7 +30625,6 @@ Affiliation I-ORG
 in O
 2006 O
 . O
-
 In O
 2004 O
 co-authored O
@@ -32070,7 +30661,6 @@ received O
 widespread O
 criticism O
 . O
-
 Behe I-PER
 has O
 stated O
@@ -32102,7 +30692,6 @@ evolution O
 to O
 succeed O
 . O
-
 Michael I-PER
 Lynch I-PER
 authored O
@@ -32116,7 +30705,6 @@ and O
 Snoke I-PER
 responded O
 . O
-
 Protein I-ORG
 Science I-ORG
 discussed O
@@ -32126,7 +30714,6 @@ in O
 an O
 editorial O
 . O
-
 On O
 May O
 7 O
@@ -32152,7 +30739,6 @@ Kansas I-LOC
 evolution O
 hearings O
 . O
-
 At O
 the O
 Kitzmiller I-PER
@@ -32182,7 +30768,6 @@ supporting O
 intelligent O
 design O
 . O
-
 In O
 his O
 ruling O
@@ -32209,7 +30794,6 @@ complexity O
 or O
 ID O
 . O
-
 In O
 fact O
 , O
@@ -32253,9 +30837,7 @@ were O
 used O
 . O
 " O
-
--DOCSTART- O
-
+. O
 Davis I-LOC
 Gym I-LOC
 is O
@@ -32274,7 +30856,6 @@ Lewisburg I-LOC
 , O
 Pennsylvania I-LOC
 . O
-
 It O
 was O
 the O
@@ -32294,7 +30875,6 @@ opened O
 in O
 2003 O
 . O
-
 It O
 hosted O
 the O
@@ -32309,7 +30889,6 @@ game O
 in O
 1993 O
 . O
-
 Davis I-LOC
 Gym I-LOC
 could O
@@ -32318,9 +30897,7 @@ around O
 1,100 O
 people O
 . O
-
--DOCSTART- O
-
+. O
 The O
 Defamation I-ORG
 Action I-ORG
@@ -32360,7 +30937,6 @@ by O
 Ed I-PER
 Magedson I-PER
 . O
-
 The O
 Defamation I-ORG
 Action I-ORG
@@ -32376,7 +30952,6 @@ fighting O
 online O
 defamation O
 . O
-
 However O
 , O
 the O
@@ -32392,7 +30967,6 @@ further O
 its O
 aims O
 . O
-
 The O
 Defamation I-ORG
 Action I-ORG
@@ -32461,7 +31035,6 @@ engaged O
 in O
 pedophilia O
 . O
-
 In O
 return O
 Magedson I-PER
@@ -32471,7 +31044,6 @@ lawsuit O
 under O
 RICO I-MISC
 . O
-
 June O
 21 O
 , O
@@ -32485,7 +31057,6 @@ DefamationAction.com I-MISC
 and O
 ComplaintRemover.com I-MISC
 . O
-
 Stanley I-PER
 and O
 cohorts O
@@ -32499,9 +31070,7 @@ making O
 death O
 threats O
 . O
-
--DOCSTART- O
-
+. O
 Delwyn I-PER
 J. I-PER
 Langejans I-PER
@@ -32511,7 +31080,6 @@ innovative O
 American I-MISC
 luthier O
 . O
-
 He O
 handcrafts O
 everything O
@@ -32523,7 +31091,6 @@ to O
 harp O
 guitars O
 . O
-
 A O
 descendant O
 of O
@@ -32571,7 +31138,6 @@ Jars I-ORG
 of I-ORG
 Clay I-ORG
 . O
-
 His O
 father O
 being O
@@ -32589,7 +31155,6 @@ early O
 in O
 life O
 . O
-
 While O
 in O
 school O
@@ -32608,7 +31173,6 @@ love O
 of O
 music O
 . O
-
 During O
 his O
 time O
@@ -32633,7 +31197,6 @@ and O
 guitar O
 talents O
 . O
-
 After O
 his O
 naval O
@@ -32662,7 +31225,6 @@ repair O
 and O
 electronics O
 . O
-
 In O
 1971 O
 , O
@@ -32682,7 +31244,6 @@ the O
 name O
 Del's I-MISC
 . O
-
 He O
 has O
 made O
@@ -32713,7 +31274,6 @@ genre O
 of O
 music O
 . O
-
 The O
 Langejans I-MISC
 Dualette I-MISC
@@ -32730,7 +31290,6 @@ for O
 Thom I-PER
 Bresh I-PER
 . O
-
 On O
 one O
 side O
@@ -32746,7 +31305,6 @@ is O
 a O
 nylon-string O
 . O
-
 The O
 harp O
 guitar O
@@ -32764,7 +31322,6 @@ Finger-picker O
 Muriel I-PER
 Anderson I-PER
 . O
-
 Langejans I-PER
 also O
 makes O
@@ -32776,7 +31333,6 @@ standard O
 type O
 models O
 . O
-
 At O
 one O
 point O
@@ -32800,7 +31356,6 @@ a O
 Langejans I-PER
 guitar O
 . O
-
 The O
 standard O
 production O
@@ -32810,9 +31365,7 @@ generally O
 one O
 year O
 . O
-
--DOCSTART- O
-
+. O
 The O
 Department I-ORG
 of I-ORG
@@ -32837,7 +31390,6 @@ Mines I-ORG
 and I-ORG
 Water I-ORG
 . O
-
 The O
 name O
 change O
@@ -32858,7 +31410,6 @@ the O
 current O
 drought O
 . O
-
 Although O
 the O
 name O
@@ -32894,9 +31445,7 @@ Qld I-LOC
 ) O
 ) O
 . O
-
--DOCSTART- O
-
+. O
 I I-PER
 Dewa I-PER
 Gede I-PER
@@ -32922,7 +31471,6 @@ songwriter O
 and O
 composer O
 . O
-
 He O
 is O
 the O
@@ -32935,7 +31483,6 @@ the O
 band O
 Gigi I-ORG
 . O
-
 Budjana I-PER
 's O
 style O
@@ -32966,7 +31513,6 @@ and O
 Weather I-ORG
 Report I-ORG
 . O
-
 In O
 his O
 early O
@@ -32988,7 +31534,6 @@ the O
 local O
 community O
 . O
-
 Throughout O
 his O
 musical O
@@ -33013,7 +31558,6 @@ and O
 Abdee I-PER
 Negara I-PER
 . O
-
 His O
 ability O
 to O
@@ -33030,7 +31574,6 @@ top O
 Indonesian I-MISC
 guitarists O
 . O
-
 Budjana I-PER
 's O
 passion O
@@ -33058,7 +31601,6 @@ Klungkung I-LOC
 , O
 Bali I-LOC
 . O
-
 Budjana I-PER
 's O
 first O
@@ -33071,7 +31613,6 @@ who O
 lived O
 nearby O
 . O
-
 He O
 stole O
 money O
@@ -33099,7 +31640,6 @@ playing O
 rock O
 songs O
 . O
-
 He O
 became O
 more O
@@ -33139,7 +31679,6 @@ of O
 music O
 performances O
 . O
-
 After O
 graduation O
 , O
@@ -33155,7 +31694,6 @@ as O
 professional O
 musician O
 . O
-
 While O
 there O
 , O
@@ -33184,7 +31722,6 @@ philosophy O
 of O
 jazz O
 . O
-
 In O
 1976 O
 , O
@@ -33207,7 +31744,6 @@ world O
 in O
 Surabaya I-LOC
 . O
-
 Later O
 , O
 in O
@@ -33236,7 +31772,6 @@ many O
 different O
 people O
 . O
-
 Slowly O
 , O
 his O
@@ -33289,7 +31824,6 @@ and O
 Allan I-PER
 Holdsworth I-PER
 . O
-
 In O
 1980 O
 , O
@@ -33308,7 +31842,6 @@ schoolmates O
 in O
 Surabaya I-LOC
 . O
-
 Squirrel I-ORG
 participated O
 in O
@@ -33333,7 +31866,6 @@ TIM I-LOC
 , O
 Indonesia I-LOC
 . O
-
 Though O
 many O
 contestants O
@@ -33353,7 +31885,6 @@ competition O
 and O
 won O
 . O
-
 One O
 year O
 after O
@@ -33373,7 +31904,6 @@ his O
 music O
 career O
 . O
-
 This O
 journey O
 lead O
@@ -33395,7 +31925,6 @@ other O
 professional O
 musicians O
 . O
-
 Although O
 Jack I-PER
 provided O
@@ -33421,7 +31950,6 @@ a O
 session O
 player O
 . O
-
 A O
 few O
 years O
@@ -33442,7 +31970,6 @@ Gigi I-ORG
 former O
 guitarist O
 . O
-
 With O
 Budjana I-PER
 , O
@@ -33464,7 +31991,6 @@ joined O
 Java I-ORG
 Jazz I-ORG
 . O
-
 He O
 also O
 sat O
@@ -33511,7 +32037,6 @@ Haag I-LOC
 the O
 Netherlands I-LOC
 . O
-
 His O
 current O
 band O
@@ -33543,7 +32068,6 @@ Ronald I-PER
 drum O
 ) O
 . O
-
 Since O
 then O
 , O
@@ -33553,7 +32077,6 @@ released O
 six O
 albums O
 . O
-
 He O
 has O
 also O
@@ -33583,7 +32106,6 @@ December O
 tsunami O
 victims O
 . O
-
 Since O
 Dewa I-PER
 Budjana I-PER
@@ -33618,7 +32140,6 @@ SG O
 series O
 instead O
 . O
-
 Budjana I-PER
 also O
 owns O
@@ -33644,7 +32165,6 @@ the O
 CD O
 cover O
 . O
-
 For O
 his O
 rig O
@@ -33670,9 +32190,7 @@ Line O
 Ax2 O
 212 O
 . O
-
--DOCSTART- O
-
+. O
 Diego I-PER
 Silang I-PER
 y I-PER
@@ -33699,7 +32217,6 @@ father O
 was O
 Pangasinense I-MISC
 . O
-
 He O
 was O
 a O
@@ -33725,7 +32242,6 @@ independent O
 Ilocano I-MISC
 nation O
 . O
-
 His O
 revolt O
 was O
@@ -33779,7 +32295,6 @@ trained O
 Ilocano I-MISC
 officials O
 . O
-
 Born O
 in O
 Aringay I-LOC
@@ -33814,7 +32329,6 @@ Vigan I-LOC
 Ilocos I-LOC
 Sur I-LOC
 . O
-
 Bright O
 , O
 passionate O
@@ -33850,7 +32364,6 @@ seeds O
 of O
 rebellion O
 . O
-
 Spain I-LOC
 allied O
 with O
@@ -33865,7 +32378,6 @@ against O
 Great I-LOC
 Britain I-LOC
 . O
-
 In O
 so O
 doing O
@@ -33879,7 +32391,6 @@ the O
 Spanish I-LOC
 Empire I-LOC
 . O
-
 British I-MISC
 naval O
 forces O
@@ -33908,7 +32419,6 @@ anti-Spanish I-MISC
 sentiments O
 festered O
 . O
-
 While O
 Silang I-PER
 initially O
@@ -33958,7 +32468,6 @@ Silang I-PER
 's O
 call O
 . O
-
 Silang I-PER
 's O
 group O
@@ -33970,7 +32479,6 @@ imprisoned O
 its O
 priests O
 . O
-
 He O
 then O
 began O
@@ -33995,14 +32503,12 @@ him O
 military O
 reinforcement O
 . O
-
 The O
 British I-MISC
 force O
 never O
 materialized O
 . O
-
 He O
 was O
 killed O
@@ -34028,7 +32534,6 @@ to O
 assassinate O
 him O
 . O
-
 After O
 Diego I-PER
 Silang I-PER
@@ -34049,7 +32554,6 @@ and O
 fought O
 courageously O
 . O
-
 A O
 strong O
 force O
@@ -34058,7 +32562,6 @@ sent O
 against O
 her O
 . O
-
 She O
 was O
 forced O
@@ -34067,7 +32570,6 @@ retreat O
 to O
 Abra I-LOC
 . O
-
 Riding O
 a O
 fast O
@@ -34086,7 +32588,6 @@ was O
 driven O
 back O
 . O
-
 She O
 fled O
 again O
@@ -34098,7 +32599,6 @@ she O
 was O
 captured O
 . O
-
 On O
 September O
 20 O
@@ -34117,9 +32617,7 @@ the O
 Spanish I-MISC
 authorities O
 . O
-
--DOCSTART- O
-
+. O
 Digby I-LOC
 --- I-LOC
 Annapolis I-LOC
@@ -34146,7 +32644,6 @@ House I-ORG
 of I-ORG
 Assembly I-ORG
 . O
-
 The O
 Member O
 of O
@@ -34170,9 +32667,7 @@ of O
 Nova I-LOC
 Scotia I-LOC
 . O
-
--DOCSTART- O
-
+. O
 Digilogue I-MISC
 is O
 a O
@@ -34196,7 +32691,6 @@ group O
 zoviet*france I-ORG
 : O
 . O
-
 It O
 was O
 first O
@@ -34221,7 +32715,6 @@ label O
 Soleilmoon I-ORG
 Recordings I-ORG
 . O
-
 Subsequently O
 , O
 a O
@@ -34239,7 +32732,6 @@ with O
 additional O
 tracks O
 . O
-
 The O
 album O
 's O
@@ -34271,7 +32763,6 @@ in O
 sound O
 recording O
 . O
-
 The O
 group O
 have O
@@ -34317,7 +32808,6 @@ fucks O
 it O
 up O
 . O
-
 Since O
 indeterminacy O
 as O
@@ -34343,7 +32833,6 @@ interesting O
 new O
 developments O
 . O
-
 digilogue O
 was O
 recorded O
@@ -34370,7 +32859,6 @@ damaged O
 hi-fi O
 speakers O
 . O
-
 Sound O
 can O
 be O
@@ -34388,7 +32876,6 @@ with O
 our O
 senses O
 . O
-
 This O
 is O
 just O
@@ -34421,7 +32908,6 @@ equipment O
 manufacturers O
 . O
 " O
-
 " O
 We O
 were O
@@ -34439,7 +32925,6 @@ very O
 analogue O
 way O
 . O
-
 We O
 were O
 using O
@@ -34455,7 +32940,6 @@ coarse O
 way O
 . O
 " O
-
 Amber I-MISC
 , O
 from O
@@ -34490,12 +32974,9 @@ UK I-LOC
 2003 O
 ) O
 . O
-
 1996 O
 edition O
-
--DOCSTART- O
-
+. O
 Distance I-ORG
 Records I-ORG
 is O
@@ -34506,7 +32987,6 @@ music O
 record O
 label O
 . O
-
 Specialised O
 in O
 ambient O
@@ -34518,7 +32998,6 @@ house O
 and O
 techno O
 . O
-
 This O
 label O
 has O
@@ -34533,9 +33012,7 @@ offline O
 in O
 2004 O
 . O
-
--DOCSTART- O
-
+. O
 The O
 island O
 of O
@@ -34563,7 +33040,6 @@ Goa I-LOC
 , O
 India I-LOC
 . O
-
 It O
 is O
 located O
@@ -34582,7 +33058,6 @@ approachable O
 by O
 ferry O
 . O
-
 The O
 Island O
 is O
@@ -34612,7 +33087,6 @@ all O
 by O
 ferry O
 . O
-
 A O
 launch O
 also O
@@ -34633,7 +33107,6 @@ village O
 of O
 Vanxim I-LOC
 . O
-
 The O
 Konkan I-LOC
 Railway I-LOC
@@ -34655,7 +33128,6 @@ station O
 at O
 Karmali I-LOC
 . O
-
 The O
 drive O
 to O
@@ -34681,7 +33153,6 @@ the O
 Goan I-MISC
 countryside O
 . O
-
 Though O
 in O
 a O
@@ -34704,7 +33175,6 @@ overrun O
 with O
 weeds O
 . O
-
 The O
 Island I-LOC
 of I-LOC
@@ -34734,7 +33204,6 @@ Dwarkeshwar I-PER
 besides O
 others O
 . O
-
 These O
 were O
 irreversibly O
@@ -34754,7 +33223,6 @@ Christianisation O
 of O
 Goa I-LOC
 . O
-
 The O
 ancient O
 site O
@@ -34774,7 +33242,6 @@ Konkani I-MISC
 even O
 today O
 . O
-
 Rui I-PER
 Gomez I-PER
 Pereira I-PER
@@ -34809,7 +33276,6 @@ of O
 Kadamba I-PER
 dynasty O
 . O
-
 Shree I-PER
 Saptakoteshwar I-PER
 was O
@@ -34820,7 +33286,6 @@ of O
 the O
 Kadambas I-PER
 . O
-
 It O
 was O
 destroyed O
@@ -34856,7 +33321,6 @@ the O
 same O
 century O
 . O
-
 It O
 was O
 again O
@@ -34868,7 +33332,6 @@ in O
 1540 O
 . O
 " O
-
 The O
 Saptakoteshwar I-PER
 idol O
@@ -34888,7 +33351,6 @@ by O
 the O
 Portuguese I-MISC
 . O
-
 The O
 present O
 temple O
@@ -34906,7 +33368,6 @@ Great O
 Maratha I-MISC
 leader O
 . O
-
 A O
 Jesuit I-MISC
 priest O
@@ -34944,7 +33405,6 @@ early O
 17th O
 century O
 . O
-
 Fr. O
 Sousa I-PER
 testifies O
@@ -35013,7 +33473,6 @@ relocated O
 in O
 Bicholim I-LOC
 . O
-
 And O
 on O
 the O
@@ -35047,7 +33506,6 @@ Cande I-PER
 laria I-PER
 . O
 " O
-
 The O
 original O
 inhabitants O
@@ -35079,7 +33537,6 @@ of O
 Old I-LOC
 Goa I-LOC
 . O
-
 Piedade I-LOC
 , O
 a O
@@ -35107,7 +33564,6 @@ Lady I-ORG
 of I-ORG
 Compassion I-ORG
 . O
-
 The O
 island O
 is O
@@ -35120,7 +33576,6 @@ elegant O
 Portuguese I-MISC
 villas O
 . O
-
 From O
 the O
 top O
@@ -35161,7 +33616,6 @@ can O
 be O
 seen O
 . O
-
 The O
 famous O
 Bonderam I-MISC
@@ -35191,7 +33645,6 @@ tourists O
 and O
 locals O
 . O
-
 Bonderam I-MISC
 Festival I-MISC
 : O
@@ -35218,7 +33671,6 @@ resolving O
 the O
 disputes O
 . O
-
 The O
 villagers O
 on O
@@ -35241,7 +33693,6 @@ of O
 their O
 lands O
 . O
-
 To O
 stop O
 the O
@@ -35256,7 +33707,6 @@ at O
 the O
 boundaries O
 . O
-
 The O
 villagers O
 did O
@@ -35265,7 +33715,6 @@ like O
 this O
 system O
 . O
-
 So O
 they O
 protested O
@@ -35279,7 +33728,6 @@ at O
 the O
 flags O
 . O
-
 On O
 this O
 day O
@@ -35289,7 +33737,6 @@ ambience O
 is O
 created O
 . O
-
 Each O
 section O
 of O
@@ -35302,7 +33749,6 @@ at O
 the O
 parade O
 . O
-
 Melodious O
 music O
 could O
@@ -35312,7 +33758,6 @@ throughout O
 the O
 village O
 . O
-
 The O
 gaily O
 colored O
@@ -35327,7 +33772,6 @@ a O
 pretty O
 picture O
 . O
-
 The O
 huge O
 bell O
@@ -35385,7 +33829,6 @@ his O
 vessel O
 touched O
 . O
-
 It O
 so O
 happened O
@@ -35395,7 +33838,6 @@ island O
 was O
 Divar I-LOC
 . O
-
 In O
 keeping O
 with O
@@ -35420,7 +33862,6 @@ a O
 high O
 hillock O
 . O
-
 Unfortunately O
 though O
 , O
@@ -35462,9 +33903,7 @@ the O
 Se I-ORG
 Cathedral I-ORG
 . O
-
--DOCSTART- O
-
+. O
 Dorothea I-PER
 von I-PER
 Schlegel I-PER
@@ -35489,7 +33928,6 @@ novelist O
 and O
 translator O
 . O
-
 Dorothea I-PER
 von I-PER
 Schlegel I-PER
@@ -35502,7 +33940,6 @@ Berlin I-LOC
 [1 O
 ] O
 . O
-
 Oldest O
 daughter O
 of O
@@ -35522,7 +33959,6 @@ Enlightenment I-MISC
 Aufklarung O
 ) O
 . O
-
 She O
 married O
 the O
@@ -35534,7 +33970,6 @@ Veit I-PER
 in O
 1783 O
 . O
-
 Their O
 son O
 , O
@@ -35569,7 +34004,6 @@ the O
 Pre-Raphaelite I-ORG
 Brotherhood I-ORG
 . O
-
 She O
 met O
 the O
@@ -35595,14 +34029,12 @@ left O
 her O
 husband O
 . O
-
 They O
 were O
 divorced O
 in O
 1799 O
 . O
-
 She O
 obtained O
 custody O
@@ -35638,7 +34070,6 @@ brothers O
 and O
 Novalis I-PER
 . O
-
 Schlegel I-PER
 's O
 novel O
@@ -35665,7 +34096,6 @@ German I-MISC
 literary O
 circles O
 . O
-
 In O
 1801 O
 her O
@@ -35679,7 +34109,6 @@ anonymously O
 by O
 Schlegel I-PER
 . O
-
 They O
 lived O
 in O
@@ -35698,7 +34127,6 @@ married O
 as O
 Protestants I-MISC
 . O
-
 In O
 1807lt O
 she O
@@ -35714,7 +34142,6 @@ from O
 the O
 French I-MISC
 . O
-
 In O
 1808 O
 , O
@@ -35725,7 +34152,6 @@ converted O
 to O
 Catholicism I-MISC
 . O
-
 ( O
 She O
 may O
@@ -35749,7 +34175,6 @@ Catholic I-MISC
 hymns O
 ) O
 . O
-
 They O
 continued O
 to O
@@ -35774,7 +34199,6 @@ Madame I-PER
 de I-PER
 Staë I-PER
 . O
-
 Friedrich I-PER
 died O
 in O
@@ -35789,7 +34213,6 @@ Frankfurt I-LOC
 am I-LOC
 Main I-LOC
 . O
-
 There O
 , O
 she O
@@ -35815,7 +34238,6 @@ death O
 in O
 1839 O
 . O
-
 Since O
 she O
 was O
@@ -35881,7 +34303,6 @@ philosophers O
 of O
 Europe I-LOC
 . O
-
 Gotthold I-PER
 Ephraim I-PER
 Lessing I-PER
@@ -35913,7 +34334,6 @@ of O
 their O
 work O
 . O
-
 ( O
 Mendelssohn I-PER
 was O
@@ -35933,7 +34353,6 @@ same O
 name O
 . O
 ) O
-
 Friedrich I-PER
 the I-PER
 Great I-PER
@@ -35955,7 +34374,6 @@ Mendelssohn I-PER
 as O
 well O
 . O
-
 Dorothea I-PER
 's O
 brother O
@@ -35978,7 +34396,6 @@ naturalist O
 and O
 ethnologist O
 . O
-
 Her O
 nephew O
 was O
@@ -36007,7 +34424,6 @@ as O
 child O
 prodigies O
 . O
-
 To O
 fully O
 appreciate O
@@ -36047,7 +34463,6 @@ Novalis I-PER
 and O
 others O
 . O
-
 Dorothea I-PER
 was O
 the O
@@ -36059,7 +34474,6 @@ among O
 them O
 all O
 . O
-
 Most O
 of O
 her O
@@ -36078,7 +34492,6 @@ only O
 in O
 German I-MISC
 . O
-
 And O
 there O
 , O
@@ -36098,7 +34511,6 @@ an O
 ambiguous O
 status O
 . O
-
 The O
 emancipation O
 of O
@@ -36130,7 +34542,6 @@ its O
 Nuremberg I-MISC
 Laws I-MISC
 . O
-
 For O
 some O
 Jews I-MISC
@@ -36180,7 +34591,6 @@ was O
 not O
 ) O
 . O
-
 Most O
 of O
 her O
@@ -36205,7 +34615,6 @@ Deists O
 and O
 materialists O
 . O
-
 Her O
 association O
 with O
@@ -36237,7 +34646,6 @@ husband O
 Friedrich I-PER
 Schlegel I-PER
 . O
-
 De I-PER
 Staë I-PER
 was O
@@ -36268,7 +34676,6 @@ the O
 French I-MISC
 Revolution I-MISC
 . O
-
 ( O
 See O
 Christopher I-PER
@@ -36282,7 +34689,6 @@ Age I-MISC
 . O
 " O
 ) O
-
 It O
 was O
 probably O
@@ -36311,7 +34717,6 @@ the O
 Swedish I-MISC
 court O
 . O
-
 [ O
 1 O
 ] O
@@ -36359,7 +34764,6 @@ wrote O
 the O
 Phaedon I-MISC
 . O
-
 ( O
 Alexander I-PER
 Altmann I-PER
@@ -36377,12 +34781,10 @@ Jubilaeumsausgabe I-LOC
 , O
 Bd O
 . O
-
 12,1 O
 , O
 S O
 . O
-
 43 O
 ; O
 letter O
@@ -36394,9 +34796,7 @@ May O
 1st O
 1764 O
 ) O
-
--DOCSTART- O
-
+. O
 Dreams I-MISC
 From I-MISC
 A I-MISC
@@ -36422,7 +34822,6 @@ years O
 and O
 2001 O
 . O
-
 Stylistically O
 , O
 the O
@@ -36436,7 +34835,6 @@ goth O
 and O
 electronica O
 . O
-
 In O
 addition O
 to O
@@ -36458,9 +34856,7 @@ Cities I-MISC
 in I-MISC
 Dust I-MISC
 . O
-
--DOCSTART- O
-
+. O
 Duane I-PER
 Bobick I-PER
 ( O
@@ -36505,7 +34901,6 @@ Pan I-MISC
 American I-MISC
 Games I-MISC
 . O
-
 He O
 fought O
 for O
@@ -36540,7 +34935,6 @@ highly O
 rated O
 era O
 . O
-
 Bobick I-PER
 's O
 younger O
@@ -36567,7 +34961,6 @@ crash O
 in O
 1977 O
 . O
-
 Six O
 foot O
 , O
@@ -36598,7 +34991,6 @@ in O
 the O
 1960s O
 . O
-
 A O
 tremendous O
 puncher O
@@ -36640,7 +35032,6 @@ Pan I-MISC
 American I-MISC
 Games I-MISC
 . O
-
 Bobick I-PER
 added O
 another O
@@ -36669,7 +35060,6 @@ the O
 Munich I-LOC
 Olympics I-MISC
 . O
-
 Bobick I-PER
 was O
 rated O
@@ -36696,7 +35086,6 @@ the O
 Olympic I-MISC
 trials O
 . O
-
 Despite O
 Bobick I-PER
 winning O
@@ -36717,7 +35106,6 @@ contest O
 was O
 stopped O
 . O
-
 Bobick I-PER
 trained O
 hard O
@@ -36738,7 +35126,6 @@ spring O
 , O
 1973 O
 . O
-
 Bobick I-PER
 trained O
 with O
@@ -36751,7 +35138,6 @@ legend O
 Joe I-PER
 Frazier I-PER
 . O
-
 Bobick I-PER
 's O
 first O
@@ -36761,7 +35147,6 @@ against O
 Tommy I-PER
 Burns I-PER
 . O
-
 He O
 sent O
 Burns I-PER
@@ -36778,7 +35163,6 @@ a O
 first-round O
 KO O
 . O
-
 Bobick I-PER
 had O
 14 O
@@ -36802,7 +35186,6 @@ contender O
 Manuel I-PER
 Ramos I-PER
 . O
-
 Bobick I-PER
 won O
 his O
@@ -36812,7 +35195,6 @@ fights O
 by O
 knockout O
 . O
-
 He O
 had O
 10 O
@@ -36830,7 +35212,6 @@ eight O
 by O
 KO O
 . O
-
 Knockout O
 wins O
 that O
@@ -36844,7 +35225,6 @@ champion O
 Mike I-PER
 Weaver I-PER
 . O
-
 He O
 also O
 decisioned O
@@ -36853,7 +35233,6 @@ boxer O
 Billy I-PER
 Daniels I-PER
 . O
-
 Bobick I-PER
 was O
 now O
@@ -36862,7 +35241,6 @@ with O
 23 O
 KOs O
 . O
-
 He O
 was O
 then O
@@ -36888,7 +35266,6 @@ then-declining O
 Jerry I-PER
 Quarry I-PER
 . O
-
 Frazier I-PER
 himself O
 was O
@@ -36903,7 +35280,6 @@ with O
 protege O
 Bobick I-PER
 . O
-
 Bobick I-PER
 gained O
 top-10 O
@@ -36922,7 +35298,6 @@ again O
 by O
 KO O
 . O
-
 He O
 was O
 now O
@@ -36944,7 +35319,6 @@ not O
 be O
 ignored O
 . O
-
 He O
 had O
 a O
@@ -36962,7 +35336,6 @@ fight O
 never O
 materialized O
 . O
-
 Instead O
 he O
 met O
@@ -36993,7 +35366,6 @@ with O
 two O
 KOs O
 . O
-
 Bobick I-PER
 had O
 now O
@@ -37009,7 +35381,6 @@ legitimate O
 title O
 threat O
 . O
-
 He O
 took O
 a O
@@ -37032,7 +35403,6 @@ in O
 May O
 1977 O
 . O
-
 The O
 two O
 punchers O
@@ -37042,7 +35412,6 @@ after O
 each O
 other O
 . O
-
 Norton I-PER
 connected O
 first O
@@ -37050,7 +35419,6 @@ and O
 very O
 hard O
 . O
-
 Following O
 up O
 on O
@@ -37073,7 +35441,6 @@ was O
 never O
 penalized O
 . O
-
 The O
 fight O
 lasted O
@@ -37086,7 +35453,6 @@ was O
 counted O
 out O
 . O
-
 Bobick I-PER
 was O
 widely O
@@ -37100,7 +35466,6 @@ dismissed O
 by O
 many O
 . O
-
 Saturday I-MISC
 Night I-MISC
 Live I-MISC
@@ -37123,7 +35488,6 @@ and O
 over O
 again O
 . O
-
 Despite O
 that O
 , O
@@ -37144,7 +35508,6 @@ with O
 Scott I-PER
 LeDoux I-PER
 . O
-
 He O
 finished O
 the O
@@ -37155,7 +35518,6 @@ with O
 36 O
 KO's O
 . O
-
 In O
 1978 O
 , O
@@ -37174,7 +35536,6 @@ second O
 KO O
 loss O
 . O
-
 He O
 fought O
 eight O
@@ -37191,7 +35552,6 @@ all O
 by O
 KO O
 . O
-
 He O
 was O
 looking O
@@ -37213,7 +35573,6 @@ beltholder O
 John I-PER
 Tate I-PER
 . O
-
 Another O
 KO O
 loss O
@@ -37229,7 +35588,6 @@ announcement O
 of O
 retirement O
 . O
-
 His O
 pro O
 record O
@@ -37245,7 +35603,6 @@ several O
 notable O
 contenders O
 . O
-
 All O
 four O
 of O
@@ -37256,7 +35613,6 @@ were O
 by O
 KO O
 . O
-
 Bobick I-PER
 returned O
 to O
@@ -37276,7 +35632,6 @@ him O
 in O
 1997 O
 . O
-
 After O
 that O
 he O
@@ -37297,7 +35652,6 @@ and O
 help O
 others O
 . O
-
 In O
 November O
 2006 O
@@ -37318,7 +35672,6 @@ Falls I-LOC
 , O
 Minnesota I-LOC
 . O
-
 Bobick I-PER
 also O
 tried O
@@ -37338,7 +35691,6 @@ boy I-MISC
 in O
 1979 O
 . O
-
 His O
 brother O
 Rodney I-PER
@@ -37352,9 +35704,7 @@ a O
 37-7 O
 record O
 . O
-
--DOCSTART- O
-
+. O
 A O
 Dutch-Australian I-MISC
 is O
@@ -37381,7 +35731,6 @@ the O
 Dutch I-MISC
 diaspora O
 . O
-
 The O
 history O
 of O
@@ -37416,7 +35765,6 @@ to O
 do O
 so O
 . O
-
 A O
 number O
 of O
@@ -37446,7 +35794,6 @@ with O
 Allied I-ORG
 forces O
 . O
-
 The O
 Netherlands I-LOC
 East I-LOC
@@ -37459,7 +35806,6 @@ during O
 the O
 war O
 . O
-
 Eleven O
 Free O
 Dutch I-MISC
@@ -37523,7 +35869,6 @@ before O
 the O
 war O
 . O
-
 No. I-ORG
 18 I-ORG
 later O
@@ -37542,7 +35887,6 @@ later O
 transferring O
 overseas O
 .. O
-
 Dutch I-MISC
 settlers O
 in O
@@ -37569,7 +35913,6 @@ it O
 achieved O
 independence O
 . O
-
 According O
 to O
 the O
@@ -37595,7 +35938,6 @@ with O
 another O
 ancestry O
 . O
-
 78,931 O
 persons O
 declared O
@@ -37606,9 +35948,7 @@ in O
 the O
 Netherlands I-LOC
 . O
-
--DOCSTART- O
-
+. O
 The O
 East I-ORG
 Germany I-ORG
@@ -37625,9 +35965,7 @@ the O
 East I-LOC
 Germany I-LOC
 . O
-
--DOCSTART- O
-
+. O
 Eberhard I-ORG
 Faber I-ORG
 GmbH I-ORG
@@ -37648,7 +35986,6 @@ a O
 pencil O
 factory O
 . O
-
 It O
 was O
 taken O
@@ -37665,7 +36002,6 @@ with O
 global O
 presence O
 . O
-
 Eberhard I-ORG
 Faber I-ORG
 is O
@@ -37674,7 +36010,6 @@ brand O
 of O
 pencils O
 . O
-
 Eberhard I-ORG
 Faber I-ORG
 's O
@@ -37707,7 +36042,6 @@ Paper I-ORG
 Mate I-ORG
 brand O
 . O
-
 Currently O
 , O
 Eberhard I-ORG
@@ -37741,7 +36075,6 @@ and O
 by O
 artists O
 . O
-
 Henry I-PER
 Eberhard I-PER
 Faber I-PER
@@ -37763,7 +36096,6 @@ in O
 Fahrenheit I-MISC
 451 I-MISC
 . O
-
 Count O
 Anton I-PER
 Wolfgang I-PER
@@ -37786,7 +36118,6 @@ March O
 2007 O
 issue O
 . O
-
 In O
 this O
 test O
@@ -37807,7 +36138,6 @@ not O
 one O
 broke O
 . O
-
 The O
 Count O
 boasts O
@@ -37827,7 +36157,6 @@ its O
 pinewood O
 sleeve O
 . O
-
 Descendant O
 Eberhard I-PER
 Faber I-PER
@@ -37843,16 +36172,13 @@ God I-ORG
 Street I-ORG
 Wine I-ORG
 . O
-
 The O
 VI I-PER
 was O
 born O
 9/23/06 O
 . O
-
--DOCSTART- O
-
+. O
 Eduard I-PER
 Hitzig I-PER
 ( O
@@ -37873,7 +36199,6 @@ neuropsychiatrist O
 from O
 Berlin I-LOC
 . O
-
 He O
 studied O
 medicine O
@@ -37882,7 +36207,6 @@ Berlin I-LOC
 and O
 Würzburg I-LOC
 . O
-
 He O
 had O
 as O
@@ -37920,7 +36244,6 @@ Westphal I-PER
 1833-1890 O
 ) O
 . O
-
 He O
 received O
 his O
@@ -37937,7 +36260,6 @@ Berlin I-LOC
 and O
 Würzburg I-LOC
 . O
-
 In O
 1875 O
 he O
@@ -37960,7 +36282,6 @@ University I-ORG
 of I-ORG
 Zurich I-ORG
 . O
-
 In O
 1885 O
 Hitzig I-PER
@@ -37982,7 +36303,6 @@ retirement O
 in O
 1903 O
 . O
-
 Hitzig I-PER
 is O
 remembered O
@@ -37999,7 +36319,6 @@ and O
 the O
 brain O
 . O
-
 In O
 1870 O
 , O
@@ -38030,7 +36349,6 @@ dog O
 without O
 anesthesia O
 . O
-
 They O
 performed O
 these O
@@ -38054,7 +36372,6 @@ in O
 their O
 laboratories O
 . O
-
 What O
 Hitzig I-PER
 and O
@@ -38084,7 +36401,6 @@ dog O
 's O
 body O
 . O
-
 They O
 identified O
 the O
@@ -38120,7 +36436,6 @@ in O
 the O
 body O
 . O
-
 In O
 1870 O
 Hitzig I-PER
@@ -38163,7 +36478,6 @@ and O
 electrical O
 current O
 . O
-
 However O
 this O
 was O
@@ -38206,7 +36520,6 @@ fractured O
 by O
 bullets O
 . O
-
 Hitzig I-PER
 noticed O
 that O
@@ -38226,7 +36539,6 @@ involuntary O
 muscular O
 movement O
 . O
-
 Apparently O
 Hitzig I-PER
 's O
@@ -38254,7 +36566,6 @@ brains O
 of O
 frogs O
 . O
-
 Hitzig I-PER
 and O
 Fritsch I-PER
@@ -38282,12 +36593,9 @@ neurologist O
 David I-PER
 Ferrier I-PER
 . O
-
 Google I-ORG
 Ask.com I-ORG
-
--DOCSTART- O
-
+. O
 Ein I-MISC
 Lied I-MISC
 von I-MISC
@@ -38329,7 +36637,6 @@ from O
 various O
 countries O
 . O
-
 Its O
 Hungarian I-MISC
 title O
@@ -38337,7 +36644,6 @@ is O
 Szomorú I-MISC
 Vasárnap I-MISC
 . O
-
 Although O
 the O
 movie O
@@ -38365,7 +36671,6 @@ War I-MISC
 II I-MISC
 Hungary I-LOC
 . O
-
 The O
 film O
 is O
@@ -38398,7 +36703,6 @@ song O
 Gloomy I-MISC
 Sunday I-MISC
 . O
-
 Starring O
 are O
 Joachim I-PER
@@ -38452,7 +36756,6 @@ SS I-ORG
 officer O
 ) O
 . O
-
 In O
 the O
 late O
@@ -38473,7 +36776,6 @@ in O
 his O
 restaurant O
 . O
-
 András I-PER
 falls O
 in O
@@ -38495,7 +36797,6 @@ his O
 only O
 composition O
 . O
-
 The O
 resulting O
 song O
@@ -38530,7 +36831,6 @@ chain O
 of O
 suicides O
 . O
-
 For O
 a O
 while O
@@ -38542,7 +36842,6 @@ with O
 both O
 men O
 . O
-
 The O
 German I-MISC
 businessman O
@@ -38568,7 +36867,6 @@ she O
 rejects O
 him O
 . O
-
 He O
 tries O
 to O
@@ -38590,7 +36888,6 @@ returns O
 to O
 Germany I-LOC
 . O
-
 After O
 a O
 few O
@@ -38603,7 +36900,6 @@ and O
 Hans I-PER
 returns O
 . O
-
 He O
 is O
 now O
@@ -38658,7 +36954,6 @@ goods O
 and O
 money O
 . O
-
 Ilona I-PER
 does O
 all O
@@ -38680,7 +36975,6 @@ his O
 past O
 rejection O
 . O
-
 Many O
 years O
 later O
@@ -38690,9 +36984,7 @@ each O
 other O
 again O
 ... O
-
--DOCSTART- O
-
+. O
 Electric I-LOC
 Avenue I-LOC
 in O
@@ -38713,7 +37005,6 @@ area O
 in O
 London I-LOC
 . O
-
 The O
 street O
 was O
@@ -38742,7 +37033,6 @@ and O
 Chinese I-MISC
 products O
 . O
-
 It O
 is O
 located O
@@ -38758,7 +37048,6 @@ station O
 1972 O
 ) O
 . O
-
 The O
 elegant O
 Victorian I-MISC
@@ -38771,7 +37060,6 @@ until O
 the O
 1980s O
 . O
-
 The O
 road O
 gave O
@@ -38784,7 +37072,6 @@ by O
 Eddy I-PER
 Grant I-PER
 . O
-
 In O
 April O
 1999 O
@@ -38830,7 +37117,6 @@ from O
 the O
 crowds O
 . O
-
 The O
 bomb O
 was O
@@ -38857,9 +37143,7 @@ and O
 gay O
 communities O
 . O
-
--DOCSTART- O
-
+. O
 Elias I-PER
 Howell I-PER
 ( O
@@ -38876,7 +37160,6 @@ Representative O
 from O
 Ohio I-LOC
 . O
-
 Born O
 in O
 New I-LOC
@@ -38898,7 +37181,6 @@ Newark I-LOC
 , O
 Ohio I-LOC
 . O
-
 He O
 was O
 a O
@@ -38934,7 +37216,6 @@ March O
 3 O
 1837 O
 . O
-
 He O
 was O
 not O
@@ -38952,7 +37233,6 @@ Ohio I-LOC
 in O
 1844 O
 . O
-
 Howell I-PER
 's O
 son O
@@ -38968,9 +37248,7 @@ Senator O
 from O
 Iowa I-LOC
 . O
-
--DOCSTART- O
-
+. O
 The O
 field O
 exploits O
@@ -39001,7 +37279,6 @@ thin O
 Bakken I-LOC
 Formation I-LOC
 . O
-
 At O
 Elm I-LOC
 Coulee I-LOC
@@ -39060,7 +37337,6 @@ of O
 the O
 basin O
 . O
-
 The O
 field O
 is O
@@ -39068,7 +37344,6 @@ a O
 stratigraphic O
 trap O
 . O
-
 In O
 2006 O
 , O
@@ -39089,7 +37364,6 @@ than O
 350 O
 wells O
 . O
-
 Ultimate O
 production O
 is O
@@ -39108,7 +37382,6 @@ as O
 500,000,000 O
 barrels O
 . O
-
 Production O
 at O
 Elm I-LOC
@@ -39126,9 +37399,7 @@ state O
 of O
 Montana I-LOC
 . O
-
--DOCSTART- O
-
+. O
 Emanuel I-PER
 Bunzel I-PER
 born O
@@ -39141,9 +37412,7 @@ century O
 Austrian I-MISC
 paleontologist O
 . O
-
--DOCSTART- O
-
+. O
 Emil I-PER
 Touma I-PER
 ( O
@@ -39163,7 +37432,6 @@ Israel I-LOC
 in O
 1948 O
 . O
-
 Touma I-PER
 , O
 like O
@@ -39187,7 +37455,6 @@ the O
 Haifa I-LOC
 region O
 . O
-
 In O
 1942 O
 , O
@@ -39220,7 +37487,6 @@ National I-ORG
 Liberation I-ORG
 League I-ORG
 . O
-
 The O
 Emil I-ORG
 Touma I-ORG
@@ -39233,9 +37499,7 @@ called O
 after O
 him O
 . O
-
--DOCSTART- O
-
+. O
 Ervenik I-LOC
 ( O
 Serbian I-MISC
@@ -39254,7 +37518,6 @@ County I-LOC
 , O
 Croatia I-LOC
 . O
-
 There O
 are O
 998 O
@@ -39269,9 +37532,7 @@ which O
 are O
 Serbs I-MISC
 . O
-
--DOCSTART- O
-
+. O
 Eugenio I-PER
 Calabi I-PER
 ( O
@@ -39303,7 +37564,6 @@ and O
 their O
 applications O
 . O
-
 Professor O
 Calabi I-PER
 was O
@@ -39318,7 +37578,6 @@ MIT I-ORG
 in O
 1946 O
 . O
-
 In O
 1950 O
 he O
@@ -39336,7 +37595,6 @@ was O
 Salomon I-PER
 Bochner I-PER
 . O
-
 He O
 later O
 obtained O
@@ -39348,7 +37606,6 @@ University I-ORG
 of I-ORG
 Minnesota I-ORG
 . O
-
 In O
 1964 O
 , O
@@ -39363,7 +37620,6 @@ University I-ORG
 of I-ORG
 Pennsylvania I-ORG
 . O
-
 Following O
 the O
 retirement O
@@ -39383,7 +37639,6 @@ the O
 Thomas I-PER
 A I-PER
 . O
-
 Scott I-PER
 Chair O
 of O
@@ -39396,7 +37651,6 @@ Pennsylvania I-ORG
 in O
 1967 O
 . O
-
 He O
 won O
 the O
@@ -39416,7 +37670,6 @@ in O
 differential O
 geometry O
 . O
-
 In O
 1994 O
 , O
@@ -39426,7 +37679,6 @@ assumed O
 emeritus O
 status O
 . O
-
 His O
 work O
 on O
@@ -39444,9 +37696,7 @@ of O
 Calabi-Yau O
 manifolds O
 . O
-
--DOCSTART- O
-
+. O
 Express I-MISC
 Nakhonphink I-MISC
 is O
@@ -39464,7 +37714,6 @@ Railway I-ORG
 of I-ORG
 Thailand I-ORG
 . O
-
 The O
 trains O
 designated O
@@ -39490,7 +37739,6 @@ Mai I-LOC
 - O
 Bangkok I-LOC
 . O
-
 These O
 trains O
 offer O
@@ -39507,7 +37755,6 @@ no O
 class O
 cars O
 . O
-
 The O
 Express I-MISC
 Nakhonphink I-MISC
@@ -39523,7 +37770,6 @@ by O
 the O
 SRT I-ORG
 . O
-
 Train O
 Number O
 1 O
@@ -39538,7 +37784,6 @@ the O
 departure O
 times O
 ) O
-
 Train O
 Number O
 2 O
@@ -39546,9 +37791,7 @@ Chiang I-LOC
 Mai I-LOC
 - O
 Bangkok I-LOC
-
--DOCSTART- O
-
+. O
 EZ2DJ I-MISC
 is O
 a O
@@ -39565,7 +37808,6 @@ Korean I-MISC
 company O
 Amuseworld I-ORG
 . O
-
 The O
 basic O
 manner O
@@ -39597,7 +37839,6 @@ music O
 and O
 gameplay O
 . O
-
 The O
 first O
 edition O
@@ -39628,7 +37869,6 @@ in O
 December O
 2007 O
 . O
-
 Ez2DJ I-MISC
 The I-MISC
 1st I-MISC
@@ -39638,7 +37878,6 @@ March O
 , O
 1999 O
 ) O
-
 Ez2DJ I-MISC
 The I-MISC
 1st I-MISC
@@ -39650,7 +37889,6 @@ December O
 , O
 1999 O
 ) O
-
 Ez2DJ I-MISC
 Dance I-MISC
 Edition I-MISC
@@ -39665,7 +37903,6 @@ Developing O
 rate O
 80% O
 . O
-
 Ez2DJ I-MISC
 2nd I-MISC
 TraX I-MISC
@@ -39680,7 +37917,6 @@ October O
 , O
 2000 O
 ) O
-
 Ez2DJ I-MISC
 3rd I-MISC
 TraX I-MISC
@@ -39693,7 +37929,6 @@ September O
 , O
 2001 O
 ) O
-
 Ez2DJ I-MISC
 4th I-MISC
 TraX I-MISC
@@ -39706,7 +37941,6 @@ August O
 , O
 2002 O
 ) O
-
 Ez2DJ I-MISC
 Platinum I-MISC
 - I-MISC
@@ -39718,7 +37952,6 @@ August O
 , O
 2003 O
 ) O
-
 Ez2DJ I-MISC
 6th I-MISC
 TraX I-MISC
@@ -39731,7 +37964,6 @@ August O
 , O
 2004 O
 ) O
-
 Ez2DJ I-MISC
 7th I-MISC
 TraX I-MISC
@@ -39743,7 +37975,6 @@ March O
 , O
 2007 O
 ) O
-
 Ez2DJ I-MISC
 7th I-MISC
 TraX I-MISC
@@ -39757,7 +37988,6 @@ December O
 , O
 2007 O
 ) O
-
 EZ2DJ I-MISC
 cabinet O
 features O
@@ -39767,7 +37997,6 @@ of O
 10 O
 speakers O
 . O
-
 There O
 are O
 four O
@@ -39793,7 +38022,6 @@ of O
 the O
 machine O
 . O
-
 The O
 cabinet O
 also O
@@ -39820,7 +38048,6 @@ game O
 's O
 audio O
 . O
-
 Using O
 headphones O
 does O
@@ -39830,7 +38057,6 @@ the O
 external O
 speakers O
 . O
-
 EZ2DJ I-MISC
 cabinet O
 features O
@@ -39848,7 +38074,6 @@ the O
 controller O
 part O
 . O
-
 However O
 , O
 unlike O
@@ -39895,7 +38120,6 @@ control O
 effector O
 buttons O
 . O
-
 Essentially O
 this O
 is O
@@ -39964,7 +38188,6 @@ the O
 pedal O
 ) O
 . O
-
 Also O
 , O
 another O
@@ -39998,7 +38221,6 @@ in O
 the O
 game O
 . O
-
 The O
 pedal O
 is O
@@ -40013,7 +38235,6 @@ a O
 gameplay O
 button O
 . O
-
 But O
 , O
 in O
@@ -40027,7 +38248,6 @@ as O
 speed O
 adjustor O
 . O
-
 EZ2DJ I-MISC
 's O
 passing O
@@ -40066,7 +38286,6 @@ many O
 dance-simulation O
 games O
 . O
-
 Written O
 by O
 Erin I-PER
@@ -40080,10 +38299,8 @@ AHRISA I-PER
 ( O
 07/01/08 O
 ) O
-
 1 O
 . O
-
 Some O
 old O
 songs O
@@ -40115,10 +38332,8 @@ so O
 on O
 ... O
 ) O
-
 2 O
 . O
-
 ' O
 Let I-MISC
 it I-MISC
@@ -40130,7 +38345,6 @@ Do I-MISC
 you I-MISC
 remember I-MISC
 ? I-MISC
-
 ' O
 , O
 ' O
@@ -40144,10 +38358,8 @@ playable O
 remixed O
 version O
 . O
-
 3 O
 . O
-
 ' O
 Freedom I-MISC
 ' O
@@ -40162,10 +38374,8 @@ sampling O
 sound O
 problem O
 . O
-
 4 O
 . O
-
 ' O
 BOB I-MISC
 ' O
@@ -40196,10 +38406,8 @@ Copyright O
 Problem O
 ) O
 . O
-
 4 O
 . O
-
 Confete I-MISC
 is O
 composed O
@@ -40216,16 +38424,12 @@ is O
 singer O
 ) O
 . O
-
 5 O
 . O
-
 Same O
 Composer O
-
 6 O
 . O
-
 Secret O
 of O
 Songs O
@@ -40235,15 +38439,12 @@ Name O
 Original O
 name O
 ) O
-
 7 O
 . O
-
 Songs O
 just O
 in O
 OST O
-
 ( O
 1 O
 ) O
@@ -40252,19 +38453,16 @@ Tracks I-MISC
 / O
 1st I-MISC
 SE I-MISC
-
 ( O
 2 O
 ) O
 2nd I-MISC
 TraX I-MISC
-
 ( O
 3 O
 ) O
 3rd I-MISC
 TraX I-MISC
-
 OST O
 Albums O
 of O
@@ -40274,7 +38472,6 @@ were O
 not O
 produced O
 . O
-
 On O
 July O
 10 O
@@ -40290,7 +38487,6 @@ against O
 Amuse I-ORG
 World I-ORG
 . O
-
 Konami I-ORG
 had O
 originally O
@@ -40327,7 +38523,6 @@ of O
 the O
 title O
 . O
-
 A O
 Korean I-MISC
 Judge O
@@ -40349,7 +38544,6 @@ the O
 product O
 completely O
 . O
-
 Amuseworld I-ORG
 in O
 satisfaction O
@@ -40359,9 +38553,7 @@ KONAMI I-ORG
 Billion O
 won O
 . O
-
--DOCSTART- O
-
+. O
 The O
 Fairfax I-ORG
 Connector I-ORG
@@ -40385,7 +38577,6 @@ Transport I-ORG
 under O
 contract O
 . O
-
 The O
 first O
 buses O
@@ -40411,7 +38602,6 @@ Area I-ORG
 Transit I-ORG
 Authority I-ORG
 . O
-
 The O
 original O
 routes O
@@ -40438,7 +38628,6 @@ which O
 borders O
 Alexandria I-LOC
 . O
-
 This O
 area O
 continues O
@@ -40474,7 +38663,6 @@ of O
 the O
 day O
 . O
-
 The O
 Fairfax I-ORG
 Connector I-ORG
@@ -40498,7 +38686,6 @@ of O
 the O
 county O
 . O
-
 In O
 1994 O
 , O
@@ -40528,7 +38715,6 @@ Dulles I-ORG
 International I-ORG
 Airport I-ORG
 . O
-
 Along O
 State I-LOC
 Route I-LOC
@@ -40554,7 +38740,6 @@ Washington I-LOC
 Metro I-LOC
 system O
 . O
-
 Fares O
 are O
 paid O
@@ -40580,7 +38765,6 @@ flash O
 " O
 pass O
 . O
-
 Fairfax I-ORG
 Connector I-ORG
 deployed O
@@ -40606,7 +38790,6 @@ to O
 Fairfax I-LOC
 County I-LOC
 . O
-
 Base O
 fare O
 is O
@@ -40624,7 +38807,6 @@ for O
 express O
 routes O
 . O
-
 With O
 a O
 Metrorail I-LOC
@@ -40649,7 +38831,6 @@ for O
 $3 O
 fares O
 . O
-
 Senior O
 citizens O
 receive O
@@ -40673,7 +38854,6 @@ a O
 Metrorail I-LOC
 transfer O
 . O
-
 Children O
 under O
 age O
@@ -40687,7 +38867,6 @@ on O
 all O
 routes O
 . O
-
 The O
 following O
 are O
@@ -40705,9 +38884,7 @@ Connector I-ORG
 bus O
 system O
 . O
-
--DOCSTART- O
-
+. O
 Fairmont I-ORG
 State I-ORG
 University I-ORG
@@ -40726,7 +38903,6 @@ population O
 19,097 O
 ) O
 . O
-
 Fairmont I-ORG
 State I-ORG
 was O
@@ -40747,7 +38923,6 @@ to O
 educating O
 teachers O
 . O
-
 It O
 was O
 purchased O
@@ -40763,7 +38938,6 @@ School I-ORG
 in O
 1867 O
 . O
-
 It O
 was O
 renamed O
@@ -40780,7 +38954,6 @@ College I-ORG
 in O
 1943 O
 . O
-
 In O
 1974 O
 , O
@@ -40791,7 +38964,6 @@ component O
 was O
 founded O
 . O
-
 This O
 became O
 independently O
@@ -40823,7 +38995,6 @@ Community I-ORG
 Technical I-ORG
 College I-ORG
 . O
-
 On O
 April O
 7 O
@@ -40848,7 +39019,6 @@ Fairmont I-ORG
 State I-ORG
 University I-ORG
 . O
-
 Enrollment O
 of O
 the O
@@ -40857,7 +39027,6 @@ is O
 about O
 7,700 O
 . O
-
 FSU I-ORG
 offers O
 masters O
@@ -40883,7 +39052,6 @@ and O
 associate O
 degrees O
 . O
-
 FSU I-ORG
 has O
 added O
@@ -40900,7 +39068,6 @@ past O
 few O
 years O
 . O
-
 This O
 major O
 has O
@@ -40918,7 +39085,6 @@ the O
 Intelligence O
 Community O
 . O
-
 The O
 Robert I-ORG
 C. I-ORG
@@ -40941,7 +39107,6 @@ programs O
 in O
 aviation O
 . O
-
 Fairmont I-ORG
 State I-ORG
 's O
@@ -40966,9 +39131,7 @@ NCAA I-ORG
 Division I-ORG
 II I-ORG
 . O
-
--DOCSTART- O
-
+. O
 A O
 list O
 of O
@@ -40977,9 +39140,7 @@ by O
 Justin I-PER
 Broadrick I-PER
 . O
-
--DOCSTART- O
-
+. O
 Oleg I-PER
 Mikhaylovich I-PER
 Gazmanov I-PER
@@ -40988,6 +39149,4 @@ a O
 Russian I-MISC
 singer O
 . O
-
--DOCSTART- O
-
+. O
