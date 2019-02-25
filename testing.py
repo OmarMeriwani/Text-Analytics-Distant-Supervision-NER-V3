@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import csv
-import nltk
+
 def StringCaseStatus(sent):
     sent = str(sent)
     count = 0
@@ -18,29 +18,25 @@ def StringCaseStatus(sent):
         return 1
     else:
         return 0
-textdata = open('wikigold.conll.txt', 'r')
-tokens = textdata.read().split(' ')
+
+df = pd.read_csv('wikigoldPOS.csv')
 previousWordPOS = ''
 IsFirstUpperCase = False
 WordEnding = ['.','\n','\n\r' ]
 IsPreviousUpperCase = False
 previousWord = ''
-df = pd.DataFrame(columns=['word','CaseStatus','PrevWord','iob'])
+df = pd.DataFrame(columns=['word','pos','prevPOS','PrevWord','iob','VectorCount','PrevIOB','CaseStatus'])
 seq = 1
-for i in tokens:
+for i in df:
     CaseStatus = 0
-
-    if i != None and i != ' ' and i != '\n':
-        i = i.rstrip('\r\n')
-        splittedword = i.split('|')
-        word = splittedword[0]
-        iob = splittedword[1]
-        EndOfStringBefore = previousWord in WordEnding
-        if EndOfStringBefore == False:
-            CaseStatus = StringCaseStatus(word)
-        df.loc[seq]=[word,CaseStatus,previousWordPOS,previousWord,iob,0]
-        previousWord = word
-        IsPreviousUpperCase = CaseStatus
+    word = i[1]
+    iob = splittedword[1]
+    EndOfStringBefore = previousWord in WordEnding
+    if EndOfStringBefore == False:
+        CaseStatus = StringCaseStatus(word)
+    df.loc[seq]=[word,CaseStatus,previousWordPOS,previousWord,iob,0]
+    previousWord = word
+    IsPreviousUpperCase = CaseStatus
 #tagged_tokens = nltk.pos_tag(word_list)
 '''
 with open('TestDS.csv', mode='w') as csvfile:
