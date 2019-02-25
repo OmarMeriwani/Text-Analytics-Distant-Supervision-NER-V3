@@ -7,7 +7,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import confusion_matrix
 import itertools
 from sklearn.model_selection import KFold, cross_val_score
-import seaborn as sns
+import seaborn.apionly as sns
 from sklearn.naive_bayes import GaussianNB
 from sklearn import metrics
 import matplotlib.pyplot as plt
@@ -83,8 +83,12 @@ df.drop(df.columns[0],axis=1,inplace=True)
 #df.drop(df.columns[4], axis=1,inplace=False)
 print(df[2:20])
 
-X = df[[2,3,5,6,8]]
-Y = df[7]
+data = sns.load(df)
+data.hist(by=5,column = 6)
+plt.savefig('Vector-Histogram.png')
+
+X = df[[2,3,7,6,8]]
+Y = df[5]
 
 print(X[:10])
 print(Y[:10])
@@ -94,6 +98,7 @@ gnb = GaussianNB()
 gnb.fit(x_train,y_train)
 y_pred = gnb.predict(x_test)
 print("NAIVE BAYES Accuracy:",metrics.accuracy_score(y_test, y_pred))
+
 
 svmm = SVC(gamma='auto',random_state=100)
 svmm.fit(x_train,y_train)
