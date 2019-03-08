@@ -60,48 +60,52 @@ for i in range(0,len(df)):
         if categories[j] in df.at[i,5]:
             df.iat(i, 5, categories2[j])
 '''
-print(len(df))
+#print(len(df))
 df = df[df[5].isin(categories2)]
 df = df[df[7].isin(categories2)]
-print(len(df))
+#print(len(df))
 #df.drop(df.index[df[5] != 'I-PER'], inplace = True)
 #df.dropna()
 df[2] = le.fit_transform(df[2])
 le_name_mapping = dict(zip(le.classes_, le.transform(le.classes_)))
-print(le_name_mapping)
+#print(le_name_mapping)
 df[3] = le.fit_transform(df[3].astype(str))
 le_name_mapping = dict(zip(le.classes_, le.transform(le.classes_)))
-print(le_name_mapping)
+#print(le_name_mapping)
 df[5] = le.fit_transform(df[5].astype(str))
 le_name_mapping = dict(zip(le.classes_, le.transform(le.classes_)))
-print(le_name_mapping)
+#print(le_name_mapping)
 df[7] = le.fit_transform(df[7].astype(str))
 le_name_mapping = dict(zip(le.classes_, le.transform(le.classes_)))
-print(le_name_mapping)
+#print(le_name_mapping)
 df.drop(df.columns[4],axis=1,inplace=True)
 df.drop(df.columns[0],axis=1,inplace=True)
 #df.drop(df.columns[4], axis=1,inplace=False)
-print(df[2:20])
+#print(df[2:20])
 
-data = sns.load(df)
-data.hist(by=5,column = 6)
-plt.savefig('Vector-Histogram.png')
+#data = sns.load(df)
+#data.hist(by=5,column = 6)
+#plt.savefig('Vector-Histogram.png')
 
 X = df[[2,3,7,6,8]]
 Y = df[5]
 
-print(X[:10])
-print(Y[:10])
+#print(X[:10])
+#print(Y[:10])
 x_train,x_test,y_train,y_test = train_test_split(X,Y, test_size=0.3, random_state=100)
 
 gnb = GaussianNB()
 gnb.fit(x_train,y_train)
 y_pred = gnb.predict(x_test)
-print("NAIVE BAYES Accuracy:",metrics.accuracy_score(y_test, y_pred))
+#print("NAIVE BAYES Accuracy:",metrics.accuracy_score(y_test, y_pred))
 
 
-svmm = SVC(gamma='auto',random_state=100)
-svmm.fit(x_train,y_train)
+#svmm = SVC(gamma='auto',random_state=100)
+#svmm.fit(x_train,y_train)
+pkl_file = open('SVMModel.sav', 'rb')
+svmm = pickle.load(pkl_file)
+
+#svmm = pickle.load('SVMModel.sav')
 #pickle.dump(svmm,open('SVMModel.sav','wb'))
 y_pred2 = svmm.predict(x_test)
 #pickle.dump(svmm, 'svmmodel.sav')
